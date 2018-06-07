@@ -1,6 +1,10 @@
 ---
-layout: page
+layout: post-index
+permalink: /previous_work/
 title: Previous Work
+tagline: Previous Work
+tags: [previous_work]
+comments: false
 ---
 
 
