@@ -3,8 +3,15 @@
 <!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
 <!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+
 <head>
 {% include _head.html %}
+
+<style type="text/css">
+  .article-wrap img{border-radius: 5px;}
+  figure{text-align: center;}
+</style>
+
 </head>
 
 <body class="page">
@@ -21,7 +28,7 @@
     {% elsif page.image.feature contains 'https://' %}
       "{{ page.image.feature }}"
     {% else %}
-      "{{ site.url }}/images/{{ page.image.feature }}"
+      "{{ site.url }}{{ page.image.feature }}"
     {% endif %}
   alt="{{ page.title }} feature image">
   {% if page.image.credit %}
@@ -30,20 +37,29 @@
   </div><!-- /.image-wrap -->
 {% endif %}
 
+
 <div id="main" role="main">
   <div class="article-author-side">
     {% include _author-bio.html %}
   </div>
   <article>
     <h1>{{ page.title }}</h1>
+	
     <div class="article-wrap">
       {{ content }}
-    </div><!-- /.article-wrap -->
+	  <!--
+      <a class="twitter-timeline" href="https://twitter.com/jponttuset" data-widget-id="338001751854686210">Tuits de @jponttuset</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+	  -->
+    </div>
+
     {% if site.disqus_shortname and page.comments %}
-      <section id="disqus_thread"></section><!-- /#disqus_thread -->
+      <section id="disqus_thread"></section>
     {% endif %}
+
   </article>
-</div><!-- /#index -->
+</div>
+
 
 <div class="footer-wrap">
   <footer>
@@ -51,7 +67,7 @@
   </footer>
 </div><!-- /.footer-wrap -->
 
-{% include _scripts.html %}          
+{% include _scripts.html %}
 
 </body>
 </html>
