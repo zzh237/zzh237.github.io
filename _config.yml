@@ -28,7 +28,8 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - Curriculum: "CV.pdf"
+  - title: Curriculum 
+    "CV.pdf"
   - title: Previous Work
     url: /previous_work/
   - title: Blog

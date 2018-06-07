@@ -67,5 +67,4 @@ and applied bootstrap aggregation with multiple residual neural networks [<a hre
 </figure>
 <figure>
 <img src="sample_predictions.png" alt="The Pulpit Rock" width="304" height="180">
-
-
+</figure>
