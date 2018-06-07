@@ -4,7 +4,7 @@ title: Zach Zhang
 description: "Zach Zhang's Website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: /images/website_images/Optimized-website_teaser.jpg
+  feature: /images/website_images/Optimized-website_arches.jpg
 ---
 
 <br />
