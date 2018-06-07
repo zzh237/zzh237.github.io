@@ -1,5 +1,5 @@
-# --- General options --- #
-
+title:            Zach Zhang's Website
+description:      Welcome to my site.
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
@@ -7,29 +7,61 @@
 url: "http://zzh237.github.io"
 baseurl: ""
 
-# If you are building a GitHub project page then use these settings:
-#url: "http://username.github.io/projectname"
+# If you are building a GitHub project page then use these settings:#url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
+owner:
+  name:           Zach Zhang
+  avatar:         /author_images/zz.jpg
+  bio:            Machine Learning, Artificial Intelligence, Data Science, Intelligent Agriculture. On the Move.
+  email:          zhizhang5763@gmail.com
+  # Social networking links are used in author-bio sidebar. Update and remove as you like.
 
-# Name of website
-title: Zach Zhang
+  twitter: 
+  linkedin: lei-mao
+  google_scholar: R2VUf7YAAAAJ
+  google_plus: 
+  github: zzh237
+  facebook: 
+# Analytics and webmaster tools stuff goes here
+# google_analytics: UA-105680508-1
+# google_verify: KFWZJ6GsxCUxQRDDrkkQJ2jgRDVUdgUbTMXXltDss84
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
 
-# Short description of your site
-description: Personal Homepage
 
-# --- Navigation bar options --- #
 
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: Curriculum
+    url: /cv/
+  - title: Blog
+    url: /blog/
+  - title: Articles
+    url: /articles/
+  - title: Projects
+    url: /projects/
+  - title: Readings
+    url: /readings/
+  - title: Publications
+    url: /publications/
+  - title: Miscellaneous
+    url: /miscellaneous/
+#  - title: Tools
+#    url: /tools/
+#  - title: Following
+#    url: /following/
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+# --- Navigation bar options --- #  
 # List of links in the navigation bar
-navbar-links:
+navbar-links: 
   Home: "index"
   Previous Work: "previous work"
   Resume: "CV.pdf"
 
-# Image to show in the navigation bar - image must be a square (width = height)
-# Remove this parameter if you don't want an image in the navbar
-avatar: "/img/zz.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -98,14 +130,38 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "China/Shanghai"
-markdown: kramdown
+timezone:    America/Chicago
+future:      true
+#pygments:    true
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+markdown:    kramdown
 paginate: 5
-
 kramdown:
   input: GFM
+  extensions: ["strikethrough"]
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title/
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+  coderay:
+    coderay_line_numbers:
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+
+# MathJax
+mathjax: true
+
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
