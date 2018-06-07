@@ -29,7 +29,7 @@ bing_verify:
 # For external links add external: true
 links:
   - title: Curriculum 
-    "CV.pdf"
+    url: /cv/
   - title: Previous Work
     url: /previous_work/
   - title: Blog
