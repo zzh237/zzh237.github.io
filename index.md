@@ -11,7 +11,7 @@ image:
 
 <div class = "titled-image">
 <figure class = "titled-image">
-    <img src = "{{ site.url }}/images/author_images/Zach-Zhang-Yellowstone.jpg">
+    <img src = "{{ site.url }}/images/author_images/Zach-Zhang-Yellowstone.jpg" width="189" height="252">
     <figcaption>Zach Zhang at Yellowstone in 2017</figcaption>
 </figure>
 </div>
