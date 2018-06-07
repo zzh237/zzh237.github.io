@@ -37,7 +37,7 @@ links:
   - title: Articles
     #url: /articles/
   - title: Projects
-    url: /projects/
+    #url: /projects/
   - title: Readings
     url: /readings/
   - title: Publications
