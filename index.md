@@ -80,11 +80,11 @@ I computed probability of a feature vector xx in each of the five Bayesian netwo
 and explored prediction performance. 
 
 <figure>
-  <img src="src="/images/projects/bn-chowliu/cm.png"" width="350" height="330">  
+  <img src="src="/images/projects/bn-chowliu/cm.png" width="350" height="330">  
   <figcaption> confusion matrix</figcaption>
 </figure>
 <figure>
-  <img src="src="/images/projects/bn-chowliu/res.png"" width="400" height="420">  
+  <img src="src="/images/projects/bn-chowliu/res.png" width="400" height="420">  
   <figcaption> incorrect predicted photo </figcaption>
 </figure>
 
