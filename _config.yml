@@ -32,17 +32,17 @@ links:
     url: /cv/
   - title: Previous Work
     url: /previous_work/
-  - title: Blog
+  #- title: Blog
     #url: /blog/
-  - title: Articles
+  #- title: Articles
     #url: /articles/
-  - title: Projects
+  #- title: Projects
     #url: /projects/
   - title: Readings
     url: /readings/
-  - title: Publications
+  #- title: Publications
     #url: /publications/
-  - title: Miscellaneous
+  #- title: Miscellaneous
     #url: /miscellaneous/
 #  - title: Tools
 #    url: /tools/
