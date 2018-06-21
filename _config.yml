@@ -30,8 +30,8 @@ bing_verify:
 links:
   - title: Curriculum 
     url: /cv/
-  - title: Previous Work
-    url: /previous_work/
+  - title: Other Work
+    url: /other_work/
   #- title: Blog
     #url: /blog/
   #- title: Articles
