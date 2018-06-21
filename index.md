@@ -46,13 +46,13 @@ to embed the algorithms into the system of device for seamlessly device running 
 <b>ASP.NET web service</b> to communicate data between device, database, and algorithm development platform (such as python, tensorflow, Matlab, R)<a href="https://github.com/zzh237/SeLux">(github).</a>
 
 <figure>
-  <img src="/images/projects/selux/Capture0.PNG" width="324" height="200">
+  <img src="/images/projects/selux/Capture0.PNG" width="524" height="350">
 </figure>
 <figure>
-  <img src="/images/projects/selux/Capture.PNG" width="324" height="200">
+  <img src="/images/projects/selux/Capture.PNG" width="424" height="300">
 </figure>
 <figure>
-  <img src="/images/projects/selux/Capture2.PNG" width="324" height="200">  
+  <img src="/images/projects/selux/Capture2.PNG" width="424" height="300">  
 </figure>
 
 #### Machine Learning course projects: 
