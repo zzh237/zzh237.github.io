@@ -61,6 +61,20 @@ Activity classification using MHI: In class project, I classified different huma
 using the motion history image stack to represent the video data, performed background subtraction, motion history images moments calculation, 
 and applied different classifiers to train the image moments, then predicated the human behavior from real-world video [<a href ="https://drive.google.com/open?id=1bePGRlxUlnrkpv3T5gDZI4h4d5zAr9bv">PDF</a>].  
 
+<figure>
+  <img src="src="/images/projects/mhi/mhi.png" width="700" height="400">  
+  <figcaption> motion history images</figcaption>
+</figure>
+<figure>
+  <img src="src="/images/projects/mhi/pred.png" width="700" height="400">  
+  <figcaption> capture of real moving prediction </figcaption>
+</figure>
+<figure>
+  <img src="src="/images/projects/mhi/cm.png" width="400" height="420">  
+  <figcaption> confusion matrix </figcaption>
+</figure>
+
+
 <br />
 
 <br />
