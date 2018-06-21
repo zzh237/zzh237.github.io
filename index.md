@@ -32,6 +32,12 @@ and deep learning LSTM</b>) to do different predication, such as minimum antibio
 to embed the algorithms into the system of device for seamlessly device running and <b>algorithm training, testing, and web-visualization</b> using the <b>multi-threads pipe</b> and 
 <b>ASP.NET web service</b> to communicate data between device, database, and algorithm development platform (such as python, tensorflow, Matlab, R)<a href="https://github.com/zzh237/SeLux">(github).</a>
 
+<figure>
+  <img src="/images/Capture.PNG" width="304" height="180">
+</figure>
+<figure>
+  <img src="/images/Capture2.PNG" width="304" height="180">  
+</figure>
 
 ### Career Goal
 
