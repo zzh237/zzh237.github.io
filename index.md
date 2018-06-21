@@ -46,13 +46,13 @@ to embed the algorithms into the system of device for seamlessly device running 
 <b>ASP.NET web service</b> to communicate data between device, database, and algorithm development platform (such as python, tensorflow, Matlab, R)<a href="https://github.com/zzh237/SeLux">(github).</a>
 
 <figure>
-  <img src="/images/Capture0.PNG" width="324" height="200">
+  <img src="/images/projects/selux/Capture0.PNG" width="324" height="200">
 </figure>
 <figure>
-  <img src="/images/Capture.PNG" width="324" height="200">
+  <img src="/images/projects/selux/Capture.PNG" width="324" height="200">
 </figure>
 <figure>
-  <img src="/images/Capture2.PNG" width="324" height="200">  
+  <img src="/images/projects/selux/Capture2.PNG" width="324" height="200">  
 </figure>
 
 #### Machine Learning course projects: 
@@ -67,15 +67,15 @@ using the motion history image stack to represent the video data, performed back
 and applied different classifiers to train the image moments, then predicated the human behavior from real-world video [<a href ="https://drive.google.com/open?id=1bePGRlxUlnrkpv3T5gDZI4h4d5zAr9bv">PDF</a>].  
 
 <figure>
-  <img src="src="/images/projects/mhi/mhi.png" width="700" height="400">  
+  <img src="/images/projects/mhi/mhi.png" width="700" height="400">  
   <figcaption> motion history images</figcaption>
 </figure>
 <figure>
-  <img src="src="/images/projects/mhi/pred.png" width="700" height="400">  
+  <img src="/images/projects/mhi/pred.png" width="700" height="400">  
   <figcaption> capture of real moving prediction </figcaption>
 </figure>
 <figure>
-  <img src="src="/images/projects/mhi/cm.png" width="400" height="420">  
+  <img src="/images/projects/mhi/cm.png" width="400" height="420">  
   <figcaption> confusion matrix </figcaption>
 </figure>
 
@@ -99,11 +99,11 @@ I computed probability of a feature vector xx in each of the five Bayesian netwo
 and explored prediction performance. 
 
 <figure>
-  <img src="src="/images/projects/bn-chowliu/cm.png" width="350" height="330">  
+  <img src="/images/projects/bn-chowliu/cm.png" width="350" height="330">  
   <figcaption> confusion matrix</figcaption>
 </figure>
 <figure>
-  <img src="src="/images/projects/bn-chowliu/res.png" width="400" height="420">  
+  <img src="/images/projects/bn-chowliu/res.png" width="400" height="420">  
   <figcaption> incorrect predicted photo </figcaption>
 </figure>
 
@@ -126,14 +126,14 @@ and applied bootstrap aggregation with multiple residual neural networks [<a hre
 I implemented Deep Q-networks using tensorflow to solve the LunarLander problem in the OpenGym AI. Three different techniques were applied to improve the performance of deep Q-Networks, which are <a href ="https://arxiv.org/pdf/1509.06461.pdf">double deep Q-Networks</a>, 
 <a href ="https://arxiv.org/pdf/1511.06581.pdf">dueling deep Q-Networks</a>, and <a href ="https://arxiv.org/pdf/1511.05952.pdf">prioritized experience replay</a>. The scores per episode were compared [<a href ="https://drive.google.com/open?id=1sDkJUoM2ZCd9DocFZo8siLoN_U7iI32J">PDF</a>].     
 <figure>
-  <img src="algo_compare_per_ep.png" width="304" height="180">
+  <img src="/images/projects/lunarlander/algo_compare_per_ep.png" width="304" height="180">
 </figure>
 <figure>
-  <img src="episode_0.gif" width="304" height="180">  
+  <img src="/images/projects/lunarlander/episode_0.gif" width="304" height="180">  
   <figcaption> Episode 0 </figcaption>
 </figure>
 <figure>
-  <img src="episode_3000.gif" width="304" height="180">  
+  <img src="/images/projects/lunarlander/episode_3000.gif" width="304" height="180">  
   <figcaption> Episode 5000 </figcaption>
 </figure>
 
