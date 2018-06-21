@@ -23,7 +23,7 @@ My name is Zach Zhang, a MS CS student in Georgia Tech. My specialization is <b>
 
 <br />
 
-Before that, I was a full time Data Scientist for <a href="http://www.seluxdx.com/">SeLux Diagnostics Inc</a>, a biotechnology company, where the team were building 
+I am also a full time Data Scientist for <a href="http://www.seluxdx.com/">SeLux Diagnostics Inc</a>, a biotechnology company, where the team were building 
 the next generation high throughput FDA required antibiotic susceptibility testing (“AST”) device for clinical labs to run AST test for infectious disease efficiently
 and precisely. Quite amount of data were generated from bio-experiments, chemical-experiments, device running, patient samples, I used <b>OOP</b> to capture those information 
 from various objects such as physical device parameter, microbiological plates incubation result, chemical reagents fluorescence value, bacterial genra, 
@@ -64,4 +64,19 @@ and applied bootstrap aggregation with multiple residual neural networks [<a hre
 </figure>
 <figure>
 <img src="sample_predictions.png" alt="The Pulpit Rock" width="304" height="180">
+</figure>
+
+<br />
+
+Deep Q-Networks:
+I implemented Deep Q-networks using tensorflow to solve the LunarLander problem in the OpenGym AI. Three different techniques were applied to improve the performance of deep Q-Networks, which are <a href ="https://arxiv.org/pdf/1509.06461.pdf">double deep Q-Networks</a>, 
+<a href ="https://arxiv.org/pdf/1511.05952.pdf">dueling deep Q-Networks</a>, and <a href ="https://arxiv.org/pdf/1511.05952.pdf">prioritized experience replay</a>. The scores per episode were compared [<a href ="https://drive.google.com/open?id=1sDkJUoM2ZCd9DocFZo8siLoN_U7iI32J">PDF</a>].     
+<figure>
+  <img src="algo_compare_per_ep.png" width="304" height="180">  
+</figure>
+<figure>
+  <img src="episode_0.gif" width="304" height="180">  
+</figure>
+<figure>
+  <img src="episode_3000.gif" width="304" height="180">  
 </figure>
