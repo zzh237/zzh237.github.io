@@ -39,10 +39,10 @@ With the help from MOOC, I was able to quickly catch up. I have done a good numb
 I am also a full time Data Scientist for <a href="http://www.seluxdx.com/">SeLux Diagnostics Inc</a>, a biotechnology company, where the team were building 
 the next generation high throughput FDA required antibiotic susceptibility testing (“AST”) device for clinical labs to run AST test for infectious disease efficiently
 and precisely. Quite amount of data were generated from bio-experiments, chemical-experiments, device running, patient samples, I used <b>OOP</b> to capture those information 
-from various objects such as physical device parameter, microbiological plates incubation result, chemical reagents fluorescence value, bacterial genera, 
-drug concentration, patient record, then built their relationship, and then developed and applied machine learning algorithms (<b>Kernel Bayes, XGB, hmm, Bayes nets with Chow-Liu algorithm, conditional random fields, 
+from various objects such as physical device parameters, incubation results of microbiological plates, chemical reagents fluorescence value, bacterial genera, 
+drug concentration, patients' record, then investigated their relationship, and then developed and applied machine learning algorithms (<b>Kernel Bayes, XGB, hmm, Bayes nets with Chow-Liu tree, conditional random fields, 
 and deep learning LSTM</b>) to do different predication, such as minimum antibiotic susceptible concentration for different sample, and built a multi-functional software 
-to embed the algorithms into the system of device for seamlessly device running and <b>algorithm training, testing, and web-visualization</b> using the <b>multi-threads pipe</b> and 
+to embed the algorithms into the system of device for seamlessly backend device running and <b>algorithm training, testing, and frontend web-visualization</b> using the <b>multi-threads pipe</b> and 
 <b>ASP.NET web service</b> to communicate data between device, database, and algorithm development platform (such as python, tensorflow, Matlab, R)<a href="https://github.com/zzh237/SeLux">(github).</a>
 
 <figure>
@@ -52,7 +52,8 @@ to embed the algorithms into the system of device for seamlessly device running 
   <img src="/images/projects/selux/Capture.PNG" width="424" height="300">
 </figure>
 <figure>
-  <img src="/images/projects/selux/Capture2.PNG" width="424" height="300">  
+  <img src="/images/projects/selux/Capture2.PNG" width="424" height="300"> 
+  <figcaption> sample algorithm training results on web </figcaption>
 </figure>
 
 #### Machine Learning course projects: 
@@ -89,14 +90,13 @@ I collected data from instagram photos of five national parks. I then trained up
 <figure>
   <img src="/images/projects/bn-chowliu/intro.PNG" width="304" height="180">  
 </figure>
-Landmark occurs in both photos but not in the same position in the image. Further due to the opening in the arch, middle of the photo may be occupied by sky or rock. At best, treating pixels as feature we can analyze image in terms of color frequencies -- how intense are the red, green and blue channel.
+Landmark occurs in both photos but not in the same position in the image. Further due to the opening in the arch, middle of the photo may be occupied by sky or rock. At best, treating pixels as feature I can analyze image in terms of color frequencies -- how intense are the red, green and blue channel.
 
 Instead of using each pixel as a feature, I used features -- computed by a neural network -- which aggregate information about edges, shapes, and color intensities across the whole image to do prediction.
 I trained a prediction model which takes distilled representation of the photos, 1000 features per picture, and predicts where the photo was taken. 
 I modeled features in the dataset using Bayesian networks, one for each class -- natural park. I implement learning of the tree structure for each class using Chow-Liu algorithm, then
 I used the tree structure to learn parameters for conditional probabilities associated with edges in these trees, then 
-I computed probability of a feature vector xx in each of the five Bayesian networks, then I computed probabilities that the feature vector xx belongs to each class, then I made predictions based on probabilities (1pt)
-and explored prediction performance. 
+I computed probability of a feature vector xx in each of the five Bayesian networks, then I computed probabilities that the feature vector xx belongs to each class, then I made predictions based on probabilities and explored prediction performance. 
 
 <figure>
   <img src="/images/projects/bn-chowliu/cm.png" width="350" height="330">  
@@ -112,7 +112,7 @@ and explored prediction performance.
 Simulated Intelligent Robot Tracking Agent: in course project, I developed a naive intelligent agent to predict the future trajectory of a Nano robot’s dynamic moving position; 
 evaluated multiple training algorithms in Bayesian probabilistic model, linear-Gaussian model (Kalman Filters), sequential Monte Carlo simulation (particle filters), 
 residual learning model; reduced video data dimensionality by PCA; tuned residual neural network hyperparameters 
-and applied bootstrap aggregation with multiple residual neural networks [<a href ="https://drive.google.com/open?id=1h349nlaTj-p_aJAxRO1wWl6PvWtd7ose">PDF</a>].
+and applied bootstrap aggregation with multiple residual neural networks [<a href ="https://github.com/zzh237/cs8803-AI4R">Github</a>][<a href ="https://drive.google.com/open?id=1h349nlaTj-p_aJAxRO1wWl6PvWtd7ose">PDF</a>].
 <figure>
   <img src="/images/projects/ai4r/predictions_cropped.png" alt="The Pulpit Rock" width="304" height="180">  
 </figure>
@@ -148,7 +148,7 @@ and data visualization, built the algorithm training, testing and reporting soft
 <br/>
 
 #### HealthCare Analytics
-- I worked in Harvard Medical School and Brigham and Women's hospital division of clinical research in immunology, rheumatology, and pharmacoepidemiology for some projects related to <b>healthcare predicative modeling</b>, <b>NLP of doctor notes</b>, genome-wide association study <b>(GWAS)</b>, <b>EHR mining</b>, and developed tools and applications for scientists and doctors to easily store, processing, analyze and visualize data, with some paper produced, in 2015, 2016. 
+- I worked in Harvard Medical School and Brigham and Women's hospital division of clinical research in department of immunology, rheumatology, and pharmacoepidemiology for some projects related to <b>healthcare predicative modeling</b>, <b>NLP of doctor notes</b>, genome-wide association study <b>(GWAS)</b>, <b>EHR mining</b>, and developed tools and applications for scientists and doctors to easily store, processing, analyze and visualize data, with some paper produced, in 2015, 2016. 
    * Feldman, Candace H., Jamie Collins, <b>Zhi Zhang</b>, S. V. Subramanian, Daniel H. Solomon, Ichiro Kawachi, and Karen H. Costenbader. "Dynamic patterns and predictors of hydroxychloroquine nonadherence among medicaid beneficiaries with systemic lupus erythematosus." In Seminars in Arthritis and Rheumatism. WB Saunders, 2018. 
    * Lee YC, Bingham CO, Edwards RR, Marder W, Kristine P, Bolster MB, Clauw DJ, Moreland LW, Lu B, Wohlfahrt A, <b>Zhang Z.</b> Pain Sensitization is Associated with Disease Activity in Rheumatoid Arthritis Patients: A Cross‐Sectional Study. Arthritis care & research. 2017 Apr 24.
    * Kreps, David J., Florencia Halperin, Sonali P. Desai, <b>Zhi Z. Zhang</b>, Elena Losina, Amber T. Olson, Elizabeth W. Karlson, Bonnie L. Bermas, and Jeffrey A. Sparks. "Association of weight loss with improved disease activity in patients with rheumatoid arthritis: A retrospective analysis using electronic medical record data." International journal of clinical rheumatology 13, no. 1 (2018): 1.
@@ -157,10 +157,8 @@ and data visualization, built the algorithm training, testing and reporting soft
 <br/>
 
 #### Computational Biology
-- I was a Research Assistant in University of Kentucky UK bioinformatics microarray core facility, from 2011 – 2012, I used Microarray generated big genomic data to model the gene, RNA, protein regulatory pathway networks, applied PCA to do dimension reduction for expression data and I investigated the relationship between the gene expression networks and phenotype by statistical learning models
-- I was a research assistant for computational analysis of gene regulation, genetic variation, and the computational <b>algorithm based inference of genome-transcriptome-phenome association</b> of patients’ neural stem cell in Peking University School of Basic Medicine Stem Cell Center, and used the nurses’ 10 years <b>longitudinal</b> data and genomic data to generalize association and inference by <b>PCA</b> analysis and <b>Proportional hazards model</b> analysis 
+- I was a research assistant in University of Kentucky UK bioinformatics microarray core facility, from 2011 – 2012, I used Microarray generated big genomic data to model the gene, RNA, protein regulatory pathway networks, I applied PCA to do dimension reduction for expression data and I investigated the relationship between the gene expression networks and phenotype by statistical learning models
+- I was a research assistant for computational analysis of gene regulation, genetic variation, and the computational <b>algorithm based inference of genome-transcriptome-phenome association</b> of patients’ neural stem cell in Peking University School of Basic Medicine Stem Cell Center, and I used the nurses’ 10 years <b>longitudinal</b> data and genomic data to generalize association and inference by <b>PCA</b> analysis and <b>Proportional hazards model</b> analysis 
 in Fudan University School of Public Health, in 2009 and 2010.
-
-<br/>
 
 <br/>
