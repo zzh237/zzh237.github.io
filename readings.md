@@ -7,6 +7,19 @@ tags: [readings]
 comments: false
 ---
 
+#### Books
+- Pattern Recognition and Machine Learning[pdf]({{ site.url }}/downloads/readings/books/ML Pattern Recognition and Machine Learning.pdf)
+- Machine Learning-A Probabilistic Perspective[pdf]({{ site.url }}/downloads/readings/books/1510.09171.pdf)
+- Probabilistic Graphical Models[pdf]({{ site.url }}/downloads/readings/books/1510.09171.pdf)
+- [pdf]({{ site.url }}/downloads/readings/books/1510.09171.pdf)
+- Reinforcement Learning: An Introduction[pdf]({{ site.url }}/downloads/readings/books/1510.09171.pdf)
+- Introduction to Algorithms[pdf]({{ site.url }}/downloads/readings/books/1510.09171.pdf)
+- Artificial Intelligence A Modern Approach[pdf]({{ site.url }}/downloads/readings/books/1510.09171.pdf)
+- Computer Vision A Modern Approach[pdf]({{ site.url }}/downloads/readings/books/1510.09171.pdf)
+
+
+<br />
+
 {% for post in site.categories.reading %}
 
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
