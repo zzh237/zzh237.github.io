@@ -36,7 +36,7 @@ With the help from MOOC, I was able to quickly catch up. I have done a good numb
 ### Projects
 
 #### Data engineer, productional algorithm development and implementation, and data web visualization: 
-I am also a full time Data Scientist for <a href="http://www.seluxdx.com/">SeLux Diagnostics Inc</a>, a biotechnology company, where the team were building 
+I am a full time Data Scientist for <a href="http://www.seluxdx.com/">SeLux Diagnostics Inc</a>, a biotechnology company, where the team are building 
 the next generation high throughput FDA required antibiotic susceptibility testing (“AST”) device for clinical labs to run AST test for infectious disease efficiently
 and precisely. Quite amount of data were generated from bio-experiments, chemical-experiments, device running, patient samples, I used <b>OOP</b> to capture those information 
 from various objects such as physical device parameters, incubation results of microbiological plates, chemical reagents fluorescence value, bacterial genera, 
