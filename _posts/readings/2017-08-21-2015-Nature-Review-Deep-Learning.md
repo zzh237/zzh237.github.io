@@ -13,9 +13,6 @@ In 2015, Yann LeCun, Yoshua Bengio & Geoffrey Hinton, the three distinguished sc
 
 <br />
 
-The original paper could be downloaded [here](https://github.com/leimao/Deep_Learning_Papers/raw/master/Reviews/Nature_Deep_Learning_Review_2015/Nature_Deep_Learning_Review_2015.pdf), and my annotated paper could be download [here](https://github.com/leimao/Deep_Learning_Papers/raw/master/Reviews/Nature_Deep_Learning_Review_2015/Nature_Deep_Learning_Review_2015_annotated.pdf).
-
-<br />
 
 In general, it is a very well summarized review on deep learning, in particular convolutional neural network (CNN) and resursive neural network (RNN). The authors gave relative detailed application examples on object recognition and machine translation. Anyone who has some fundamental knowledge about deep learning should be able to understand without too much difficulties. This paper could also serve to refresh your mind on several key deep learning aspects.
 
