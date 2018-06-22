@@ -9,14 +9,14 @@ comments: false
 
 #### Books
 - Pattern Recognition and Machine Learning ([pdf]({{ site.url }}/downloads/readings/books/ML Pattern Recognition and Machine Learning.pdf))
-- Machine Learning-A Probabilistic Perspective[pdf]({{ site.url }}/downloads/readings/books/ML Machine Learning-A Probabilistic Perspective.pdf)
-- The Elements of Statistical Learning[pdf]({{ site.url }}/downloads/readings/books/ESLII.pdf)
-- Probabilistic Graphical Models[pdf]({{ site.url }}/downloads/readings/books/ML Probabilistic Graphical Models.pdf)
-- Convex Optimization[pdf]({{ site.url }}/downloads/readings/books/bv_cvxbook.pdf)
-- Reinforcement Learning: An Introduction[pdf]({{ site.url }}/downloads/readings/books/bookdraft2017nov5.pdf)
-- Introduction to Algorithms[pdf]({{ site.url }}/downloads/readings/books/introduction to Algorithms.pdf)
-- Artificial Intelligence A Modern Approach[pdf]({{ site.url }}/downloads/readings/books/Artificial Intelligence A Modern Approach 3rd.pdf)
-- Computer Vision A Modern Approach[pdf]({{ site.url }}/downloads/readings/books/Computer Vision A Modern Approach - Forsyth , Ponce.pdf)
+- Machine Learning-A Probabilistic Perspective ([pdf]({{ site.url }}/downloads/readings/books/ML Machine Learning-A Probabilistic Perspective.pdf))
+- The Elements of Statistical Learning ([pdf]({{ site.url }}/downloads/readings/books/ESLII.pdf))
+- Probabilistic Graphical Models ([pdf]({{ site.url }}/downloads/readings/books/ML Probabilistic Graphical Models.pdf))
+- Convex Optimization ([pdf]({{ site.url }}/downloads/readings/books/bv_cvxbook.pdf))
+- Reinforcement Learning: An Introduction ([pdf]({{ site.url }}/downloads/readings/books/bookdraft2017nov5.pdf))
+- Introduction to Algorithms ([pdf]({{ site.url }}/downloads/readings/books/introduction to Algorithms.pdf))
+- Artificial Intelligence A Modern Approach ([pdf]({{ site.url }}/downloads/readings/books/Artificial Intelligence A Modern Approach 3rd.pdf))
+- Computer Vision A Modern Approach ([pdf]({{ site.url }}/downloads/readings/books/Computer Vision A Modern Approach - Forsyth , Ponce.pdf))
 
 
 #### Course Resources
