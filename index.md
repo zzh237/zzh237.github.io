@@ -27,7 +27,7 @@ I am a working professional as a Data Scientist and currently I am pursuing a CS
 
 ### Career Goal
 
-I was original studying Agricultural related science in University of Kentucky and China Agricultural University. At the same time, I have sincere love for math, programming, and engineering, so I worked several years as Data Scientist and Engineer in the industry, now I am pursuing the Computer Science master degree in Georgia Tech, I should be thankful that I have learned math and programming well in college and during my years of working experience, and I met computer science when I was at the lowest point of my life. I hope I can further develop solid skills in this field, enjoy every step of learning. 
+I was original studying Food Science and Engineering, which is a multidisciplinary subject combines engineering, medicine, and biology in University of Kentucky and China Agricultural University. At the same time, I have sincere love for math, programming, and engineering, so I worked several years as Data Scientist and Engineer in the industry, now I am pursuing the Computer Science master degree in Georgia Tech, I should be thankful that I have learned math and programming well in college and during my years of working experience, and I met computer science when I was at the lowest point of my life. I hope I can further develop solid skills in this field, enjoy every step of learning. 
 
 <br />
 
