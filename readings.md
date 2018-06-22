@@ -8,7 +8,7 @@ comments: false
 ---
 
 #### Books
-- Pattern Recognition and Machine Learning[pdf]({{ site.url }}/downloads/readings/books/ML Pattern Recognition and Machine Learning.pdf)
+- Pattern Recognition and Machine Learning ([pdf]({{ site.url }}/downloads/readings/books/ML Pattern Recognition and Machine Learning.pdf))
 - Machine Learning-A Probabilistic Perspective[pdf]({{ site.url }}/downloads/readings/books/ML Machine Learning-A Probabilistic Perspective.pdf)
 - The Elements of Statistical Learning[pdf]({{ site.url }}/downloads/readings/books/ESLII.pdf)
 - Probabilistic Graphical Models[pdf]({{ site.url }}/downloads/readings/books/ML Probabilistic Graphical Models.pdf)
