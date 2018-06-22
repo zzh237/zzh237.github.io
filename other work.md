@@ -22,4 +22,4 @@ comments: false
 <br /> 
 
 #### Registered Dietitian 
-- I hold an active Chinese Registered Dietitian License, since 2008. My Bachelor and 1st Master degree were both related to Food Science and Nutrition. 
+- I hold an active Chinese Registered Dietitian License, since 2008. 
