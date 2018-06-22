@@ -1,4 +1,4 @@
----
+z---
 layout: post
 title: "Accurate Vehicle Localization via Satellite Images"
 excerpt: "My Fisrt Reading on Sophisticated Computer Vision Problems"
@@ -13,7 +13,7 @@ I am still not sure which research path I should pursue if I am dedicated into d
 
 <br />
 
-The article I chose is titled "Accurate Vision-based Vehicle Localization using Satellite Imagery" from Matthew Walter's group at Toyota Technological Institute at Chicago (TTIC). I chose this one because TTIC is an independent institution geographically within the University of Chicago, and I am interested in his artificial intelligence and robotics research. The original article could be downloaded [here]({{ site.url }}/downloads/readings/2017-09-03-2015-Vehicle-Localization-Satellite-Image/1510.09171.pdf) and my annotated version could be downloaded [here]({{ site.url }}/downloads/readings/2017-09-03-2015-Vehicle-Localization-Satellite-Image/1510.09171_annotated.pdf).
+The article I chose is titled "Accurate Vision-based Vehicle Localization using Satellite Imagery". The original article could be downloaded [here]({{ site.url }}/downloads/readings/2017-09-03-2015-Vehicle-Localization-Satellite-Image/1510.09171.pdf) and my annotated version could be downloaded [here]({{ site.url }}/downloads/readings/2017-09-03-2015-Vehicle-Localization-Satellite-Image/1510.09171_annotated.pdf).
 
 <br />
 
