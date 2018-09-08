@@ -10,7 +10,7 @@ disqus_shortname: zzh237-github-io
 owner:
   name:           Zach Zhang
   avatar:         /author_images/zz.jpg
-  bio:            Machine Learning, Artificial Intelligence, Data Science, Intelligent Agriculture
+  bio:            Machine Learning, Artificial Intelligence, Data Science
   email:          zhizhang5763@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: 
@@ -38,8 +38,8 @@ links:
     #url: /articles/
   #- title: Projects
     #url: /projects/
-  - title: Readings
-    url: /readings/
+#   - title: Readings
+#     url: /readings/
   #- title: Publications
     #url: /publications/
   #- title: Miscellaneous
