@@ -27,7 +27,7 @@ I am a working professional as a Data Scientist and currently I am pursuing a CS
 
 ### Career Goal
 
-I was original studying Food Science and Engineering, which is a multidisciplinary subject combines engineering, medicine, and biology in University of Kentucky and China Agricultural University. At the same time, I have sincere love for math, programming, and engineering, so I worked several years as Data Scientist and Engineer in the industry, now I am pursuing the Computer Science master degree in Georgia Tech, I am currently working on the projects related to reinformcement learning and tensor analysis. 
+My love of Machine Learing and Mathmetics is matched by a love of Biology and Human Study. I was original studying Food Science and Nutrition, which is a multidisciplinary subject combines biology, medicine, and engineering in University of Kentucky and China Agricultural University. At the same time, I have sincere love for math, programming, and engineering, so I worked several years as Data Scientist and Engineer in the bio-medical and clinical industry, now I am pursuing the Computer Science master degree in Georgia Tech specialied with Machine Learning, I am currently working on the projects related to deep reinformcement learning and tensor analysis. 
 
 <br />
 
