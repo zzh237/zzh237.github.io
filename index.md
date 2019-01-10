@@ -139,7 +139,7 @@ I implemented Deep Q-networks using tensorflow to solve the LunarLander problem 
 <br/>
 
 #### Business Analytics
-- I was a data science consultant in <a href="https://www.linkedin.com/company/iknowtion/" target="_blank">TeleTech Insights</a> and <a href="https://www.linkedin.com/company/focuskpi-inc-/" target="_blank">FocusKPI</a> in 2013 and 2014, where I worked on multiple big data SaaS projects related to <b>customer behavior and marketing predicative modeling</b>, 
+- I was a data science consultant in <a href="https://www.linkedin.com/company/iknowtion/" target="_blank">TeleTech Insights</a> and <a href="https://www.linkedin.com/company/focuskpi-inc-/" target="_blank">FocusKPI</a> in 2012 and 2013, where I worked on multiple big data SaaS projects related to <b>customer behavior and marketing predicative modeling</b>, 
 content based and collaborative filtering for item <b>recommendation</b> and latent semantic analysis, <b>time series</b> event customer life time value prediction using ARIMAX models and Markov chain, customer <b>classification, segmentation and clustering</b>. I performed hypothesis testing, algorithm application, prediction, 
 and data visualization, built the algorithm training, testing and reporting software.  
 <br /> 
@@ -147,7 +147,7 @@ and data visualization, built the algorithm training, testing and reporting soft
 <br/>
 
 #### HealthCare Analytics
-- I worked in Harvard Medical School and Brigham and Women's hospital division of clinical research in department of immunology, rheumatology, and pharmacoepidemiology for some projects related to <b>healthcare predicative modeling</b>, <b>NLP of doctor notes</b>, genome-wide association study <b>(GWAS)</b>, <b>EHR mining</b>, and developed tools and applications for scientists and doctors to easily store, processing, analyze and visualize data, with some paper produced, in 2015, 2016. 
+- I worked in Harvard Medical School and Brigham and Women's hospital division of clinical research in department of immunology, rheumatology, and pharmacoepidemiology for some projects related to <b>healthcare predicative modeling</b>, <b>NLP of doctor notes</b>, genome-wide association study <b>(GWAS)</b>, <b>EHR mining</b>, and developed tools and applications for scientists and doctors to easily store, processing, analyze and visualize data, with some paper produced, in 2014, 2015. 
    * Feldman, Candace H., Jamie Collins, <b>Zhi Zhang</b>, S. V. Subramanian, Daniel H. Solomon, Ichiro Kawachi, and Karen H. Costenbader. "Dynamic patterns and predictors of hydroxychloroquine nonadherence among medicaid beneficiaries with systemic lupus erythematosus." In Seminars in Arthritis and Rheumatism. WB Saunders, 2018. 
    * Lee YC, Bingham CO, Edwards RR, Marder W, Kristine P, Bolster MB, Clauw DJ, Moreland LW, Lu B, Wohlfahrt A, <b>Zhang Z.</b> Pain Sensitization is Associated with Disease Activity in Rheumatoid Arthritis Patients: A Cross‐Sectional Study. Arthritis care & research. 2017 Apr 24.
    * Kreps, David J., Florencia Halperin, Sonali P. Desai, <b>Zhi Z. Zhang</b>, Elena Losina, Amber T. Olson, Elizabeth W. Karlson, Bonnie L. Bermas, and Jeffrey A. Sparks. "Association of weight loss with improved disease activity in patients with rheumatoid arthritis: A retrospective analysis using electronic medical record data." International journal of clinical rheumatology 13, no. 1 (2018): 1.
