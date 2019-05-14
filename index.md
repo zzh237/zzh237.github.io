@@ -9,14 +9,6 @@ image:
 
 <br />
 
-<div class = "titled-image">
-<figure class = "titled-image">
-    <img src = "{{ site.url }}/images/author_images/Zach-Zhang-Yellowstone.jpg" width="189" height="252">
-    <figcaption>Zach Zhang at Yellowstone in 2017</figcaption>
-</figure>
-</div>
-
-
 ### Who am I
 
 I worked 4 years as Data Scientist and Engineer in Harvard Medical School and other research position, now I am pursuing the Computer Science master degree in Georgia Tech specialized with <b>Machine Learning, I am currently working on the multi-agent reinforcement learning research. My research interests are machine learning methods and application.
@@ -175,3 +167,10 @@ and data visualization, built the algorithm training, testing and reporting soft
 #### Computational Biology
 - I was a research assistant in University of Kentucky UK bioinformatics microarray core facility, from 2011 – 2012, I used Microarray generated big genomic data to model the gene, RNA, protein regulatory pathway networks, I applied PCA to do dimension reduction for expression data and I investigated the relationship between the gene expression networks and phenotype by statistical learning models
 <br/>
+
+<div class = "titled-image">
+<figure class = "titled-image">
+    <img src = "{{ site.url }}/images/author_images/Zach-Zhang-Yellowstone.jpg" width="189" height="252">
+    <figcaption>Zach Zhang at Yellowstone in 2017</figcaption>
+</figure>
+</div>
