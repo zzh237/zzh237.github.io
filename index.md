@@ -50,7 +50,7 @@ Folic Acid Among Patients with RA: A Systematic Review and Meta-Analysis. 2017 A
 ### Projects
 
 #### Data engineer, productional algorithm development and implementation, and data web visualization: 
-- I was a full time Senior Data Scientist for <a href="http://www.seluxdx.com/">SeLux Diagnostics Inc</a>, a biotechnology company, where the team are building 
+I was a full time Senior Data Scientist for <a href="http://www.seluxdx.com/">SeLux Diagnostics Inc</a>, a biotechnology company, where the team are building 
 the next generation high throughput FDA required antibiotic susceptibility testing (“AST”) device for clinical labs to run AST test for infectious disease efficiently
 and precisely. Quite amount of data were generated from bio-experiments, chemical-experiments, device running, patient samples, I used <b>OOP</b> to capture those information 
 from various objects such as physical device parameters, incubation results of microbiological plates, chemical reagents fluorescence value, bacterial genera, 
@@ -71,18 +71,18 @@ to embed the algorithms into the system of device for seamlessly backend device 
 </figure>
 
 #### Statistical Inference and Data Mining in HealthCare 
-- I worked in Harvard Medical School and Brigham and Women's hospital division of clinical research in department of immunology, rheumatology, and pharmacoepidemiology for some projects related to <b>healthcare predicative modeling</b>, <b>NLP of doctor notes</b>, <b>longitudinal</b> data analysis, <b>PCA</b> analysis, <b>Proportional hazards modeling</b>, genome-wide association study <b>(GWAS)</b>, <b>EHR mining</b>, and developed tools and applications for scientists and doctors to easily store, processing, analyze and visualize data, with some paper produced, in 2013, 2014, 2015. 
+I worked in Harvard Medical School and Brigham and Women's hospital division of clinical research in department of immunology, rheumatology, and pharmacoepidemiology for some projects related to <b>healthcare predicative modeling</b>, <b>NLP of doctor notes</b>, <b>longitudinal</b> data analysis, <b>PCA</b> analysis, <b>Proportional hazards modeling</b>, genome-wide association study <b>(GWAS)</b>, <b>EHR mining</b>, and developed tools and applications for scientists and doctors to easily store, processing, analyze and visualize data, with some paper produced, in 2013, 2014, 2015. 
   
 <br/>
 
 #### Machine learing in Business
-- I was a data science consultant in <a href="https://www.linkedin.com/company/iknowtion/" target="_blank">TeleTech Insights</a> and <a href="https://www.linkedin.com/company/focuskpi-inc-/" target="_blank">FocusKPI</a> in 2012 and 2013, where I worked on multiple big data SaaS projects related to <b>customer behavior and marketing predicative modeling</b>, 
+I was a data science consultant in <a href="https://www.linkedin.com/company/iknowtion/" target="_blank">TeleTech Insights</a> and <a href="https://www.linkedin.com/company/focuskpi-inc-/" target="_blank">FocusKPI</a> in 2012 and 2013, where I worked on multiple big data SaaS projects related to <b>customer behavior and marketing predicative modeling</b>, 
 content based and collaborative filtering for item <b>recommendation</b> and latent semantic analysis, <b>time series</b> event customer life time value prediction using ARIMAX models and Markov chain, customer <b>classification, segmentation and clustering</b>. I performed hypothesis testing, algorithm application, prediction, 
 and data visualization, built the algorithm training, testing and reporting software.  
 <br/> 
 
 #### Computational Biology
-- I was a research assistant in University of Kentucky UK bioinformatics microarray core facility, from 2011 – 2012, I used Microarray generated big genomic data to model the gene, RNA, protein regulatory pathway networks, I applied PCA to do dimension reduction for expression data and I investigated the relationship between the gene expression networks and phenotype by statistical learning models
+I was a research assistant in University of Kentucky UK bioinformatics microarray core facility, from 2011 – 2012, I used Microarray generated big genomic data to model the gene, RNA, protein regulatory pathway networks, I applied PCA to do dimension reduction for expression data and I investigated the relationship between the gene expression networks and phenotype by statistical learning models
 <br/>
 
 
