@@ -1,6 +1,6 @@
 ---
 layout: home2
-title: Zach Zhang
+title:
 description: "Zach Zhang's Website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
