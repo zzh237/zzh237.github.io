@@ -16,7 +16,7 @@ I worked 4 years as Data Scientist and Engineer in Harvard Medical School and ot
 My love of Machine Learning and Mathematics is matched by a love of Biology and Human Study, even more. I was originally studying Food Science and Nutrition, which is a multidisciplinary subject combines biology, medicine, and engineering in University of Kentucky and China Agricultural University. At the same time, I have sincere love for math, programming, and engineering, so  I continue to strengthen my mathematics learning through advanced courses and research. 
 <br/>
 
-### Courses Studied
+### Selected Courses Completed
 Some favorite and related courses (100 as full score, A: 90-100, G: Graduate, U: Undergraduate): Machine Learning
 (G: A), Reinforcement Learning (G: A), Machine Learning Theory (G: A), Numerical Analysis (G: A), Linear Algebra (G:
 A), Knowledge-based AI (G: A), Machine Learning for Trading (G: A), Design and Analysis of Algorithms (G:A),
@@ -34,8 +34,8 @@ Extraction. Biomedical Signal Processing and Control, April, 2019
  * Lee YC, Bingham CO, Edwards RR, Marder W, Kristine P, Bolster MB, Clauw DJ, Moreland LW, Lu B, Wohlfahrt A, <b>Zhang Z.</b> Pain Sensitization is Associated with Disease Activity in Rheumatoid Arthritis Patients: A Cross‐Sectional Study. Arthritis care & research. 2017 Apr 24.
  * Kreps, David J., Florencia Halperin, Sonali P. Desai, <b>Zhi Zhang</b>, Elena Losina, Amber T. Olson, Elizabeth W. Karlson, Bonnie L. Bermas, and Jeffrey A. Sparks. "Association of weight loss with improved disease activity in patients with rheumatoid arthritis: A retrospective analysis using electronic medical record data." International journal of clinical rheumatology 13, no. 1 (2018): 1.
  * Tedeschi SK, Frits M, Cui J, <b>Zhi Zhang</b>, Mahmoud T, Iannaccone C, Lin TC, Yoshida K, Weinblatt ME, Shadick NA, Solomon DH. Diet and rheumatoid arthritis symptoms: survey results from a rheumatoid arthritis registry. Arthritis care & research. 2017 Dec 1;69(12):1920-5.
-
 <br /> 
+
 Posters/Presentations
  * Andrew Hresko, <b>Zhi Zhang</b>, Joshua Colls, Michael E Weinblatt, Nancy A. Shadick, Daniel Solomon, Direct Medical
 Costs for Medicare Patients with Rheumatoid Arthritis, 2018 ACR/ARHR Annual Meeting
@@ -69,10 +69,10 @@ to embed the algorithms into the system of device for seamlessly backend device 
   <img src="/images/projects/selux/Capture2.PNG" width="424" height="300"> 
   <figcaption> sample algorithm training results on web </figcaption>
 </figure>
+<br/>
 
 #### Statistical Inference and Data Mining in HealthCare 
 I worked in Harvard Medical School and Brigham and Women's hospital division of clinical research in department of immunology, rheumatology, and pharmacoepidemiology for some projects related to <b>healthcare predicative modeling</b>, <b>NLP of doctor notes</b>, <b>longitudinal</b> data analysis, <b>PCA</b> analysis, <b>Proportional hazards modeling</b>, genome-wide association study <b>(GWAS)</b>, <b>EHR mining</b>, and developed tools and applications for scientists and doctors to easily store, processing, analyze and visualize data, with some paper produced, in 2013, 2014, 2015. 
-  
 <br/>
 
 #### Machine learing in Business
@@ -84,7 +84,6 @@ and data visualization, built the algorithm training, testing and reporting soft
 #### Computational Biology
 I was a research assistant in University of Kentucky UK bioinformatics microarray core facility, from 2011 – 2012, I used Microarray generated big genomic data to model the gene, RNA, protein regulatory pathway networks, I applied PCA to do dimension reduction for expression data and I investigated the relationship between the gene expression networks and phenotype by statistical learning models
 <br/>
-
 
 ####  course projects: 
 
