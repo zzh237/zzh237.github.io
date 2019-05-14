@@ -13,7 +13,7 @@ image:
 
 I worked 4 years as Data Scientist and Engineer in Harvard Medical School and other research position, now I am pursuing the Computer Science master degree in Georgia Tech specialized with <b>Machine Learning, I am currently working on the multi-agent reinforcement learning research. I am looking for research oportunities in machine learning methods.
 
-My love of Machine Learning and Mathematics is matched by a love of Biology and Human Study, even more. I was originally studying Food Science and Nutrition, which is a multidisciplinary subject combines biology, medicine, and engineering in University of Kentucky and China Agricultural University. At the same time, I have sincere love for math, programming, and engineering, so  I continue to strengthen my mathematics learning through advanced courses and research. 
+My love of Machine Learning and Mathematics is matched by a love of Biology and Human Study, even more. I was originally studying Food Science and Engineering, which is a multidisciplinary subject combines biology, medicine, and engineering in University of Kentucky and China Agricultural University. At the same time, I have sincere love for math, programming, and engineering, so  I continue to strengthen my mathematics learning through advanced courses and research. 
 <br/>
 
 ### Selected Courses Completed
