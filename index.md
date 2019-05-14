@@ -22,7 +22,7 @@ image:
 I worked 4 years as Data Scientist and Engineer in Harvard Medical School and other research position, now I am pursuing the Computer Science master degree in Georgia Tech specialized with <b>Machine Learning, I am currently working on the projects related to deep reinforcement learning.
 
 My love of Machine Learning and Mathematics is matched by a love of Biology and Human Study. I was original studying Food Science and Nutrition, which is a multidisciplinary subject combines biology, medicine, and engineering in University of Kentucky and China Agricultural University. At the same time, I have sincere love for math, programming, and engineering, so  I continue to strengthen my mathematics learning through advanced courses and research. 
-<br />
+<br/>
 
 ### Courses Studied
 Some favorite and related courses (100 as full score, A: 90-100, G: Graduate, U: Undergraduate): Machine Learning
@@ -34,25 +34,25 @@ Genomics (G: A), C Programming Language (U: 88), Electrotechnics & Electronics (
 95), Economics Theory (U: 91)
 
 ### Publications
-Preprint
  * <b>Zhi Zhang</b>, Jiachen Yang, Hongyuan Zha, Integrating independent and centralized multi-agent reinforcement learning
-for traffic signal network optimization.
+for traffic signal network optimization. Preprint
  * Lijun Yang, Shuang Lia, <b>Zhi Zhang</b>, Xiaohui Yang, Classification of Phonocardiogram Signals Based on Envelope
 Extraction. Biomedical Signal Processing and Control, April, 2019
  * Feldman, Candace H., Jamie Collins, <b>Zhi Zhang</b>, S. V. Subramanian, Daniel H. Solomon, Ichiro Kawachi, and Karen H. Costenbader. "Dynamic patterns and predictors of hydroxychloroquine nonadherence among medicaid beneficiaries with systemic lupus erythematosus." In Seminars in Arthritis and Rheumatism. WB Saunders, 2018. 
  * Lee YC, Bingham CO, Edwards RR, Marder W, Kristine P, Bolster MB, Clauw DJ, Moreland LW, Lu B, Wohlfahrt A, <b>Zhang Z.</b> Pain Sensitization is Associated with Disease Activity in Rheumatoid Arthritis Patients: A Cross‐Sectional Study. Arthritis care & research. 2017 Apr 24.
- * Kreps, David J., Florencia Halperin, Sonali P. Desai, <b>Zhi Z. Zhang</b>, Elena Losina, Amber T. Olson, Elizabeth W. Karlson, Bonnie L. Bermas, and Jeffrey A. Sparks. "Association of weight loss with improved disease activity in patients with rheumatoid arthritis: A retrospective analysis using electronic medical record data." International journal of clinical rheumatology 13, no. 1 (2018): 1.
- * Tedeschi SK, Frits M, Cui J, <b>Zhang ZZ</b>, Mahmoud T, Iannaccone C, Lin TC, Yoshida K, Weinblatt ME, Shadick NA, Solomon DH. Diet and rheumatoid arthritis symptoms: survey results from a rheumatoid arthritis registry. Arthritis care & research. 2017 Dec 1;69(12):1920-5.
+ * Kreps, David J., Florencia Halperin, Sonali P. Desai, <b>Zhi Zhang</b>, Elena Losina, Amber T. Olson, Elizabeth W. Karlson, Bonnie L. Bermas, and Jeffrey A. Sparks. "Association of weight loss with improved disease activity in patients with rheumatoid arthritis: A retrospective analysis using electronic medical record data." International journal of clinical rheumatology 13, no. 1 (2018): 1.
+ * Tedeschi SK, Frits M, Cui J, <b>Zhi Zhang</b>, Mahmoud T, Iannaccone C, Lin TC, Yoshida K, Weinblatt ME, Shadick NA, Solomon DH. Diet and rheumatoid arthritis symptoms: survey results from a rheumatoid arthritis registry. Arthritis care & research. 2017 Dec 1;69(12):1920-5.
+
 <br /> 
 Posters/Presentations
- * Andrew Hresko, Zhi Zhang, Joshua Colls, Michael E Weinblatt, Nancy A. Shadick, Daniel Solomon, Direct Medical
+ * Andrew Hresko, <b>Zhi Zhang</b>, Joshua Colls, Michael E Weinblatt, Nancy A. Shadick, Daniel Solomon, Direct Medical
 Costs for Medicare Patients with Rheumatoid Arthritis, 2018 ACR/ARHR Annual Meeting
- * Jing Cui, Zhi Zhang, Elizabeth Karlson, Daniel Solomon, Whole genome association study of Gout in Patients with
+ * Jing Cui, <b>Zhi Zhang</b>, Elizabeth Karlson, Daniel Solomon, Whole genome association study of Gout in Patients with
 Hyperuricemia Identified Many Possible New Candidate Risk Alleles. 2017 ACR/ARHP Annual Meeting
- * Zhi Zhang, Alyssa Wohlfahrt, Bing Lu, Clifton O. Bingham III, Marcy B. Bolster, Wendy Marder, Larry W. Moreland,
+ * <b>Zhi Zhang</b>, Alyssa Wohlfahrt, Bing Lu, Clifton O. Bingham III, Marcy B. Bolster, Wendy Marder, Larry W. Moreland,
 Kristine Phillips, Tuhina Neogi and Yvonne C. Lee, Identification of Clinically Relevant Pain Profiles in Individuals with
 Active RA. 2017 ACR/ARHP Annual Meeting, Oral Presentation
-* Katheeln Vinny, Zhi Zhang, Danial Soloman, Prevalence of Cytopenias Associated with Low-Dose Methotrexate and
+* Katheeln Vinny, <b>Zhi Zhang</b>, Danial Soloman, Prevalence of Cytopenias Associated with Low-Dose Methotrexate and
 Folic Acid Among Patients with RA: A Systematic Review and Meta-Analysis. 2017 ACR/ARHP Annual Meeting
 
 ### Projects
@@ -161,22 +161,17 @@ I implemented Deep Q-networks using tensorflow to solve the LunarLander problem 
 
 <br/>
 
-#### Business Analytics
+#### Machine learing in Business
 - I was a data science consultant in <a href="https://www.linkedin.com/company/iknowtion/" target="_blank">TeleTech Insights</a> and <a href="https://www.linkedin.com/company/focuskpi-inc-/" target="_blank">FocusKPI</a> in 2012 and 2013, where I worked on multiple big data SaaS projects related to <b>customer behavior and marketing predicative modeling</b>, 
 content based and collaborative filtering for item <b>recommendation</b> and latent semantic analysis, <b>time series</b> event customer life time value prediction using ARIMAX models and Markov chain, customer <b>classification, segmentation and clustering</b>. I performed hypothesis testing, algorithm application, prediction, 
 and data visualization, built the algorithm training, testing and reporting software.  
-<br /> 
+<br/> 
 
-<br/>
-
-#### HealthCare Analytics
-- I worked in Harvard Medical School and Brigham and Women's hospital division of clinical research in department of immunology, rheumatology, and pharmacoepidemiology for some projects related to <b>healthcare predicative modeling</b>, <b>NLP of doctor notes</b>, genome-wide association study <b>(GWAS)</b>, <b>EHR mining</b>, and developed tools and applications for scientists and doctors to easily store, processing, analyze and visualize data, with some paper produced, in 2013, 2014, 2015. 
+#### Statistical Inference and Data Mining in HealthCare 
+- I worked in Harvard Medical School and Brigham and Women's hospital division of clinical research in department of immunology, rheumatology, and pharmacoepidemiology for some projects related to <b>healthcare predicative modeling</b>, <b>NLP of doctor notes</b>, <b>longitudinal</b> data analysis, <b>PCA</b> analysis, <b>Proportional hazards modeling</b>, genome-wide association study <b>(GWAS)</b>, <b>EHR mining</b>, and developed tools and applications for scientists and doctors to easily store, processing, analyze and visualize data, with some paper produced, in 2013, 2014, 2015. 
   
 <br/>
 
 #### Computational Biology
 - I was a research assistant in University of Kentucky UK bioinformatics microarray core facility, from 2011 – 2012, I used Microarray generated big genomic data to model the gene, RNA, protein regulatory pathway networks, I applied PCA to do dimension reduction for expression data and I investigated the relationship between the gene expression networks and phenotype by statistical learning models
-- I was a research assistant for computational analysis of gene regulation, genetic variation, and the computational <b>algorithm based inference of genome-transcriptome-phenome association</b> of patients’ neural stem cell in Peking University School of Basic Medicine Stem Cell Center, and I used the nurses’ 10 years <b>longitudinal</b> data and genomic data to generalize association and inference by <b>PCA</b> analysis and <b>Proportional hazards model</b> analysis 
-in Fudan University School of Public Health, in 2009 and 2010.
-
 <br/>
