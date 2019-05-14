@@ -1,6 +1,6 @@
 ---
 layout: post-index
-permalink: /reference/
+permalink: /referee/
 title: referee
 tagline: referee
 tags: [referee]
