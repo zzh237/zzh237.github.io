@@ -49,7 +49,7 @@ Folic Acid Among Patients with RA: A Systematic Review and Meta-Analysis. 2017 A
 
 ### Projects
 
-#### Data engineer, productional algorithm development and implementation, and data web visualization: 
+#### Data Engineering and web visualization: 
 I was a full time Senior Data Scientist for <a href="http://www.seluxdx.com/">SeLux Diagnostics Inc</a>, a biotechnology company, where the team are building 
 the next generation high throughput FDA required antibiotic susceptibility testing (“AST”) device for clinical labs to run AST test for infectious disease efficiently
 and precisely. Quite amount of data were generated from bio-experiments, chemical-experiments, device running, patient samples, I used <b>OOP</b> to capture those information 
