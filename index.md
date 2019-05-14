@@ -89,11 +89,13 @@ and data visualization, built the algorithm training, testing and reporting soft
 ####  course projects: 
 
 - Machine Learning
+
 <a href ="https://drive.google.com/open?id=1CKulfMYYOr_cs86v48-KcSf8QiytfbHO">supervised learning</a>, <a href ="https://drive.google.com/open?id=1jMAsi-wVYdruQQTWWGKeoFV9NzBmCvda">randomized optimization</a>, <a href ="https://drive.google.com/open?id=1ywQx8xkWuFNqYK2NYOw2Pdddl9NkRLVP">unsupervised learning</a>, and <a href ="https://drive.google.com/open?id=1cd3hXTwb1pvLT8AO-PiUOTGLStOIsDBA">Markov Decision Processes</a>. 
 
 <br />
 
--Computer Vision 
+- Computer Vision 
+
 Activity classification using MHI: In class project, I classified different human movements behavior by training video data containing multiple human movements, 
 using the motion history image stack to represent the video data, performed background subtraction, motion history images moments calculation, 
 and applied different classifiers to train the image moments, then predicated the human behavior from real-world video [<a href ="https://drive.google.com/open?id=1bePGRlxUlnrkpv3T5gDZI4h4d5zAr9bv">PDF</a>].  
@@ -138,6 +140,7 @@ I computed probability of a feature vector xx in each of the five Bayesian netwo
 <br />
 
 - Robot Intelli: Planning
+
 Simulated Intelligent Robot Tracking Agent: in course project, I developed a naive intelligent agent to predict the future trajectory of a Nano robot’s dynamic moving position; 
 evaluated multiple training algorithms in Bayesian probabilistic model, linear-Gaussian model (Kalman Filters), sequential Monte Carlo simulation (particle filters), 
 residual learning model; reduced video data dimensionality by PCA; tuned residual neural network hyperparameters 
@@ -152,6 +155,7 @@ and applied bootstrap aggregation with multiple residual neural networks [<a hre
 <br />
 
 - Reinforcement Learning
+
 I implemented Deep Q-networks using tensorflow to solve the LunarLander problem in the OpenGym AI. Three different techniques were applied to improve the performance of deep Q-Networks, which are <a href ="https://arxiv.org/pdf/1509.06461.pdf">double deep Q-Networks</a>, 
 <a href ="https://arxiv.org/pdf/1511.06581.pdf">dueling deep Q-Networks</a>, and <a href ="https://arxiv.org/pdf/1511.05952.pdf">prioritized experience replay</a>. The scores per episode were compared [<a href ="https://drive.google.com/open?id=1sDkJUoM2ZCd9DocFZo8siLoN_U7iI32J">PDF</a>].     
 <figure>
