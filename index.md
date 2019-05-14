@@ -19,23 +19,46 @@ image:
 
 ### Who am I
 
-I am a working professional as a Data Scientist and currently I am pursuing a CS-MS in Georgia Tech. My specialization is <b>Machine Learning</b> and <b>Computational Perception</b>.
+I worked 4 years as Data Scientist and Engineer in Harvard Medical School and other research position, now I am pursuing the Computer Science master degree in Georgia Tech specialized with <b>Machine Learning, I am currently working on the projects related to deep reinforcement learning.
 
+My love of Machine Learning and Mathematics is matched by a love of Biology and Human Study. I was original studying Food Science and Nutrition, which is a multidisciplinary subject combines biology, medicine, and engineering in University of Kentucky and China Agricultural University. At the same time, I have sincere love for math, programming, and engineering, so  I continue to strengthen my mathematics learning through advanced courses and research. 
 <br />
 
+### Courses Studied
+Some favorite and related courses (100 as full score, A: 90-100, G: Graduate, U: Undergraduate): Machine Learning
+(G: A), Reinforcement Learning (G: A), Machine Learning Theory (G: A), Numerical Analysis (G: A), Linear Algebra (G:
+A), Knowledge-based AI (G: A), Machine Learning for Trading (G: A), Design and Analysis of Algorithms (G:A),
+Statistical Analysis (G: A), Advanced Mathematics I-II (U: 99), Probability Theory & Mathematical Statistics (U: 96),
+Analysis (U: A), AI for Robotics (G: A), Software Development Process (G: A), Computer Vision (G: A), Physiological
+Genomics (G: A), C Programming Language (U: 88), Electrotechnics & Electronics (U: 93), Engineering Mechanics (U:
+95), Economics Theory (U: 91)
 
-
-### Career Goal
-
-My love of Machine Learing and Mathmetics is matched by a love of Biology and Human Study. I was original studying Food Science and Nutrition, which is a multidisciplinary subject combines biology, medicine, and engineering in University of Kentucky and China Agricultural University. At the same time, I have sincere love for math, programming, and engineering, so I worked several years as Data Scientist and Engineer in the bio-medical and clinical industry, now I am pursuing the Computer Science master degree in Georgia Tech specialied with Machine Learning, I am currently working on the projects related to deep reinformcement learning and tensor analysis. 
-
-<br />
-
+### Publications
+Preprint
+ * <b>Zhi Zhang</b>, Jiachen Yang, Hongyuan Zha, Integrating independent and centralized multi-agent reinforcement learning
+for traffic signal network optimization.
+ * Lijun Yang, Shuang Lia, <b>Zhi Zhang</b>, Xiaohui Yang, Classification of Phonocardiogram Signals Based on Envelope
+Extraction. Biomedical Signal Processing and Control, April, 2019
+ * Feldman, Candace H., Jamie Collins, <b>Zhi Zhang</b>, S. V. Subramanian, Daniel H. Solomon, Ichiro Kawachi, and Karen H. Costenbader. "Dynamic patterns and predictors of hydroxychloroquine nonadherence among medicaid beneficiaries with systemic lupus erythematosus." In Seminars in Arthritis and Rheumatism. WB Saunders, 2018. 
+ * Lee YC, Bingham CO, Edwards RR, Marder W, Kristine P, Bolster MB, Clauw DJ, Moreland LW, Lu B, Wohlfahrt A, <b>Zhang Z.</b> Pain Sensitization is Associated with Disease Activity in Rheumatoid Arthritis Patients: A Cross‐Sectional Study. Arthritis care & research. 2017 Apr 24.
+ * Kreps, David J., Florencia Halperin, Sonali P. Desai, <b>Zhi Z. Zhang</b>, Elena Losina, Amber T. Olson, Elizabeth W. Karlson, Bonnie L. Bermas, and Jeffrey A. Sparks. "Association of weight loss with improved disease activity in patients with rheumatoid arthritis: A retrospective analysis using electronic medical record data." International journal of clinical rheumatology 13, no. 1 (2018): 1.
+ * Tedeschi SK, Frits M, Cui J, <b>Zhang ZZ</b>, Mahmoud T, Iannaccone C, Lin TC, Yoshida K, Weinblatt ME, Shadick NA, Solomon DH. Diet and rheumatoid arthritis symptoms: survey results from a rheumatoid arthritis registry. Arthritis care & research. 2017 Dec 1;69(12):1920-5.
+<br /> 
+Posters/Presentations
+ * Andrew Hresko, Zhi Zhang, Joshua Colls, Michael E Weinblatt, Nancy A. Shadick, Daniel Solomon, Direct Medical
+Costs for Medicare Patients with Rheumatoid Arthritis, 2018 ACR/ARHR Annual Meeting
+ * Jing Cui, Zhi Zhang, Elizabeth Karlson, Daniel Solomon, Whole genome association study of Gout in Patients with
+Hyperuricemia Identified Many Possible New Candidate Risk Alleles. 2017 ACR/ARHP Annual Meeting
+ * Zhi Zhang, Alyssa Wohlfahrt, Bing Lu, Clifton O. Bingham III, Marcy B. Bolster, Wendy Marder, Larry W. Moreland,
+Kristine Phillips, Tuhina Neogi and Yvonne C. Lee, Identification of Clinically Relevant Pain Profiles in Individuals with
+Active RA. 2017 ACR/ARHP Annual Meeting, Oral Presentation
+* Katheeln Vinny, Zhi Zhang, Danial Soloman, Prevalence of Cytopenias Associated with Low-Dose Methotrexate and
+Folic Acid Among Patients with RA: A Systematic Review and Meta-Analysis. 2017 ACR/ARHP Annual Meeting
 
 ### Projects
 
 #### Data engineer, productional algorithm development and implementation, and data web visualization: 
-I am a full time Data Scientist for <a href="http://www.seluxdx.com/">SeLux Diagnostics Inc</a>, a biotechnology company, where the team are building 
+I was a full time Data Scientist for <a href="http://www.seluxdx.com/">SeLux Diagnostics Inc</a>, a biotechnology company, where the team are building 
 the next generation high throughput FDA required antibiotic susceptibility testing (“AST”) device for clinical labs to run AST test for infectious disease efficiently
 and precisely. Quite amount of data were generated from bio-experiments, chemical-experiments, device running, patient samples, I used <b>OOP</b> to capture those information 
 from various objects such as physical device parameters, incubation results of microbiological plates, chemical reagents fluorescence value, bacterial genera, 
@@ -147,12 +170,8 @@ and data visualization, built the algorithm training, testing and reporting soft
 <br/>
 
 #### HealthCare Analytics
-- I worked in Harvard Medical School and Brigham and Women's hospital division of clinical research in department of immunology, rheumatology, and pharmacoepidemiology for some projects related to <b>healthcare predicative modeling</b>, <b>NLP of doctor notes</b>, genome-wide association study <b>(GWAS)</b>, <b>EHR mining</b>, and developed tools and applications for scientists and doctors to easily store, processing, analyze and visualize data, with some paper produced, in 2014, 2015. 
-   * Feldman, Candace H., Jamie Collins, <b>Zhi Zhang</b>, S. V. Subramanian, Daniel H. Solomon, Ichiro Kawachi, and Karen H. Costenbader. "Dynamic patterns and predictors of hydroxychloroquine nonadherence among medicaid beneficiaries with systemic lupus erythematosus." In Seminars in Arthritis and Rheumatism. WB Saunders, 2018. 
-   * Lee YC, Bingham CO, Edwards RR, Marder W, Kristine P, Bolster MB, Clauw DJ, Moreland LW, Lu B, Wohlfahrt A, <b>Zhang Z.</b> Pain Sensitization is Associated with Disease Activity in Rheumatoid Arthritis Patients: A Cross‐Sectional Study. Arthritis care & research. 2017 Apr 24.
-   * Kreps, David J., Florencia Halperin, Sonali P. Desai, <b>Zhi Z. Zhang</b>, Elena Losina, Amber T. Olson, Elizabeth W. Karlson, Bonnie L. Bermas, and Jeffrey A. Sparks. "Association of weight loss with improved disease activity in patients with rheumatoid arthritis: A retrospective analysis using electronic medical record data." International journal of clinical rheumatology 13, no. 1 (2018): 1.
-   * Tedeschi SK, Frits M, Cui J, <b>Zhang ZZ</b>, Mahmoud T, Iannaccone C, Lin TC, Yoshida K, Weinblatt ME, Shadick NA, Solomon DH. Diet and rheumatoid arthritis symptoms: survey results from a rheumatoid arthritis registry. Arthritis care & research. 2017 Dec 1;69(12):1920-5.
-<br /> 
+- I worked in Harvard Medical School and Brigham and Women's hospital division of clinical research in department of immunology, rheumatology, and pharmacoepidemiology for some projects related to <b>healthcare predicative modeling</b>, <b>NLP of doctor notes</b>, genome-wide association study <b>(GWAS)</b>, <b>EHR mining</b>, and developed tools and applications for scientists and doctors to easily store, processing, analyze and visualize data, with some paper produced, in 2013, 2014, 2015. 
+  
 <br/>
 
 #### Computational Biology
