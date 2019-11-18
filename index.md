@@ -12,21 +12,15 @@ image:
 ### Who am I 
 You can also see my webpage [scholoar](https://scholar.google.com/citations?user=O__axAoAAAAJ&hl=en).
 
- I finished the Computer Science master degree in Georgia Tech specialized with <b>Machine Learning, where I worked on the multi-agent reinforcement learning research. I am looking for research oportunities in machine learning methods.
+ I finished the Computer Science master degree in Georgia Tech specialized with <b>Machine Learning, where I worked on the multi-agent reinforcement learning research.
 
-My love of Machine Learning and Mathematics is matched by a love of Biology and Human Study, even more. I worked 2 years as Data Scientist and Engineer in Harvard Medical School and other research position. At the same time, I have sincere love for math, programming, and engineering, so  I continue to strengthen my mathematics learning through advanced courses and research. 
+I also care about heath. I worked 2 years as Data Scientist and Engineer in Harvard Medical School and other research position. At the same time, I have sincere love for math, programming, and engineering, and automation, so I continue to strengthen my mathematics learning through advanced courses and research. 
 <br/>
 
 
 
 ### Selected Courses Completed
-Some favorite and related courses (100 as full score, A: 90-100, G: Graduate, U: Undergraduate): Machine Learning
-(G: A), Reinforcement Learning (G: A), Machine Learning Theory (G: A), Numerical Analysis (G: A), Linear Algebra (G:
-A), Knowledge-based AI (G: A), Machine Learning for Trading (G: A), Design and Analysis of Algorithms (G:A),
-Statistical Analysis (G: A), Advanced Mathematics I-II (U: 99), Probability Theory & Mathematical Statistics (U: 96),
-Analysis (U: A), AI for Robotics (G: A), Software Development Process (G: A), Computer Vision (G: A), Physiological
-Genomics (G: A), C Programming Language (U: 88), Electrotechnics & Electronics (U: 93), Engineering Mechanics (U:
-95), Economics Theory (U: 91)
+Some favorite and related courses (100 as full score, A: 90-100, G: Graduate, U: Undergraduate): Probability Theory, Statistical Method for Research, Machine Learning(G: A), Reinforcement Learning (G: A), Machine Learning Theory (G: A), Numerical Analysis (G: A), Linear Algebra (G:A), Knowledge-based AI (G: A), Machine Learning for Trading (G: A), Design and Analysis of Algorithms (G:A),Statistical Analysis (G: A), Stats Method for Bio-experiment (G: A), Probability Theory & Mathematical Statistics (U: 96), Analysis (U: A), AI for Robotics (G: A), Software Development Process (G: A), Computer Vision (G: A), Physiological Genomics (G: A), Advanced Mathematics I-II (score: 99), Probability Theory & Mathematical Statistics (96), C Programming Language (U: 88), Electrotechnics & Electronics (93), Engineering Mechanics (95),  Basic Mechanics (91), Planning and Designing of Food Factory (85), Refrigeration Engineering (84),  Conspectus of Engineering Detection and Automation, Food Processing Machine and Equipment, Physics (84), Engineering Drawing and AutoCAD (88) 
 
 ### Publications
  * <b>Zhi Zhang</b>, Jiachen Yang, Hongyuan Zha, Integrating independent and centralized multi-agent reinforcement learning
