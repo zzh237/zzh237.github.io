@@ -21,8 +21,9 @@ I also care about heath. I worked 2 years as Data Scientist and Engineer in Harv
  * <b>Zhi Zhang</b>, Jiachen Yang, Hongyuan Zha, Integrating independent and centralized multi-agent reinforcement learning
 for traffic signal network optimization. <b> Accepted to AAMAS 2020 as Extended Abstract</b>
 <figure>
-  <img src="/images/projects/marl.jpg" width="524" height="350">
+  <img src="/images/projects/marl.jpg" width="524" height="300">
 </figure>
+
  * Lijun Yang, Shuang Lia, <b>Zhi Zhang</b>, Xiaohui Yang, Classification of Phonocardiogram Signals Based on Envelope
 Extraction. Biomedical Signal Processing and Control, April, 2019
  * Feldman, Candace H., Jamie Collins, <b>Zhi Zhang</b>, S. V. Subramanian, Daniel H. Solomon, Ichiro Kawachi, and Karen H. Costenbader. "Dynamic patterns and predictors of hydroxychloroquine nonadherence among medicaid beneficiaries with systemic lupus erythematosus." In Seminars in Arthritis and Rheumatism. WB Saunders, 2018. 
@@ -76,7 +77,7 @@ to embed the algorithms into the system of device for seamlessly backend device 
 I am interning at Larawance Livermore National Lab to work on a project to understand the protein binding behavior, here I built tools to visualize the 3d docking structure and the activation layer output of the neural network. 
 
 <figure>
-  <img src="/images/projects/llnl.jpg" width="524" height="350">
+  <img src="/images/projects/llnl.jpg" width="524" height="300">
 </figure>
 
 
