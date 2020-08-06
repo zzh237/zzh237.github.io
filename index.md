@@ -74,7 +74,7 @@ to embed the algorithms into the system of device for seamlessly backend device 
 
 
 #### 3D Protein Feature Data Visualization:
-I am interning at Larawance Livermore National Lab to work on a project to understand the protein binding behavior, here I built tools to visualize the 3d docking structure and the activation layer output of the neural network. 
+I am interning at Lawrence Livermore National Laboratory to work on a project to understand the protein binding behavior, here I built tools to visualize the 3d docking structure and the activation layer output of the neural network. 
 
 <figure>
   <img src="/images/projects/llnl.jpg" width="524" height="300">
