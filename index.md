@@ -19,7 +19,7 @@ I also care about heath. I worked 2 years as Data Scientist and Engineer in Harv
 
 ### Publications
  * <b>Zhi Zhang</b>, Jiachen Yang, Hongyuan Zha, Integrating independent and centralized multi-agent reinforcement learning
-for traffic signal network optimization. <b> Accepted to AAMAS 2020 as Extended Abstract</b>
+for traffic signal network optimization. <b> Accepted to AAMAS 2020</b>
 <figure>
   <img src="/images/projects/marl.jpg" width="524" height="300">
 </figure>
