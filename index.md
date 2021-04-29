@@ -1,12 +1,5 @@
 
-
-
-<figure>
-  <img src="/images/hmc.jpg" alt="HMC" width="304" height="180">  
-</figure>
-<figure>
-<img src="/images/nuts.jpg" alt="NUTS" width="304" height="180">
-</figure>
+![alt-text-1](/images/hmc.jpg "title-1") ![alt-text-2](/images/hmc.jpg "title-2")
 
 
 
