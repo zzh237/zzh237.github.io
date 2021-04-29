@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>Index</title>
-    <link rel="stylesheet" href="{{ url_for('static',filename='styles.css') }}">
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <h1>HMC Compared to NUTS</h1>
