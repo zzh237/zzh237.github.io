@@ -1,15 +1,16 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Index</title>
-    
- h1{
-    text-align: center;
- }
-</head>
-<body>
-    
-    ![alt-text-1](/images/hmc.jpg "title-1") ![alt-text-2](/images/nuts.jpg "title-2")
-   
-</body>
-</html>
+
+---
+layout: home2
+title:
+description: 
+tags: [Jekyll, theme, responsive, blog, template]
+
+<figure>
+  <img src="/images/hmc.jpg" alt="HMC" width="304" height="180">  
+</figure>
+<figure>
+<img src="/images/nuts.jpg" alt="NUTS" width="304" height="180">
+</figure>
+
+
+
