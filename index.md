@@ -2,7 +2,17 @@
 <html>
 <head>
     <title>Index</title>
-    <link rel="stylesheet" href="styles.css">
+    * {
+    box-sizing: border-box;
+ }
+ .imageColumn {
+    float: left;
+    width: 50%;
+    padding: 10px;
+ }
+ h1{
+    text-align: center;
+ }
 </head>
 <body>
     <h1>HMC Compared to NUTS</h1>
