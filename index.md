@@ -29,21 +29,22 @@ At the same time, I have sincere love for math, programming, and engineering, an
 <br/> -->
 
 ### Publications
- * Zhang, Z. et al. Reinforcement learning under a Multi-agent Predictive State Representation Model: Method and Theory. [](https://)  
- * Zhi Zhang, Jiachen Yang, Hongyuan Zha, Integrating independent and centralized multi-agent reinforcement learning for traffic signal network optimization. <b> AAMAS 2020</b>. [link]()
-<!-- <figure>
+ * Zhang, Z. et al. Reinforcement learning under a Multi-agent Predictive State Representation Model: Method and Theory.(ICLR2022 reviewed with average score 8) [link](https://openreview.net/forum?id=PLDOnFoVm4)  
+ * Zhi Zhang, Jiachen Yang, Hongyuan Zha, Integrating independent and centralized multi-agent reinforcement learning for traffic signal network optimization. (AAMAS 2020)[link](https://arxiv.org/abs/1909.10651)
+ * Zhang, Z. Few-shot Lifelong Reinforcement Learning with Generalization Guarantees. (In submission) 
+ <!-- < https://drive.google.com/file/d/1LjPYFeUvlhd-bTaX4dFrBjc5qIth47yG/view  -->
+ <!-- <figure>
   <img src="/images/projects/marl.jpg" width="524" height="300">
 </figure>
- -->
-   
- * Zhang, Z. Few-shot Lifelong Reinforcement Learning with Generalization Guarantees (In submission to ICML 2022) < https://drive.google.com/file/d/1LjPYFeUvlhd-bTaX4dFrBjc5qIth47yG/view >
+  -->
+   >
 
 ### Writing Samples
-* Zhang, Z. Review of Statistical Guarantees for the EM. < https://github.com/zzh237/sta243 >
-* Zhang, Z. Review of Large-dimensional Central Limit Theorem with Fourth-moment Error Bounds on Convex Sets and Balls. < https://github.com/zzh237/sta250 >
-* Zhang, Z. Mathematical Model of GAN. < https://github.com/zzh237/sta299 >
+* Zhang, Z. Review of Statistical Guarantees for the EM. [pdf](https://github.com/zzh237/sta243)
+* Zhang, Z. Review of Large-dimensional Central Limit Theorem with Fourth-moment Error Bounds on Convex Sets and Balls. [pdf]< https://github.com/zzh237/sta250 >
+* Zhang, Z. Mathematical Model of GAN. [pdf]< https://github.com/zzh237/sta299 >
 
-### 
+### Previous 
 * Zhang, Z., Hyojin, K., Allen J., Jones D. Explainable 3D-CNN For Protein-Ligand Binding. (Works done at Lawrence Livermore National Lab). < https://github.com/zzh237/llnl >
  * Lijun Yang, Shuang Lia, <b>Zhi Zhang</b>, Xiaohui Yang, Classification of Phonocardiogram Signals Based on Envelope
 Extraction. Biomedical Signal Processing and Control, April, 2019
