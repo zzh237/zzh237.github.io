@@ -16,16 +16,12 @@ I am a doctoral student in computer science, working on problems realted to stat
 
 <!-- In particular, the problems are related to statistical machine learning, high-dimensional statistics, computational statistics, statistical inference and estimation of dynamic systems. 
  -->
-
-
 <!-- I am always highly interested in the statistical inference, estimation, and learning of dynamic systems and their relationship with reinforcement learning algorithms. 
-
 statistical learning theory for explaining and analyzing how the deep neural network model works
-
 I also care about heath. I worked 2 years as Data Scientist and Engineer in Harvard Medical School and other research position.  -->
 
 
-Two years ago, I got my master's degree in statistics from the University of California, Davis, and two more years ago, I obtained my master's degree in computer science from Georgia Institute of technology, where I was in computational science and engeering and my advisor was Hongyuan Zha. 
+Last two years, I just got my master's degree in statistics from the University of California, Davis, where I was fortunate studying one favrite course hidh dimensiontal statistics by Prof. Miles Lopes, and working with Prof. Xiucaiding, and two years ago, I obtained my master's degree in computer science from Georgia Institute of technology, where I was in computational science and engeering and my advisor was Prof. Hongyuan Zha. 
 
 
 <!-- I finished the Computer Science master degree in Georgia Tech specialized with <b>Machine Learning, where I worked on the multi-agent reinforcement learning research.
