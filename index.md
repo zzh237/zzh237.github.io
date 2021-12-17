@@ -40,7 +40,7 @@ At the same time, I have sincere love for math, programming, and engineering, an
 </figure>
  -->
    
- Zhang, Z. Few-shot Lifelong Reinforcement Learning with Generalization Guarantees (In submission to ICML 2022) < https://drive.google.com/file/d/1LjPYFeUvlhd-bTaX4dFrBjc5qIth47yG/view >
+ * Zhang, Z. Few-shot Lifelong Reinforcement Learning with Generalization Guarantees (In submission to ICML 2022) < https://drive.google.com/file/d/1LjPYFeUvlhd-bTaX4dFrBjc5qIth47yG/view >
 
 ### Writing Samples
 * Zhang, Z. Review of Statistical Guarantees for the EM. < https://github.com/zzh237/sta243 >
