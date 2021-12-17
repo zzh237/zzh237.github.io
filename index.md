@@ -9,9 +9,9 @@ image:
 
 <br />
 
-### Who am I 
+<!-- ### Who am I 
 You can also see my webpage [scholoar](https://scholar.google.com/citations?user=O__axAoAAAAJ&hl=en).
-
+ -->
 I am a doctoral student in computer science, working on problems realted to statistics, optimization, and machine learning. 
 
 <!-- In particular, the problems are related to statistical machine learning, high-dimensional statistics, computational statistics, statistical inference and estimation of dynamic systems. 
