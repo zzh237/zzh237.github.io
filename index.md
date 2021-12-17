@@ -43,34 +43,19 @@ At the same time, I have sincere love for math, programming, and engineering, an
  Zhang, Z. Few-shot Lifelong Reinforcement Learning with Generalization Guarantees (In submission to ICML 2022) < https://drive.google.com/file/d/1LjPYFeUvlhd-bTaX4dFrBjc5qIth47yG/view >
 
 ### WRITING SAMPLES
-Zhang, Z. Review of Statistical Guarantees for the EM. < https://github.com/zzh237/sta243 >
-Zhang, Z. Review of Large-dimensional Central Limit Theorem with Fourth-moment Error Bounds on Convex Sets and Balls. < https://github.com/zzh237/sta250 >
-Zhang, Z. Mathematical Model of GAN. < https://github.com/zzh237/sta299 >
-Zhang, Z., Hyojin, K., Allen J., Jones D. Explainable 3D-CNN For Protein-Ligand Binding. (Paper done at Lawrence Livermore National Lab). < https://github.com/zzh237/llnl >
-  
-![image](https://user-images.githubusercontent.com/16432436/146494291-7bb7bd25-d987-4733-adcb-557da647b8b1.png)
+* Zhang, Z. Review of Statistical Guarantees for the EM. < https://github.com/zzh237/sta243 >
+* Zhang, Z. Review of Large-dimensional Central Limit Theorem with Fourth-moment Error Bounds on Convex Sets and Balls. < https://github.com/zzh237/sta250 >
+* Zhang, Z. Mathematical Model of GAN. < https://github.com/zzh237/sta299 >
 
+### 
+* Zhang, Z., Hyojin, K., Allen J., Jones D. Explainable 3D-CNN For Protein-Ligand Binding. (Works done at Lawrence Livermore National Lab). < https://github.com/zzh237/llnl >
  * Lijun Yang, Shuang Lia, <b>Zhi Zhang</b>, Xiaohui Yang, Classification of Phonocardiogram Signals Based on Envelope
 Extraction. Biomedical Signal Processing and Control, April, 2019
  * Feldman, Candace H., Jamie Collins, <b>Zhi Zhang</b>, S. V. Subramanian, Daniel H. Solomon, Ichiro Kawachi, and Karen H. Costenbader. "Dynamic patterns and predictors of hydroxychloroquine nonadherence among medicaid beneficiaries with systemic lupus erythematosus." In Seminars in Arthritis and Rheumatism. WB Saunders, 2018. 
  * Lee YC, Bingham CO, Edwards RR, Marder W, Kristine P, Bolster MB, Clauw DJ, Moreland LW, Lu B, Wohlfahrt A, <b>Zhang Z.</b> Pain Sensitization is Associated with Disease Activity in Rheumatoid Arthritis Patients: A Cross‐Sectional Study. Arthritis care & research. 2017 Apr 24.
  * Kreps, David J., Florencia Halperin, Sonali P. Desai, <b>Zhi Zhang</b>, Elena Losina, Amber T. Olson, Elizabeth W. Karlson, Bonnie L. Bermas, and Jeffrey A. Sparks. "Association of weight loss with improved disease activity in patients with rheumatoid arthritis: A retrospective analysis using electronic medical record data." International journal of clinical rheumatology 13, no. 1 (2018): 1.
  * Tedeschi SK, Frits M, Cui J, <b>Zhi Zhang</b>, Mahmoud T, Iannaccone C, Lin TC, Yoshida K, Weinblatt ME, Shadick NA, Solomon DH. Diet and rheumatoid arthritis symptoms: survey results from a rheumatoid arthritis registry. Arthritis care & research. 2017 Dec 1;69(12):1920-5.
-
-  
- 
-
-### Selected Courses Completed
-Some favorite and related courses (100 as full score, A: 90-100, G: Graduate, U: Undergraduate): Probability Theory, Statistical Method for Research, Machine Learning(G: A), Reinforcement Learning (G: A), Machine Learning Theory (G: A), Numerical Analysis (G: A), Linear Algebra (G:A), Knowledge-based AI (G: A), Machine Learning for Trading (G: A), Design and Analysis of Algorithms (G:A),Statistical Analysis (G: A), Stats Method for Bio-experiment (G: A), Probability Theory & Mathematical Statistics (U: 96), Analysis (U: A), AI for Robotics (G: A), Software Development Process (G: A), Computer Vision (G: A), Physiological Genomics (G: A), Advanced Mathematics I-II (score: 99), Probability Theory & Mathematical Statistics (96), C Programming Language (U: 88), Electrotechnics & Electronics (93), Engineering Mechanics (95),  Basic Mechanics (91), Planning and Designing of Food Factory (85), Refrigeration Engineering (84),  Conspectus of Engineering Detection and Automation, Food Processing Machine and Equipment, Physics (84), Engineering Drawing and AutoCAD (88) 
-
-
-
-### Previous Works
-
- 
-<br /> 
-
-Posters/Presentations
+ * Posters/Presentations
  * Andrew Hresko, <b>Zhi Zhang</b>, Joshua Colls, Michael E Weinblatt, Nancy A. Shadick, Daniel Solomon, Direct Medical
 Costs for Medicare Patients with Rheumatoid Arthritis, 2018 ACR/ARHR Annual Meeting
  * Jing Cui, <b>Zhi Zhang</b>, Elizabeth Karlson, Daniel Solomon, Whole genome association study of Gout in Patients with
@@ -80,7 +65,14 @@ Kristine Phillips, Tuhina Neogi and Yvonne C. Lee, Identification of Clinically 
 Active RA. 2017 ACR/ARHP Annual Meeting, Oral Presentation
 * Katheeln Vinny, <b>Zhi Zhang</b>, Danial Soloman, Prevalence of Cytopenias Associated with Low-Dose Methotrexate and
 Folic Acid Among Patients with RA: A Systematic Review and Meta-Analysis. 2017 ACR/ARHP Annual Meeting  
-  
+
+
+ 
+<!-- ### Selected Courses Completed
+Some favorite and related courses (100 as full score, A: 90-100, G: Graduate, U: Undergraduate): Probability Theory, Statistical Method for Research, Machine Learning(G: A), Reinforcement Learning (G: A), Machine Learning Theory (G: A), Numerical Analysis (G: A), Linear Algebra (G:A), Knowledge-based AI (G: A), Machine Learning for Trading (G: A), Design and Analysis of Algorithms (G:A),Statistical Analysis (G: A), Stats Method for Bio-experiment (G: A), Probability Theory & Mathematical Statistics (U: 96), Analysis (U: A), AI for Robotics (G: A), Software Development Process (G: A), Computer Vision (G: A), Physiological Genomics (G: A), Advanced Mathematics I-II (score: 99), Probability Theory & Mathematical Statistics (96), C Programming Language (U: 88), Electrotechnics & Electronics (93), Engineering Mechanics (95),  Basic Mechanics (91), Planning and Designing of Food Factory (85), Refrigeration Engineering (84),  Conspectus of Engineering Detection and Automation, Food Processing Machine and Equipment, Physics (84), Engineering Drawing and AutoCAD (88)  -->
+
+
+
 
 
 #### Data Engineering and web visualization: 
@@ -119,7 +111,7 @@ I worked in Harvard Medical School and Brigham and Women's hospital division of 
 <br/>
 
 
-####  course projects: 
+<!-- ####  course projects: 
 
 - Machine Learning
 
@@ -210,7 +202,7 @@ I implemented Deep Q-networks using tensorflow to solve the LunarLander problem 
     <img src = "{{ site.url }}/images/author_images/Zach-Zhang-Yellowstone.jpg" width="189" height="252">
     <figcaption>Zach Zhang at Yellowstone in 2017</figcaption>
 </figure>
-</div>
+</div> -->
 
 
 
