@@ -28,9 +28,9 @@ I also care about heath. I worked 2 years as Data Scientist and Engineer in Harv
 Two years ago, I got my master's degree in statistics from the University of California, Davis, and two more years ago, I obtained my master's degree in computer science from Georgia Institute of technology, where I was in computational science and engeering and my advisor was Hongyuan Zha. 
 
 
-I finished the Computer Science master degree in Georgia Tech specialized with <b>Machine Learning, where I worked on the multi-agent reinforcement learning research.
+<!-- I finished the Computer Science master degree in Georgia Tech specialized with <b>Machine Learning, where I worked on the multi-agent reinforcement learning research.
 At the same time, I have sincere love for math, programming, and engineering, and automation, so I continue to strengthen my mathematics learning through advanced courses and research. 
-<br/>
+<br/> -->
 
 ### Publications
  * Zhang, Z. et al. Reinforcement learning under a Multi-agent Predictive State Representation Model: Method and Theory. [](https://)  
