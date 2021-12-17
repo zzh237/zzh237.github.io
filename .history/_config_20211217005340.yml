@@ -15,7 +15,7 @@ owner:
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: 
   #linkedin: zhi-z-9801801a
-  google_scholar: R2VUf7YAAAAJ
+  #google_scholar: R2VUf7YAAAAJ
   #google_plus: 
   github: zzh237
   #facebook: dukeleimao
@@ -32,14 +32,12 @@ links:
     url: /cv/
   - title: Other Work
     url: /other_work/
-  - title: Studies
-    url: /projects/
-  # - title: Referee
-  #   url: /referee/
+  - title: Referee
+    url: /referee/
   #- title: Articles
     #url: /articles/
-  # - title: Projects
-  #   url: /projects/
+  #- title: Projects
+    #url: /projects/
 #   - title: Readings
 #     url: /readings/
   #- title: Publications

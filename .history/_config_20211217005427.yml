@@ -32,10 +32,8 @@ links:
     url: /cv/
   - title: Other Work
     url: /other_work/
-  - title: Studies
-    url: /projects/
-  # - title: Referee
-  #   url: /referee/
+  - title: Referee
+    url: /referee/
   #- title: Articles
     #url: /articles/
   # - title: Projects

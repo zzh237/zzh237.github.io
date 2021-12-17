@@ -1,4 +1,4 @@
-title:            Zhi Zhang's Website
+title:            Zach Zhang's Website
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              https://zzh237.github.io
@@ -8,14 +8,14 @@ disqus_shortname: zzh237-github-io
 
 # Owner/author information
 owner:
-  name:           Zhi Zhang (Zach)
+  name:           Zach Zhang
   avatar:         /author_images/zz.jpg
-  bio:            Statistics, Optimization, Machine Learning
+  bio:            Statistics, Optimization, Machine Learning, Artificial Intelligence, Data Science
   email:          zhizhang5763@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: 
   #linkedin: zhi-z-9801801a
-  google_scholar: R2VUf7YAAAAJ
+  #google_scholar: R2VUf7YAAAAJ
   #google_plus: 
   github: zzh237
   #facebook: dukeleimao
@@ -32,14 +32,12 @@ links:
     url: /cv/
   - title: Other Work
     url: /other_work/
-  - title: Studies
-    url: /projects/
-  # - title: Referee
-  #   url: /referee/
+  - title: Referee
+    url: /referee/
   #- title: Articles
     #url: /articles/
-  # - title: Projects
-  #   url: /projects/
+  #- title: Projects
+    #url: /projects/
 #   - title: Readings
 #     url: /readings/
   #- title: Publications

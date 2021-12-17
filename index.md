@@ -7,7 +7,7 @@ image:
   feature: /images/website_images/beijing.jpg
 ---
 
-<br />
+<!-- <br /> -->
 
 <!-- ### Who am I 
 You can also see my webpage [scholoar](https://scholar.google.com/citations?user=O__axAoAAAAJ&hl=en).
@@ -32,20 +32,19 @@ At the same time, I have sincere love for math, programming, and engineering, an
  * Zhang, Z. et al. Reinforcement learning under a Multi-agent Predictive State Representation Model: Method and Theory.(ICLR2022 reviewed with average score 8) [link](https://openreview.net/forum?id=PLDOnFoVm4)  
  * Zhi Zhang, Jiachen Yang, Hongyuan Zha, Integrating independent and centralized multi-agent reinforcement learning for traffic signal network optimization. (AAMAS 2020)[link](https://arxiv.org/abs/1909.10651)
  * Zhang, Z. Few-shot Lifelong Reinforcement Learning with Generalization Guarantees. (In submission) 
- <!-- < https://drive.google.com/file/d/1LjPYFeUvlhd-bTaX4dFrBjc5qIth47yG/view  -->
- <!-- <figure>
+ 
+<!-- < https://drive.google.com/file/d/1LjPYFeUvlhd-bTaX4dFrBjc5qIth47yG/view  -->
+<!-- <figure>
   <img src="/images/projects/marl.jpg" width="524" height="300">
-</figure>
-  -->
-   >
-
+</figure> -->
+ 
 ### Writing Samples
 * Zhang, Z. Review of Statistical Guarantees for the EM. [pdf](https://github.com/zzh237/sta243)
-* Zhang, Z. Review of Large-dimensional Central Limit Theorem with Fourth-moment Error Bounds on Convex Sets and Balls. [pdf]< https://github.com/zzh237/sta250 >
-* Zhang, Z. Mathematical Model of GAN. [pdf]< https://github.com/zzh237/sta299 >
+* Zhang, Z. Review of Large-dimensional Central Limit Theorem with Fourth-moment Error Bounds on Convex Sets and Balls. [pdf](https://github.com/zzh237/sta250)
+* Zhang, Z. Mathematical Model of GAN. [pdf](https://github.com/zzh237/sta299)
 
 ### Previous 
-* Zhang, Z., Hyojin, K., Allen J., Jones D. Explainable 3D-CNN For Protein-Ligand Binding. (Works done at Lawrence Livermore National Lab). < https://github.com/zzh237/llnl >
+* Zhang, Z., Hyojin, K., Allen J., Jones D. Explainable 3D-CNN For Protein-Ligand Binding. (Works done at Lawrence Livermore National Lab). [pdf](https://github.com/zzh237/llnl)
  * Lijun Yang, Shuang Lia, <b>Zhi Zhang</b>, Xiaohui Yang, Classification of Phonocardiogram Signals Based on Envelope
 Extraction. Biomedical Signal Processing and Control, April, 2019
  * Feldman, Candace H., Jamie Collins, <b>Zhi Zhang</b>, S. V. Subramanian, Daniel H. Solomon, Ichiro Kawachi, and Karen H. Costenbader. "Dynamic patterns and predictors of hydroxychloroquine nonadherence among medicaid beneficiaries with systemic lupus erythematosus." In Seminars in Arthritis and Rheumatism. WB Saunders, 2018. 
@@ -62,8 +61,6 @@ Kristine Phillips, Tuhina Neogi and Yvonne C. Lee, Identification of Clinically 
 Active RA. 2017 ACR/ARHP Annual Meeting, Oral Presentation
 * Katheeln Vinny, <b>Zhi Zhang</b>, Danial Soloman, Prevalence of Cytopenias Associated with Low-Dose Methotrexate and
 Folic Acid Among Patients with RA: A Systematic Review and Meta-Analysis. 2017 ACR/ARHP Annual Meeting  
-
-
  
 <!-- ### Selected Courses Completed
 Some favorite and related courses (100 as full score, A: 90-100, G: Graduate, U: Undergraduate): Probability Theory, Statistical Method for Research, Machine Learning(G: A), Reinforcement Learning (G: A), Machine Learning Theory (G: A), Numerical Analysis (G: A), Linear Algebra (G:A), Knowledge-based AI (G: A), Machine Learning for Trading (G: A), Design and Analysis of Algorithms (G:A),Statistical Analysis (G: A), Stats Method for Bio-experiment (G: A), Probability Theory & Mathematical Statistics (U: 96), Analysis (U: A), AI for Robotics (G: A), Software Development Process (G: A), Computer Vision (G: A), Physiological Genomics (G: A), Advanced Mathematics I-II (score: 99), Probability Theory & Mathematical Statistics (96), C Programming Language (U: 88), Electrotechnics & Electronics (93), Engineering Mechanics (95),  Basic Mechanics (91), Planning and Designing of Food Factory (85), Refrigeration Engineering (84),  Conspectus of Engineering Detection and Automation, Food Processing Machine and Equipment, Physics (84), Engineering Drawing and AutoCAD (88)  -->
