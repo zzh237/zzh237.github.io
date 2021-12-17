@@ -42,7 +42,7 @@ At the same time, I have sincere love for math, programming, and engineering, an
    
  Zhang, Z. Few-shot Lifelong Reinforcement Learning with Generalization Guarantees (In submission to ICML 2022) < https://drive.google.com/file/d/1LjPYFeUvlhd-bTaX4dFrBjc5qIth47yG/view >
 
-### WRITING SAMPLES
+### Writing Samples
 * Zhang, Z. Review of Statistical Guarantees for the EM. < https://github.com/zzh237/sta243 >
 * Zhang, Z. Review of Large-dimensional Central Limit Theorem with Fourth-moment Error Bounds on Convex Sets and Balls. < https://github.com/zzh237/sta250 >
 * Zhang, Z. Mathematical Model of GAN. < https://github.com/zzh237/sta299 >
@@ -75,7 +75,7 @@ Some favorite and related courses (100 as full score, A: 90-100, G: Graduate, U:
 
 
 
-#### Data Engineering and web visualization: 
+<!-- #### Data Engineering and web visualization: 
 I was a full time Senior Data Scientist for <a href="http://www.seluxdx.com/">SeLux Diagnostics Inc</a>, a biotechnology company, where the team are building 
 the next generation high throughput FDA required antibiotic susceptibility testing (“AST”) device for clinical labs to run AST test for infectious disease efficiently
 and precisely. Quite amount of data were generated from bio-experiments, chemical-experiments, device running, patient samples, I used <b>OOP</b> to capture those information 
@@ -104,11 +104,11 @@ I am interning at Lawrence Livermore National Laboratory to work on a project to
 <figure>
   <img src="/images/projects/llnl.jpg" width="524" height="300">
 </figure>
+ -->
 
-
-#### Statistical Inference and Data Mining in HealthCare 
+<!-- #### Statistical Inference and Data Mining in HealthCare 
 I worked in Harvard Medical School and Brigham and Women's hospital division of clinical research in department of immunology, rheumatology, and pharmacoepidemiology for some projects related to <b>healthcare predicative modeling</b>, <b>NLP of doctor notes</b>, <b>longitudinal</b> data analysis, <b>PCA</b> analysis, <b>Proportional hazards modeling</b>, genome-wide association study <b>(GWAS)</b>, <b>EHR mining</b>, and developed tools and applications for scientists and doctors to easily store, processing, analyze and visualize data, with some paper produced, in 2013, 2014, 2015. 
-<br/>
+<br/> -->
 
 
 <!-- ####  course projects: 
