@@ -1,9 +1,9 @@
 ---
 layout: post-index
-permalink: /projects/
-title: Project
-tagline: A List of Project Posts
-tags: [project]
+permalink: /professional/
+title: Professional
+tagline: working history
+tags: [professional]
 comments: false
 ---
 
