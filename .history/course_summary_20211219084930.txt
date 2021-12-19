@@ -1,9 +1,9 @@
 Northwestern 09/21 - Current
 Evanston, IL
-•IEMS450 Math-Optimization I, Textbook: Dimitris Bertsimas, Introduction to
+IEMS450 Math-Optimization I, Textbook: Dimitris Bertsimas, Introduction to
 Linear Optimization (Simplex Method, Geometry of Linear Optimization, Duality Theory, Network
 Flow, Large Scale Optimization, Integer Optimization, Instructor: Simge Kucukyavuz, Grade:A)
-•COMP496 High Dimensional Robust Statistics, (design and analysis of robustness of algorithms for solv-
+COMP496 High Dimensional Robust Statistics, (design and analysis of robustness of algorithms for solv-
 ing the statistical or machine learning problems, such as mean covariance estimation, clustering,
 matrix completion, classification, under different corruption models like contamination, perturba-
 tions, semi-random models, and adversarial perturbations, Instructor: Aravindan Vijayaraghavan,

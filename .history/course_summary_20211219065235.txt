@@ -1,9 +1,9 @@
 Northwestern 09/21 - Current
 Evanston, IL
-•IEMS450 Math-Optimization I, Textbook: Dimitris Bertsimas, Introduction to
+IEMS450 Math-Optimization I, Textbook: Dimitris Bertsimas, Introduction to
 Linear Optimization (Simplex Method, Geometry of Linear Optimization, Duality Theory, Network
 Flow, Large Scale Optimization, Integer Optimization, Instructor: Simge Kucukyavuz, Grade:A)
-•COMP496 High Dimensional Robust Statistics, (design and analysis of robustness of algorithms for solv-
+COMP496 High Dimensional Robust Statistics, (design and analysis of robustness of algorithms for solv-
 ing the statistical or machine learning problems, such as mean covariance estimation, clustering,
 matrix completion, classification, under different corruption models like contamination, perturba-
 tions, semi-random models, and adversarial perturbations, Instructor: Aravindan Vijayaraghavan,
@@ -13,6 +13,7 @@ UC Davis 09/19 - 08/21
 Davis, CA
 •Passed two statistics written qualifying exams: Probability Theory and Mathematical Statistics
 (STA 200, 201), Statistical Methods for Research I, II (STA 206, 207)
+•Independent study project on Random Matrix Theory for deep learning representation of data.
 •Conferred Courses: STA250 Special Topics - Stein’s Method (covered the fundamentals of Stein’s
 method, bounds for distributional approximations and concentration inequalities, some recent an-
 alytic and probabilistic advancements in Stein’s method, and applications of Stein’s method to
@@ -130,6 +131,9 @@ manifolds. Instructor: Tamas Darvas, Grade: AU)
 
 Georgia Institute of Technology 09/16 - 05/19
 Atlanta, GA
+•Worked on Master Thesis of Multi-agent Reinforcement Learning
+•Teaching Assistant for CSE6740/ISYE6740/CS7641 Computational Data Analysis/Machine Learn-
+ing.
 •MATH4305 Topics in Linear Algebra, Textbook: Lay-Lay-McDonald, Linear Algebra and its Ap-
 plications, (Linear algebra in Rn, standard Euclidean inner product in Rn, general linear spaces,
 general inner product spaces, least squares, determinants, eigenvalues and eigenvectors, symmetric
