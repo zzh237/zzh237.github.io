@@ -36,6 +36,8 @@ links:
     url: /personal/
   - title: Prefessional
     url: /professional/
+  - title: Tools
+   url: /tools/
   # - title: Referee
   #   url: /referee/
   #- title: Articles
@@ -48,8 +50,7 @@ links:
     #url: /publications/
   #- title: Miscellaneous
     #url: /miscellaneous/
- - title: Tools
-   url: /tools/
+ 
 #  - title: Following
 #    url: /following/
 

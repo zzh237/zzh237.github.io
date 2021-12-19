@@ -33,10 +33,9 @@ links:
   - title: Studies 
     url: /studies/
   - title: Personal
-    url: /other_work/
-  - title: PROFESSIONAL
+    url: /personal/
+  - title: Prefessional
     url: /professional/
-  - title:
   # - title: Referee
   #   url: /referee/
   #- title: Articles
@@ -49,8 +48,7 @@ links:
     #url: /publications/
   #- title: Miscellaneous
     #url: /miscellaneous/
-#  - title: Tools
-#    url: /tools/
+ 
 #  - title: Following
 #    url: /following/
 
