@@ -102,7 +102,7 @@ duality,Weak Lpspaces and inequalities, Interpolation of Lpspaces, Grade:AU)
 
 UMD 09/20 - 05/21 visting
 College Park, MD
-CMSC828U Algorithmic Machine Learning, Guarantees and Analysis (PAC learning basics, and
+•CMSC828U Algorithmic Machine Learning, Guarantees and Analysis (PAC learning basics, and
 PAC learning in Neural Networks, Boosting and unsupervised boosting, Graphical model basics,
 Spectral methods, Reinforcement learning. I studied this course when I was visiting UMD. Instruc-
 tor: Furong Huang, Grade: A+)
