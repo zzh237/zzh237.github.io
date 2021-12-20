@@ -34,8 +34,7 @@ Facing enormous math knowledge, I am always humbled to learn. You can find the [
 <!-- I finished the Computer Science master degree in Georgia Tech specialized with <b>Machine Learning, where I worked on the multi-agent reinforcement learning research.
 At the same time, I have sincere love for math, programming, and engineering, and automation, so I continue to strengthen my mathematics learning through advanced courses and research. 
 <br/> -->
-
-### Works 
+ 
 #### Publications
 ---
 * Zhi Zhang et al. Reinforcement learning under a Multi-agent Predictive State Representation Model: Method and Theory. ICLR2022 reviewed with average score 8. [link](https://openreview.net/forum?id=PLDOnFoVm4)
@@ -64,11 +63,9 @@ More [publications](other_publications.md).
 ### Teaching
 ---
 Teaching Assistant
-#### Georgia Tech
-* CSE6740/ISYE6740/CS7641 Computational Data Analysis/Machine Learning Fall2018
-#### UC-Davis
-* MAT021: Calculus Spring2021
-* ECS032A: Introduction to Programming Fall2019 
+* Georgia Tech CSE6740/ISYE6740/CS7641 Computational Data Analysis/Machine Learning Fall2018
+* UC-Davis MAT021: Calculus Spring2021
+* UC-Davis ECS032A: Introduction to Programming Fall2019 
 
 
 
