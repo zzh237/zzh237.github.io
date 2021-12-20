@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "protein binding affinity by deep learning models"
-excerpt: "deep learning models for 3D binding affinity of proteins"
+title: "deep learning models for the 3D binding affinity of proteins"
+excerpt: "internship at Lawrance Livermore National Lab"
 modified: 2020-01-12T14:17:25-04:00
 categories: project
 tags: [machine learning, 3D-CNN]
