@@ -11,6 +11,9 @@ image:
 <!-- ### Who am I 
 You can also see my webpage [scholoar](https://scholar.google.com/citations?user=O__axAoAAAAJ&hl=en).
  -->
+ 
+### About
+---
 I am a doctoral student in computer science, working on problems related to statistics, optimization, and machine learning.  
 <br />
 <!-- In particular, the problems are related to statistical machine learning, high-dimensional statistics, computational statistics, statistical inference and estimation of dynamic systems. 
@@ -56,8 +59,16 @@ At the same time, I have sincere love for math, programming, and engineering, an
 * Zhang, Z. Mathematical Model of GAN. [pdf](/downloads/papers/STA299_Project_Zhi.pdf)
  
 
+More [publications](other_publications.md). 
 
-
+### Teaching
+---
+Teaching Assistant
+#### Georgia Tech
+* CSE6740/ISYE6740/CS7641 Computational Data Analysis/Machine Learning Fall2018
+#### UC-Davis
+* MAT021: Calculus Spring2021
+* ECS032A: Introduction to Programming Fall2019 
 
 
 
