@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /more_publications/
-title: more_Publications
+title: More Publications
 tags: [more_publications]
 modified: 8-15-2017
 comments: false
