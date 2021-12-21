@@ -41,6 +41,8 @@ At the same time, I have sincere love for math, programming, and engineering, an
 
 * Zhi Zhang, Jiachen Yang, Hongyuan Zha, Integrating independent and centralized multi-agent reinforcement learning for traffic signal network optimization. AAMAS 2020. [arXiv](https://arxiv.org/abs/1909.10651), [code]()
 
+* Lijun Yang, Shuang Lia, <b>Zhi Zhang</b>, Xiaohui Yang, Classification of Phonocardiogram Signals Based on Envelope Extraction. Biomedical Signal Processing and Control, April, 2019. [pdf](https://www.researchgate.net/profile/Lijun-Yang-15/publication/338116487_Classification_of_Phonocardiogram_Signals_Based_on_Envelope_Optimization_Model_and_Support_Vector_Machine/links/5e00517c92851c836493bfa9/Classification-of-Phonocardiogram-Signals-Based-on-Envelope-Optimization-Model-and-Support-Vector-Machine.pdf) 
+
 <!-- /downloads/projects/matrafficlight/multi-agents-trafficlights.zip -->
 
 #### Preprints
