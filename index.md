@@ -59,6 +59,7 @@ At the same time, I have sincere love for math, programming, and engineering, an
 
 * Zhang, Z. Mathematical Model of GAN. [pdf](/downloads/papers/STA299_Project_Zhi.pdf)
  
+* Notes of High-dimensional Statistics. [pdf](/downloads/research/STA_231_C_notes.pdf)
 
 More [publications](other_publications.md). 
 
@@ -68,6 +69,8 @@ Teaching Assistant
 * Georgia Tech CSE6740/ISYE6740/CS7641 Computational Data Analysis/Machine Learning Fall2018
 * UC-Davis MAT021: Calculus Spring2021
 * UC-Davis ECS032A: Introduction to Programming Fall2019 
+
+
 
 
 
