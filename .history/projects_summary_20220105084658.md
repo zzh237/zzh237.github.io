@@ -1,11 +1,25 @@
 ---
 layout: post-index
 permalink: /projects/
-title: Project
-tagline: A List of Project Posts
-tags: [project]
+title: Projects
+tagline: projects summary
+tags: [miscellaneous]
 comments: false
 ---
+
+<!--
+### [MOOC Achievements](https://leimao.github.io/miscellaneous/mooc-certificates/)
+
+My archieve of MOOC achievements.
+
+### [Useful Tools](https://leimao.github.io/miscellaneous/tools/)
+
+Useful tools online.
+
+### [Followings](https://leimao.github.io/miscellaneous/followings/)
+
+The blogs I am following.
+-->
 
 
 

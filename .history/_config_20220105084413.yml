@@ -48,8 +48,8 @@ links:
 #     url: /readings/
   #- title: Publications
     #url: /publications/
-  # - title: Miscellaneous
-  #   url: /miscellaneous/
+  - title: Miscellaneous
+    url: /miscellaneous/
  
 #  - title: Following
 #    url: /following/

@@ -1,15 +1,29 @@
 ---
 layout: post-index
-permalink: /projects/
-title: Project
-tagline: A List of Project Posts
-tags: [project]
+permalink: /miscellaneous/
+title: Miscellaneous
+tagline: A List of Miscellaneous
+tags: [miscellaneous]
 comments: false
 ---
 
+<!--
+### [MOOC Achievements](https://leimao.github.io/miscellaneous/mooc-certificates/)
+
+My archieve of MOOC achievements.
+
+### [Useful Tools](https://leimao.github.io/miscellaneous/tools/)
+
+Useful tools online.
+
+### [Followings](https://leimao.github.io/miscellaneous/followings/)
+
+The blogs I am following.
+-->
 
 
-{% for post in site.categories.projects_summary %}
+
+{% for post in site.categories.ps %}
 
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if year != year_previous %}
