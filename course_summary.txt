@@ -1,8 +1,8 @@
 Northwestern 09/21 - Current
 Evanston, IL
 
-•STAT 420-2 Stat Theory/Methods-2
-•IEMS450 Math-Optimization II
+•STAT 420-2 Stat Theory/Methods-2 B
+•IEMS450 Math-Optimization II B
 •IEMS450 Math-Optimization I, Textbook: Dimitris Bertsimas, Introduction to
 Linear Optimization (Simplex Method, Geometry of Linear Optimization, Duality Theory, Network
 Flow, Large Scale Optimization, Integer Optimization, Instructor: Simge Kucukyavuz, Grade:A)
@@ -11,10 +11,10 @@ ing the statistical or machine learning problems, such as mean covariance estima
 matrix completion, classification, under different corruption models like contamination, perturba-
 tions, semi-random models, and adversarial perturbations, Instructor: Aravindan Vijayaraghavan,
 Grade:A)
-•MATH 250-0 Elem Differential Equations 
-•MATH 321-2,3 MENU Real Analysis 
-•MATH 334-0 Linear Algebra: Second Course 
-•MATH 340-0 Geometry
+•MATH 250-0 Elem Differential Equations A 
+•MATH 321-2,3 MENU Real Analysis  A-
+•MATH 334-0 Linear Algebra: Second Course A 
+•MATH 340-0 Geometry A
 
 UC Davis 09/19 - 08/21
 Davis, CA
