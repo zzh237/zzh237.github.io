@@ -37,7 +37,7 @@ At the same time, I have sincere love for math, programming, and engineering, an
  
 #### Publications
 ---
-* Zhi Zhang et al. Reinforcement learning under a Multi-agent Predictive State Representation Model: Method and Theory. ICLR2022 reviewed with an average score of 8. [link](https://openreview.net/forum?id=PLDOnFoVm4)
+* Zhi Zhang, Zhuoyan Yang, Han Liu, Furong Huang. Reinforcement learning under a Multi-agent Predictive State Representation Model: Method and Theory. ICLR2022 Spotlight. [link](https://openreview.net/forum?id=PLDOnFoVm4)
 
 * Zhi Zhang, Jiachen Yang, Hongyuan Zha, Integrating independent and centralized multi-agent reinforcement learning for traffic signal network optimization. AAMAS 2020. [arXiv](https://arxiv.org/abs/1909.10651), [code](/downloads/code/multi-agents-trafficlights.zip)
 
@@ -47,7 +47,7 @@ At the same time, I have sincere love for math, programming, and engineering, an
 
 #### Preprints
 ---
-* Zhang, Z. Few-shot Lifelong Reinforcement Learning with Generalization Guarantees. In submission. [pdf](/downloads/papers/LL.pdf)  
+* Zhi Zhang, Han Liu. Few-shot Lifelong Reinforcement Learning with Generalization Guarantees. In submission. [pdf](/downloads/papers/LL.pdf)  
 
 #### Writing Samples
 ---
