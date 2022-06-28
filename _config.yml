@@ -32,10 +32,10 @@ links:
   #   url: /cv/
   # - title: Studies 
   #   url: /studies/
-  - title: Personal
-    url: /personal/
-  - title: Prefessional
-    url: /professional/
+  #- title: Personal
+  #  url: /personal/
+  #- title: Prefessional
+  #  url: /professional/
   # - title: Tools
   #  url: /tools/
   # - title: Referee
