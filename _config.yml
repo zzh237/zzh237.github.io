@@ -27,13 +27,12 @@ bing_verify:
 # For external links add external: true
 links:
   - title: Personal
-   url: /personal/
+    url: /personal/
   - title: Readings
     url: /readings/
-  - title: Publications
-    url: /publications/
   - title: Teaching
     url: /teaching/
+
  
 
 # Navigation bar links
