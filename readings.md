@@ -130,6 +130,15 @@ Thus, optimizing the performance of the SGEMM Kernel is a multi-step process inv
 [SGEMM](/downloads/readings/matrix_multiplication/SGEMM.md), [FLOPs](/downloads/readings/matrix_multiplication/FLOPs.md)
 
 
+In reality, the GPU supports 32B, 64B and 128B memory accesses. So, if each thread is loading a 32bit float from global memory, the warp scheduler (probably the MIO) can coalesce this 32*4B=128B load into a single transaction. This is only possible if the floats loaded are consecutive in memory, and if access is aligned.In that way, optimizing for global memory coalescing on GPU has a lot of similarities to optimizing for cache line utilization on CPU. Interestingly, to allow coalescing the threads within a warp have to access consecutive addresses, but the accesses don't have to be consecutive within-warp. Illustrated below:  If they aren't, or if access cannot be coalesced for some other reason, then the GPU will execute as many 32B loads as necessary to fetch all floats, leading to a lot of wasted bandwidth. Profiling our naive kernel, we can observe the detrimental effect of non-coalesced access as we achieve only 15GB/s of GMEM throughput  In GPU memory architecture, the term "32B" typically refers to 32 bytes, not bits. The GPU warp scheduler is capable of coalescing memory accesses into 32-byte, 64-byte, or 128-byte transactions. When each thread in a warp loads a 32-bit float from global memory, since a 32-bit float is 4 bytes, 32 threads (which is a common size for a warp) each loading a 4-byte float results in a total of 32 * 4 bytes = 128 bytes. If these 32-bit floats are consecutive in memory (meaning the memory addresses accessed by the threads are sequential with no gaps), the warp scheduler can combine these individual accesses into a single 128-byte memory transaction, which is more efficient.
+
+The "4" in this context comes from the fact that there are 4 bytes in a 32-bit value (since there are 8 bits in a byte). Multiplying by 4 is necessary to convert from 32-bit units to bytes, which is the standard unit for memory transactions. In the context of computing and GPU programming, a 32-bit value typically represents a single precision floating-point number, which is commonly referred to as a "float" in programming languages like C and C++. Single precision floats are defined in the IEEE 754 standard and take up 32 bits of memory.
+
+When dealing with matrix operations such as SGEMM (Single-precision General Matrix Multiply), each entry in the matrices involved in the multiplication is usually a single precision floating-point number, unless otherwise specified. So in this case, when we say a "32-bit float," it can be understood to mean one entry of the matrix if the matrix is composed of single precision floating-point numbers.
+
+Therefore, if a GPU kernel is designed to perform matrix multiplication using single-precision arithmetic, each thread might be responsible for loading and processing one or more 32-bit floats from each matrix, depending on the implementation and optimization of the kernel.
+
+
 
 
 
