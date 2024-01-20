@@ -1,45 +1,11 @@
 ---
-layout: home2
-title:
-description: "Zhi Zhang's Website"
-tags: [Jekyll, theme, responsive, blog, template]
-# image:
-#   feature: /images/website_images/beijing.jpg
+layout: post-index
+permalink: /downloads/research/epd/
+title: Statistical inforcence for Epidemiology
+tagline: epd
+tags: [epd]
+comments: false
 ---
-
-#### 
----
-I am a doctoral student in Statistics at UCLA. My areas of interest include:
-- [High-dimensional nonparametric data analysis](/downloads/research/hd_np.md)
-- [Deep graph neural networks](/downloads/research/dl_gnn.md)
-- [Multi-agent reinforcement learning](/downloads/research/rl.md)
-- [Optimization with optimal control](/downloads/research/opt.md) 
-- [Statistical inforcence for Epidemiology](/downloads/research/epd.md)
- 
-#### Publications/Preprints
-
----
-
-
-<b>Risk Bounds for Quantile Additive Trend Filtering.</b> [link](https://arxiv.org/pdf/2310.11711.pdf)  
-<b>Zhi Zhang</b>, Kyle Ritscher, Oscar Madrid Padilla.  
-*In Submission*. 
-
-<b>Multivariate Time Series Forecasting By Graph Attention Networks With Theoretical Guarantees.</b>  
-<b>Zhi Zhang</b>, Weijian Li, Han Liu.  
-*AISTATS 2024*.
-
-<b>Reinforcement Learning Under a Multi-agent Predictive State Representation Model: Method and Theory.</b>  [link](https://openreview.net/forum?id=PLDOnFoVm4) 
-<b>Zhi Zhang</b>, Zhuoyan Yang, Han Liu, Furong Huang.  
-*ICLR2022 Spotlight*.
-
-<b>Integrating Independent and Centralized Multi-agent Reinforcement Learning for Traffic Signal Network Optimization.</b>  [arXiv](https://arxiv.org/abs/1909.10651), [code](/downloads/code/multi-agents-trafficlights.zip)
-<b>Zhi Zhang</b>, Jiachen Yang, Hongyuan Zha.  
-*AAMAS 2020 Extended Abstract*. 
-
-<b>Classification of Phonocardiogram Signals Based on Envelope Optimization Model and Support Vector Machine.</b> [pdf](https://www.researchgate.net/profile/Lijun-Yang-15/publication/338116487_Classification_of_Phonocardiogram_Signals_Based_on_Envelope_Optimization_Model_and_Support_Vector_Machine/links/5e00517c92851c836493bfa9/Classification-of-Phonocardiogram-Signals-Based-on-Envelope-Optimization-Model-and-Support-Vector-Machine.pdf) 
-Lijun Yang, Shuang Lia, <b>Zhi Zhang</b>, Xiaohui Yang.  
-*Biomedical Signal Processing and Control, April, 2019*. 
 
 
 <b>Dynamic Patterns and Predictors of Hydroxychloroquine Nonadherence Among Medicaid Beneficiaries with Systemic Lupus Erythematosus.</b> [pubMed](https://pubmed.ncbi.nlm.nih.gov/29458974/) 
@@ -86,6 +52,22 @@ Katheeln Vinny, <b>Zhi Zhang</b>, Danial Soloman.
 
 
 
+{% for post in site.categories.miscellaneous %}
+<!--
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+  {% if year != year_previous %}
+  <h2>{{ post.date | date: '%Y' }}</h2>
+  {% endif %}
+  {% capture year_previous %}{{ post.date | date: '%Y' }}{% endcapture %}
+-->
+  <h3><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h3>
+  <p><i><small>Posted: {{ post.date | date: "%B %-d, %Y"}} Updated: {{ post.modified | date: "%B %-d, %Y"}}</small></i></p>
+  {% if post.image.teaser %}
+  <figure>
+    <a href="{{ site.url }}{{ post.url }}"><img src="{{ site.url }}{{ post.image.teaser }}"></a>
+  </figure>
+  {% endif %}
+  <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
 
-
+{% endfor %}
 
