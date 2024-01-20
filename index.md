@@ -17,7 +17,7 @@ I am a doctoral student in statistics at UCLA, working on problems related to st
  
 * <b>Zhi Zhang</b>, Kyle Ritscher, Oscar Madrid Padilla. Risk Bounds for Quantile Additive Trend Filtering. <span style="color: blue;">In Submission</span> [link](https://arxiv.org/pdf/2310.11711.pdf)
 
-* </b>Zhi Zhang</b>, Weijian Li, Han Liu, Multivariate Time Series Forecasting By Graph Attention Networks With Theoretical Guarantees. <span style="color: blue;">AISTATS 2024</span>.  
+* <b>Zhi Zhang</b>, Weijian Li, Han Liu, Multivariate Time Series Forecasting By Graph Attention Networks With Theoretical Guarantees. <span style="color: blue;">AISTATS 2024</span>.  
 
 * <b>Zhi Zhang</b>, Zhuoyan Yang, Han Liu, Furong Huang. Reinforcement learning under a Multi-agent Predictive State Representation Model: Method and Theory. <span style="color: blue;">ICLR2022 Spotlight</span>. [link](https://openreview.net/forum?id=PLDOnFoVm4)
 
