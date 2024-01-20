@@ -32,22 +32,24 @@ links:
   #   url: /cv/
   # - title: Studies 
   #   url: /studies/
-  #- title: Personal
-  #  url: /personal/
-  #- title: Prefessional
+  - title: Personal
+   url: /personal/
+  # - title: Prefessional
   #  url: /professional/
-  # - title: Tools
-  #  url: /tools/
+  - title: Tools
+   url: /tools/
   # - title: Referee
   #   url: /referee/
-  # - title: Articles
+  # # - title: Articles
   #   url: /articles/
   # - title: Projects
   #   url: /projects/
-#   - title: Readings
-#     url: /readings/
-  #- title: Publications
-    #url: /publications/
+  - title: Readings
+    url: /readings/
+  - title: Publications
+    url: /publications/
+  - title: Teaching
+    url: /teaching/
   # - title: Miscellaneous
   #   url: /miscellaneous/
  

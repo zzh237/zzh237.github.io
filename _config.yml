@@ -22,6 +22,20 @@ google_analytics: UA-105680508-1
 google_verify: KFWZJ6GsxCUxQRDDrkkQJ2jgRDVUdgUbTMXXltDss84
 bing_verify:
 
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: Personal
+   url: /personal/
+  - title: Readings
+    url: /readings/
+  - title: Publications
+    url: /publications/
+  - title: Teaching
+    url: /teaching/
+ 
+
 # Navigation bar links
 navbar-links: 
   Home: "index"
