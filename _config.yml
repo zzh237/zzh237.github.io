@@ -28,8 +28,8 @@ bing_verify:
 links:
   # - title: Personal
   #   url: /personal/
-  # - title: Readings
-  #   url: /readings/
+  - title: Readings
+    url: /readings/
   - title: Teaching
     url: /teaching/
 
