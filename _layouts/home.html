@@ -1,46 +1,49 @@
-<!doctype html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if IE 7]&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
-<!--[if IE 8]&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<!DOCTYPE html>
+<html lang="en">
 <head>
+  <!-- Head content with styles and includes -->
   {% include _head.html %}
-  <style type="text/css">
+  <style>
+    body {
+      display: flex;
+      margin: 0;
+    }
     .sidebar {
-      float: left;
-      width: 20%;
-      height: 100vh;
-      background: #f8f8f8; /* Example background color for the sidebar */
+      width: 250px; /* Adjust the width as needed */
+      background-color: #f8f8f8; /* Sidebar color */
+      padding: 20px;
+      height: 100vh; /* Full height */
+      box-sizing: border-box;
+      overflow-y: auto;
     }
     .content {
-      float: right;
-      width: 80%;
-      height: 100vh;
-      overflow: auto;
+      flex-grow: 1;
+      padding: 20px;
+      overflow-y: auto;
     }
-    .article-wrap img {
-      border-radius: 5px;
-    }
-    figure {
-      text-align: center;
-    }
+    /* Additional styles */
   </style>
 </head>
 <body class="page">
+  <!-- Include browser upgrade warning if needed -->
   {% include _browser-upgrade.html %}
+  
+  <!-- Sidebar for navigation -->
   <div class="sidebar">
-    <!-- Sidebar content -->
     {% include _navigation.html %}
   </div>
+  
+  <!-- Main content area -->
   <div class="content">
     {% if page.image.feature %}
-    <div class="image-wrap">
-      <img src="{% if page.image.feature contains 'http://' %}{{ page.image.feature }}{% elsif page.image.feature contains 'https://' %}{{ page.image.feature }}{% else %}{{ site.url }}{{ page.image.feature }}{% endif %}" alt="{{ page.title }} feature image">
-      {% if page.image.credit %}
-      <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
-      {% endif %}
-    </div><!-- /.image-wrap -->
+      <div class="image-wrap">
+        <img src="{% if page.image.feature contains 'http://' %}{{ page.image.feature }}{% elsif page.image.feature contains 'https://' %}{{ page.image.feature }}{% else %}{{ site.url }}{{ page.image.feature }}{% endif %}" alt="{{ page.title }} feature image">
+        {% if page.image.credit %}
+          <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
+        {% endif %}
+      </div>
     {% endif %}
+    
     <div id="main" role="main">
       <div class="article-author-side">
         {% include _author-bio.html %}
@@ -51,7 +54,7 @@
           {{ content }}
         </div>
         {% if site.disqus_shortname and page.comments %}
-        <section id="disqus_thread"></section>
+          <section id="disqus_thread"></section>
         {% endif %}
       </article>
     </div>
@@ -59,8 +62,10 @@
       <footer>
         {% include _footer.html %}
       </footer>
-    </div><!-- /.footer-wrap -->
+    </div>
   </div>
+
+  <!-- Scripts at the end of the document -->
   {% include _scripts.html %}
 </body>
 </html>
