@@ -21,30 +21,29 @@ I am a doctoral student in Statistics at UCLA. My areas of interest include:
 ---
 
 
-<b>Risk Bounds for Quantile Additive Trend Filtering.</b> [link](https://arxiv.org/pdf/2310.11711.pdf)  
-<b>Zhi Zhang</b>, Kyle Ritscher, Oscar Madrid Padilla.  
-*In Submission*. 
+**Risk Bounds for Quantile Additive Trend Filtering.**  
+**Zhi Zhang**, Kyle Ritscher, Oscar Madrid Padilla.  
+*In Submission.* [link](https://arxiv.org/pdf/2310.11711.pdf)  
 
-<b>Multivariate Time Series Forecasting By Graph Attention Networks With Theoretical Guarantees.</b>  
-<b>Zhi Zhang</b>, Weijian Li, Han Liu.  
-*AISTATS 2024*.
+**Multivariate Time Series Forecasting By Graph Attention Networks With Theoretical Guarantees.**  
+**Zhi Zhang**, Weijian Li, Han Liu.  
+*AISTATS 2024.*  
 
-<b>Reinforcement Learning Under a Multi-agent Predictive State Representation Model: Method and Theory.</b>  [link](https://openreview.net/forum?id=PLDOnFoVm4) 
-<b>Zhi Zhang</b>, Zhuoyan Yang, Han Liu, Furong Huang.  
-*ICLR2022 Spotlight*.
+**Reinforcement Learning Under a Multi-agent Predictive State Representation Model: Method and Theory.**  
+**Zhi Zhang**, Zhuoyan Yang, Han Liu, Furong Huang.  
+*ICLR2022 Spotlight.* [link](https://openreview.net/forum?id=PLDOnFoVm4)  
 
-<b>Integrating Independent and Centralized Multi-agent Reinforcement Learning for Traffic Signal Network Optimization.</b>  [arXiv](https://arxiv.org/abs/1909.10651), [code](/downloads/code/multi-agents-trafficlights.zip)
-<b>Zhi Zhang</b>, Jiachen Yang, Hongyuan Zha.  
-*AAMAS 2020 Extended Abstract*. 
+**Integrating Independent and Centralized Multi-agent Reinforcement Learning for Traffic Signal Network Optimization.**  
+**Zhi Zhang**, Jiachen Yang, Hongyuan Zha.  
+*AAMAS 2020 Extended Abstract.* [arXiv](https://arxiv.org/abs/1909.10651) [code](/downloads/code/multi-agents-trafficlights.zip)  
 
-<b>Classification of Phonocardiogram Signals Based on Envelope Optimization Model and Support Vector Machine.</b> [pdf](https://www.researchgate.net/profile/Lijun-Yang-15/publication/338116487_Classification_of_Phonocardiogram_Signals_Based_on_Envelope_Optimization_Model_and_Support_Vector_Machine/links/5e00517c92851c836493bfa9/Classification-of-Phonocardiogram-Signals-Based-on-Envelope-Optimization-Model-and-Support-Vector-Machine.pdf) 
-Lijun Yang, Shuang Lia, <b>Zhi Zhang</b>, Xiaohui Yang.  
-*Biomedical Signal Processing and Control, April, 2019*. 
+**Classification of Phonocardiogram Signals Based on Envelope Optimization Model and Support Vector Machine.**  
+Lijun Yang, Shuang Lia, **Zhi Zhang**, Xiaohui Yang.  
+*Biomedical Signal Processing and Control, April 2019.* [pdf](https://www.researchgate.net/profile/Lijun-Yang-15/publication/338116487_Classification_of_Phonocardiogram_Signals_Based_on_Envelope_Optimization_Model_and_Support_Vector_Machine/links/5e00517c92851c836493bfa9/Classification-of-Phonocardiogram-Signals-Based-on-Envelope-Optimization-Model-and-Support-Vector-Machine.pdf)  
 
-
-<b>Dynamic Patterns and Predictors of Hydroxychloroquine Nonadherence Among Medicaid Beneficiaries with Systemic Lupus Erythematosus.</b> [pubMed](https://pubmed.ncbi.nlm.nih.gov/29458974/) 
-Candace H. Feldman, Jamie Collins, <b>Zhi Zhang</b>, S. V. Subramanian, Daniel H. Solomon, Ichiro Kawachi, Karen H. Costenbader.  
-*Seminars in Arthritis and Rheumatism. WB Saunders, 2018*. 
+**Dynamic Patterns and Predictors of Hydroxychloroquine Nonadherence Among Medicaid Beneficiaries with Systemic Lupus Erythematosus.**  
+Candace H. Feldman, Jamie Collins, **Zhi Zhang**, S. V. Subramanian, Daniel H. Solomon, Ichiro Kawachi, Karen H. Costenbader.  
+*Seminars in Arthritis and Rheumatism, WB Saunders, 2018.* [pubMed](https://pubmed.ncbi.nlm.nih.gov/29458974/)  
 
 <b>Azathioprine and Mycophenolate Mofetil Adherence Patterns and Predictors Among Medicaid Beneficiaries with Systemic Lupus Erythematosus.</b> [pubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6482109/) 
 Candace H Feldman, Jamie Collins, <b>Zhi Zhang</b>, Chang Xu, S. V. Subramanian, Ichiro Kawachi, Daniel H Solomon, Karen H Costenbader.  
