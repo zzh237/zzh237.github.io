@@ -127,6 +127,8 @@ Finally, to utilize the LDS.128 instructions, the input matrix might need to be 
 
 Thus, optimizing the performance of the SGEMM Kernel is a multi-step process involving resource allocation, memory access patterns, and coding techniques to achieve performance levels close to professional libraries like cuBLAS.
 
+[SGEMM](/downloads/readings/matrix_multiplication/SGEMM.md)
+
 
 
 
