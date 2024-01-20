@@ -8,9 +8,11 @@ comments: false
 ---
 
 
-<b>Classification of Phonocardiogram Signals Based on Envelope Optimization Model and Support Vector Machine.</b> [pdf](https://www.researchgate.net/profile/Lijun-Yang-15/publication/338116487_Classification_of_Phonocardiogram_Signals_Based_on_Envelope_Optimization_Model_and_Support_Vector_Machine/links/5e00517c92851c836493bfa9/Classification-of-Phonocardiogram-Signals-Based-on-Envelope-Optimization-Model-and-Support-Vector-Machine.pdf) 
-Lijun Yang, Shuang Lia, <b>Zhi Zhang</b>, Xiaohui Yang.  
-*Biomedical Signal Processing and Control, April, 2019*. 
+**Classification of Phonocardiogram Signals Based on Envelope Optimization Model and Support Vector Machine.**  
+Lijun Yang, Shuang Lia, **Zhi Zhang**, Xiaohui Yang.  
+*Biomedical Signal Processing and Control, April 2019.* [pdf](https://www.researchgate.net/profile/Lijun-Yang-15/publication/338116487_Classification_of_Phonocardiogram_Signals_Based_on_Envelope_Optimization_Model_and_Support_Vector_Machine/links/5e00517c92851c836493bfa9/Classification-of-Phonocardiogram-Signals-Based-on-Envelope-Optimization-Model-and-Support-Vector-Machine.pdf)  
+
+<br>   
 
 
 

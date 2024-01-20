@@ -8,9 +8,11 @@ comments: false
 ---
 
 
-<b>Multivariate Time Series Forecasting By Graph Attention Networks With Theoretical Guarantees.</b>  
-<b>Zhi Zhang</b>, Weijian Li, Han Liu.  
-*AISTATS 2024*.
+**Multivariate Time Series Forecasting By Graph Attention Networks With Theoretical Guarantees.**  
+**Zhi Zhang**, Weijian Li, Han Liu.  
+*AISTATS 2024.*  
+
+<br>
 
 
 

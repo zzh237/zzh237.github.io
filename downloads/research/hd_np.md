@@ -8,10 +8,12 @@ comments: false
 ---
 
 
-<b>Risk Bounds for Quantile Additive Trend Filtering.</b> [link](https://arxiv.org/pdf/2310.11711.pdf)  
-<b>Zhi Zhang</b>, Kyle Ritscher, Oscar Madrid Padilla.  
-*In Submission*. 
 
+**Risk Bounds for Quantile Additive Trend Filtering.**  
+**Zhi Zhang**, Kyle Ritscher, Oscar Madrid Padilla.  
+*In Submission.* [link](https://arxiv.org/pdf/2310.11711.pdf)  
+
+<br>
 
 
 

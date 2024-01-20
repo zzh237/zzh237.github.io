@@ -7,46 +7,64 @@ tags: [epd]
 comments: false
 ---
 
+**Dynamic Patterns and Predictors of Hydroxychloroquine Nonadherence Among Medicaid Beneficiaries with Systemic Lupus Erythematosus.**  
+Candace H. Feldman, Jamie Collins, **Zhi Zhang**, S. V. Subramanian, Daniel H. Solomon, Ichiro Kawachi, Karen H. Costenbader.  
+*Seminars in Arthritis and Rheumatism, WB Saunders, 2018.* [pubMed](https://pubmed.ncbi.nlm.nih.gov/29458974/)  
 
-<b>Dynamic Patterns and Predictors of Hydroxychloroquine Nonadherence Among Medicaid Beneficiaries with Systemic Lupus Erythematosus.</b> [pubMed](https://pubmed.ncbi.nlm.nih.gov/29458974/) 
-Candace H. Feldman, Jamie Collins, <b>Zhi Zhang</b>, S. V. Subramanian, Daniel H. Solomon, Ichiro Kawachi, Karen H. Costenbader.  
-*Seminars in Arthritis and Rheumatism. WB Saunders, 2018*. 
+<br>  
 
-<b>Azathioprine and Mycophenolate Mofetil Adherence Patterns and Predictors Among Medicaid Beneficiaries with Systemic Lupus Erythematosus.</b> [pubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6482109/) 
-Candace H Feldman, Jamie Collins, <b>Zhi Zhang</b>, Chang Xu, S. V. Subramanian, Ichiro Kawachi, Daniel H Solomon, Karen H Costenbader.  
-*Arthritis Care & Research, 2019*. 
+**Azathioprine and Mycophenolate Mofetil Adherence Patterns and Predictors Among Medicaid Beneficiaries with Systemic Lupus Erythematosus.**  
+**Zhi Zhang**, Candace H Feldman, Jamie Collins, Chang Xu, S. V. Subramanian, Ichiro Kawachi, Daniel H Solomon, Karen H Costenbader.  
+*Arthritis Care & Research, 2019.* [pubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6482109/)  
 
-<b>Association of Weight Loss with Improved Disease Activity in Patients with Rheumatoid Arthritis: A Retrospective Analysis Using Electronic Medical Record Data.</b>  [pubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5875117/)
-David J. Kreps, Florencia Halperin, Sonali P. Desai, <b>Zhi Zhang</b>, Elena Losina, Amber T. Olson, Elizabeth W. Karlson, Bonnie L. Bermas, Jeffrey A. Sparks.  
-*International Journal of Clinical Rheumatology 13, no. 1 (2018): 1*. 
+<br>
 
-<b>Diet and Rheumatoid Arthritis Symptoms: Survey Results from a Rheumatoid Arthritis Registry.</b>  [pubMed](https://pubmed.ncbi.nlm.nih.gov/28217907/)
-SK Tedeschi, M Frits, J Cui, <b>Zhi Zhang</b>, T Mahmoud, C Iannaccone, TC Lin, K Yoshida, ME Weinblatt, NA Shadick, DH Solomon.  
-*Arthritis Care & Research. 2017 Dec 1;69(12):1920-5*. 
+**Association of Weight Loss with Improved Disease Activity in Patients with Rheumatoid Arthritis: A Retrospective Analysis Using Electronic Medical Record Data.**  
+**Zhi Zhang**, David J. Kreps, Florencia Halperin, Sonali P. Desai, Elena Losina, Amber T. Olson, Elizabeth W. Karlson, Bonnie L. Bermas, Jeffrey A. Sparks.  
+*International Journal of Clinical Rheumatology 13, no. 1 (2018): 1.* [pubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5875117/)  
 
-<b>Pain Sensitization is Associated with Disease Activity in Rheumatoid Arthritis Patients: A Cross-Sectional Study.</b> [pubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5654691/) 
-Yvonne C Lee, Clifton O Bingham III, Robert R Edwards, Wendy Marder, Kristine Phillips, Marcy B Bolster, Daniel J Clauw, Larry W Moreland, Bing Lu, Alyssa Wohlfahrt, <b>Zhi Zhang</b>, Tuhina Neogi.  
-*Arthritis Care & Research. 2017 Apr 24*. 
+<br>
 
-<b>Association Between Pain Sensitization and Disease Activity in Patients with Rheumatoid Arthritis: A Cross-Sectional Study.</b> [pubMed](https://pubmed.ncbi.nlm.nih.gov/28437846/) 
-Yvonne C Lee, Clifton O Bingham III, Robert R Edwards, Wendy Marder, Kristine Phillips, Marcy B Bolster, Daniel J Clauw, Larry W Moreland, Bing Lu, Alyssa Wohlfahrt, <b>Zhi Zhang</b>, Tuhina Neogi.  
-*Arthritis Care & Research, 2018*. 
+**Diet and Rheumatoid Arthritis Symptoms: Survey Results from a Rheumatoid Arthritis Registry.**  
+**Zhi Zhang**, SK Tedeschi, M Frits, J Cui, T Mahmoud, C Iannaccone, TC Lin, K Yoshida, ME Weinblatt, NA Shadick, DH Solomon.  
+*Arthritis Care & Research. 2017 Dec 1;69(12):1920-5.* [pubMed](https://pubmed.ncbi.nlm.nih.gov/28217907/)  
 
-* <b>Direct Medical Costs for Medicare Patients with Rheumatoid Arthritis.</b> [link](https://acrabstracts.org/abstract/direct-medical-costs-for-medicare-patients-with-rheumatoid-arthritis/) 
-Andrew Hresko, <b>Zhi Zhang</b>, Joshua Colls, Michael E Weinblatt, Nancy A. Shadick, Daniel Solomon.  
-*2018 ACR/ARHR Annual Meeting*. 
+<br>
 
-* <b>Whole Genome Association Study of Gout in Patients with Hyperuricemia Identified Many Possible New Candidate Risk Alleles.</b> [link](https://acrabstracts.org/abstract/gwas-of-gout-in-patients-with-hyperuricemia-identified-many-possible-new-candidate-risk-alleles/) 
-Jing Cui, <b>Zhi Zhang</b>, Elizabeth Karlson, Daniel Solomon.  
-*2017 ACR/ARHP Annual Meeting*. 
+**Pain Sensitization is Associated with Disease Activity in Rheumatoid Arthritis Patients: A Cross-Sectional Study.**  
+**Zhi Zhang**, Yvonne C Lee, Clifton O Bingham III, Robert R Edwards, Wendy Marder, Kristine Phillips, Marcy B Bolster, Daniel J Clauw, Larry W Moreland, Bing Lu, Alyssa Wohlfahrt, Tuhina Neogi.  
+*Arthritis Care & Research. 2017 Apr 24.* [pubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5654691/)  
 
-* <b>Identification of Clinically Relevant Pain Profiles in Individuals with Active RA.</b>  [link](https://acrabstracts.org/abstract/identification-of-clinically-relevant-pain-profiles-in-individuals-with-active-ra/) 
-Alyssa Wohlfahrt, <b>Zhi Zhang</b>, Bing Lu, Clifton O. Bingham III, Marcy B. Bolster, Wendy Marder, Larry W. Moreland, Kristine Phillips, Tuhina Neogi, Yvonne C. Lee.  
-*2017 ACR/ARHP Annual Meeting*. 
+<br>
 
-* <b>Prevalence of Cytopenias Associated with Low-Dose Methotrexate and Folic Acid Among Patients with RA: A Systematic Review and Meta-Analysis.</b> [link](https://acrabstracts.org/abstract/hematologic-abnormalities-during-the-use-of-low-dose-methotrexate-for-rheumatoid-arthritis-a-systematic-review-and-meta-analysis/) 
-Katheeln Vinny, <b>Zhi Zhang</b>, Danial Soloman.  
-*2017 ACR/ARHP Annual Meeting*. 
+**Association Between Pain Sensitization and Disease Activity in Patients with Rheumatoid Arthritis: A Cross-Sectional Study.**  
+**Zhi Zhang**, Yvonne C Lee, Clifton O Bingham III, Robert R Edwards, Wendy Marder, Kristine Phillips, Marcy B Bolster, Daniel J Clauw, Larry W Moreland, Bing Lu, Alyssa Wohlfahrt, Tuhina Neogi.  
+*Arthritis Care & Research, 2018.* [pubMed](https://pubmed.ncbi.nlm.nih.gov/28437846/)  
+
+<br>
+
+**Direct Medical Costs for Medicare Patients with Rheumatoid Arthritis.**  
+**Zhi Zhang**, Andrew Hresko, Joshua Colls, Michael E Weinblatt, Nancy A. Shadick, Daniel Solomon.  
+*2018 ACR/ARHR Annual Meeting.* [link](https://acrabstracts.org/abstract/direct-medical-costs-for-medicare-patients-with-rheumatoid-arthritis/)  
+
+<br>
+
+**Whole Genome Association Study of Gout in Patients with Hyperuricemia Identified Many Possible New Candidate Risk Alleles.**  
+**Zhi Zhang**, Jing Cui, Elizabeth Karlson, Daniel Solomon.  
+*2017 ACR/ARHP Annual Meeting.* [link](https://acrabstracts.org/abstract/gwas-of-gout-in-patients-with-hyperuricemia-identified-many-possible-new-candidate-risk-alleles/)  
+
+<br>
+
+**Identification of Clinically Relevant Pain Profiles in Individuals with Active RA.**  
+**Zhi Zhang**, Alyssa Wohlfahrt, Bing Lu, Clifton O. Bingham III, Marcy B. Bolster, Wendy Marder, Larry W. Moreland, Kristine Phillips, Tuhina Neogi, Yvonne C. Lee.  
+*2017 ACR/ARHP Annual Meeting.* [link](https://acrabstracts.org/abstract/identification-of-clinically-relevant-pain-profiles-in-individuals-with-active-ra/)  
+
+<br>
+
+**Prevalence of Cytopenias Associated with Low-Dose Methotrexate and Folic Acid Among Patients with RA: A Systematic Review and Meta-Analysis.**  
+**Zhi Zhang**, Katheeln Vinny, Danial Soloman.  
+*2017 ACR/ARHP Annual Meeting.* [link](https://acrabstracts.org/abstract/hematologic-abnormalities-during-the-use-of-low-dose-methotrexate-for-rheumatoid-arthritis-a-systematic-review-and-meta-analysis/)  
+
 
 
 

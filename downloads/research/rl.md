@@ -8,13 +8,17 @@ comments: false
 ---
 
 
-<b>Reinforcement Learning Under a Multi-agent Predictive State Representation Model: Method and Theory.</b>  [link](https://openreview.net/forum?id=PLDOnFoVm4) 
-<b>Zhi Zhang</b>, Zhuoyan Yang, Han Liu, Furong Huang.  
-*ICLR2022 Spotlight*.
+**Reinforcement Learning Under a Multi-agent Predictive State Representation Model: Method and Theory.**  
+**Zhi Zhang**, Zhuoyan Yang, Han Liu, Furong Huang.  
+*ICLR2022 Spotlight.* [link](https://openreview.net/forum?id=PLDOnFoVm4)  
 
-<b>Integrating Independent and Centralized Multi-agent Reinforcement Learning for Traffic Signal Network Optimization.</b>  [arXiv](https://arxiv.org/abs/1909.10651), [code](/downloads/code/multi-agents-trafficlights.zip)
-<b>Zhi Zhang</b>, Jiachen Yang, Hongyuan Zha.  
-*AAMAS 2020 Extended Abstract*. 
+<br>
+
+**Integrating Independent and Centralized Multi-agent Reinforcement Learning for Traffic Signal Network Optimization.**  
+**Zhi Zhang**, Jiachen Yang, Hongyuan Zha.  
+*AAMAS 2020 Extended Abstract.* [arXiv](https://arxiv.org/abs/1909.10651), [code](/downloads/code/multi-agents-trafficlights.zip)  
+
+<br>  
 
 
 
