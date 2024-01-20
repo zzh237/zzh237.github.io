@@ -8,10 +8,9 @@ image:
 ---
 
  
-### About
 ---
 I am a doctoral student in statistics at UCLA, working on problems related to statistics, optimization, and machine learning.  
-<br />
+
  
 #### Publications
 ---
