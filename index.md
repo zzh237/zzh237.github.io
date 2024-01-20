@@ -3,8 +3,8 @@ layout: home
 title:
 description: "Zhi Zhang's Website"
 tags: [Jekyll, theme, responsive, blog, template]
-image:
-  feature: /images/website_images/beijing.jpg
+# image:
+#   feature: /images/website_images/beijing.jpg
 ---
 
  
