@@ -7,7 +7,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 #   feature: /images/website_images/beijing.jpg
 ---
 
-#### About
+#### 
 ---
 I am a doctoral student in statistics at UCLA, working on problems related to statistics, optimization, and machine learning.  
 
