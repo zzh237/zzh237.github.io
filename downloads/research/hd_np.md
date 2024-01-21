@@ -1,7 +1,7 @@
 ---
 layout: post-index
 permalink: /downloads/research/hd_np/
-title: High-dimensional nonparametric data analysis
+title: High-dimensional nonparametric statistics
 tagline: hd_np
 tags: [hd_np]
 comments: false
