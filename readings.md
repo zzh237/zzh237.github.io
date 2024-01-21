@@ -1,5 +1,5 @@
 ---
-layout: post-index
+layout: code_layout
 permalink: /readings/
 title: Readings
 tagline: A List of Reading Posts
@@ -140,6 +140,58 @@ Therefore, if a GPU kernel is designed to perform matrix multiplication using si
 
 
 
+
+
+```cpp
+// create as many blocks as necessary to map all of C
+dim3 gridDim(CEIL_DIV(M, 32), CEIL_DIV(N, 32), 1);
+// 32 * 32 = 1024 thread per block
+dim3 blockDim(32, 32, 1);
+// launch the asynchronous execution of the kernel on the device
+// The function call returns immediately on the host
+sgemm_naive<<<gridDim, blockDim>>>(M, N, K, alpha, A, B, beta, C);
+__global__ void sgemm_naive(int M, int N, int K, float alpha, const float *A,
+                            const float *B, float beta, float *C) {
+  // compute position in C that this thread is responsible for
+  const uint x = blockIdx.x * blockDim.x + threadIdx.x;
+  const uint y = blockIdx.y * blockDim.y + threadIdx.y;
+
+  // `if` condition is necessary for when M or N aren't multiples of 32.
+  if (x < M && y < N) {
+    float tmp = 0.0;
+    for (int i = 0; i < K; ++i) {
+      tmp += A[x * K + i] * B[i * N + y];
+    }
+    // C = α*(A@B)+β*C
+    C[x * N + y] = alpha * tmp + beta * C[x * N + y];
+  }
+}
+```
+
+
+```cpp
+// gridDim stays the same
+dim3 gridDim(CEIL_DIV(M, 32), CEIL_DIV(N, 32));
+// make blockDim 1-dimensional, but don't change number of threads
+dim3 blockDim(32 * 32);
+// launch the asynchronous execution of the kernel on the device
+// The function call returns immediately on the host
+sgemm_coalescing<<<gridDim, blockDim>>>(M, N, K, alpha, A, B, beta, C);
+__global__ void sgemm_naive(int M, int N, int K, float alpha, const float *A,
+                            const float *B, float beta, float *C) {
+  // compute position in C that this thread is responsible for
+  const int x = blockIdx.x * BLOCKSIZE + (threadIdx.x / BLOCKSIZE);
+  const int y = blockIdx.y * BLOCKSIZE + (threadIdx.x % BLOCKSIZE);
+
+  if (x < M && y < N) {
+    float tmp = 0.0;
+    for (int i = 0; i < K; ++i) {
+      tmp += A[x * K + i] * B[i * N + y];
+    }
+    C[x * N + y] = alpha * tmp + beta * C[x * N + y];
+  }
+}
+```
 
 
 
