@@ -8,11 +8,11 @@ tags: [Jekyll, theme, responsive, blog, template]
 ---
 
 I am a doctoral student in Statistics at UCLA. My areas of interest include:
-- [High-dimensional nonparametric statistics](/_posts/publications/hd_np.md)
-- [Deep graph neural networks](/_posts/publications/dl_gnn.md)
-- [Multi-agent reinforcement learning](/_posts/publications/rl.md)
-- [Optimization with optimal control](/_posts/publications/opt.md) 
-- [Statistical inference for Epidemiology](/_posts/publications/epd.md)
+- [High-dimensional nonparametric statistics](/_posts/publications/2024-01-21-hd_np.md)
+- [Deep graph neural networks](/_posts/publications/2024-01-21-dl_gnn.md)
+- [Multi-agent reinforcement learning](/_posts/publications/2024-01-21-rl.md)
+- [Optimization with optimal control](/_posts/publications/2024-01-21-opt.md) 
+- [Statistical inference for Epidemiology](/_posts/publications/2024-01-21-epd.md)
  
 <!-- #### Publications/Preprints
 
