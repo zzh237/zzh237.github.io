@@ -13,12 +13,12 @@ document.addEventListener('DOMContentLoaded', function() {
       var clickedPostTitle = link.innerText;
 
       // 激活侧边栏的 "Publications" 标签
-      sidebarCategories.forEach(function(category) {
-        category.classList.remove('active');
-        if (category.dataset.filter === 'publication') {
-          category.classList.add('active');
-        }
-      });
+      // sidebarCategories.forEach(function(category) {
+      //   category.classList.remove('active');
+      //   if (category.dataset.filter === 'publication') {
+      //     category.classList.add('active');
+      //   }
+      // });
 
 
       // 找到对应的侧边栏文章链接并触发点击事件
