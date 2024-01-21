@@ -11,16 +11,22 @@
     </div>
 
     <ul id="sidebar-tags">
-      <!-- Set the "publications" filter as active by default -->
-      <li class="sidebar-tag{% if page.category == 'publications' or page.url contains 'publications' %} active{% endif %}" data-filter="publications">Publications</li>
+      <!-- Always set the "publications" filter as active -->
+      <li class="sidebar-tag{% if site.filter == 'category' %} active{% endif %}" data-filter="publications">Publications</li>
       
-      <!-- List other categories as non-active -->
-      {% for category in site.categories %}
-        {% unless category[0] == 'publications' %}
-          <li class="sidebar-tag" data-filter="{{ category[0] }}">{{ category[0] | capitalize }}</li>
-        {% endunless %}
-      {% endfor %}
-    </ul>
+      <!-- List other categories based on site.filter setting -->
+      {% if site.filter == 'category' %}
+        {% for category in site.categories %}
+          {% unless category[0] == 'publications' %}
+            <li class="sidebar-tag" data-filter="{{ category[0] }}">{{ category[0] | capitalize }}</li>
+          {% endunless %}
+        {% endfor %}
+      {% elsif site.filter == 'tag' %}
+        {% for tag in site.tags %}
+          <li class="sidebar-tag" data-filter="{{ tag }}">{{ tag | capitalize }}</li>
+        {% endfor %}
+      {% endif %}
+    </ul>    
   </div>
 
   <div id="sidebar-right">
