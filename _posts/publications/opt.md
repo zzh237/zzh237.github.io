@@ -1,10 +1,12 @@
 ---
-layout: post-index
-permalink: /downloads/research/opt/
-title: Optimization with optimal control
-tagline: opt
+layout: post
+title: "Optimization with optimal control"
+excerpt: "Optimization with optimal control"
+modified: 2018-1-26T14:17:25-04:00
+categories: publication
 tags: [opt]
-comments: false
+comments: true
+share: true
 ---
 
 

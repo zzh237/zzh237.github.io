@@ -1,24 +1,20 @@
 ---
-layout: post-index
-permalink: /downloads/research/rl/
-title: Multi-agent reinforcement learning
-tagline: rl
-tags: [rl]
-comments: false
+layout: post
+title: "Deep graph neural networks"
+excerpt: "Deep graph neural networks"
+modified: 2018-1-26T14:17:25-04:00
+categories: publication
+tags: [deep learning, gnn]
+comments: true
+share: true
 ---
 
 
-**Reinforcement Learning Under a Multi-agent Predictive State Representation Model: Method and Theory.**  
-**Zhi Zhang**, Zhuoyan Yang, Han Liu, Furong Huang.  
-*ICLR2022 Spotlight.* [link](https://openreview.net/pdf?id=PLDOnFoVm4)  
+**Multivariate Time Series Forecasting By Graph Attention Networks With Theoretical Guarantees.**  
+**Zhi Zhang**, Weijian Li, Han Liu.  
+*AISTATS 2024.*  
 
 <br>
-
-**Integrating Independent and Centralized Multi-agent Reinforcement Learning for Traffic Signal Network Optimization.**  
-**Zhi Zhang**, Jiachen Yang, Hongyuan Zha.  
-*AAMAS 2020 Extended Abstract.* [arXiv](https://arxiv.org/abs/1909.10651), [code](/downloads/code/multi-agents-trafficlights.zip)  
-
-<br>  
 
 
 

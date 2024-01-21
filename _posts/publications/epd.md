@@ -1,10 +1,12 @@
 ---
-layout: post-index
-permalink: /downloads/research/epd/
-title: Statistical inforcence for Epidemiology
-tagline: epd
+layout: post
+title: "Statistical inforcence for Epidemiology"
+excerpt: "Statistical inforcence for Epidemiology"
+modified: 2018-1-26T14:17:25-04:00
+categories: publication
 tags: [epd]
-comments: false
+comments: true
+share: true
 ---
 
 **Dynamic Patterns and Predictors of Hydroxychloroquine Nonadherence Among Medicaid Beneficiaries with Systemic Lupus Erythematosus.**  

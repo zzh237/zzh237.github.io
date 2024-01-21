@@ -8,13 +8,13 @@ tags: [Jekyll, theme, responsive, blog, template]
 ---
 
 I am a doctoral student in Statistics at UCLA. My areas of interest include:
-- [High-dimensional nonparametric statistics](/downloads/research/hd_np.md)
-- [Deep graph neural networks](/downloads/research/dl_gnn.md)
-- [Multi-agent reinforcement learning](/downloads/research/rl.md)
-- [Optimization with optimal control](/downloads/research/opt.md) 
-- [Statistical inference for Epidemiology](/downloads/research/epd.md)
+- [High-dimensional nonparametric statistics](/_posts/publications/hd_np.md)
+- [Deep graph neural networks](/_posts/publications/dl_gnn.md)
+- [Multi-agent reinforcement learning](/_posts/publications/rl.md)
+- [Optimization with optimal control](/_posts/publications/opt.md) 
+- [Statistical inference for Epidemiology](/_posts/publications/epd.md)
  
-#### Publications/Preprints
+<!-- #### Publications/Preprints
 
 ---
 
@@ -105,7 +105,7 @@ Alyssa Wohlfahrt, **Zhi Zhang**, Bing Lu, Clifton O. Bingham III, Marcy B. Bolst
 
 **Prevalence of Cytopenias Associated with Low-Dose Methotrexate and Folic Acid Among Patients with RA: A Systematic Review and Meta-Analysis.**  
 Katheeln Vinny, **Zhi Zhang**, Danial Soloman.  
-*2017 ACR/ARHP Annual Meeting.* [link](https://acrabstracts.org/abstract/hematologic-abnormalities-during-the-use-of-low-dose-methotrexate-for-rheumatoid-arthritis-a-systematic-review-and-meta-analysis/)  
+*2017 ACR/ARHP Annual Meeting.* [link](https://acrabstracts.org/abstract/hematologic-abnormalities-during-the-use-of-low-dose-methotrexate-for-rheumatoid-arthritis-a-systematic-review-and-meta-analysis/)   -->
 
 
 

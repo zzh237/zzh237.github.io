@@ -1,12 +1,13 @@
 ---
-layout: post-index
-permalink: /downloads/research/hd_np/
-title: High-dimensional nonparametric statistics
-tagline: hd_np
+layout: post
+title: "High-dimensional nonparametric statistics"
+excerpt: "High-dimensional nonparametric statistics"
+modified: 2018-1-26T14:17:25-04:00
+categories: publication
 tags: [hd_np]
-comments: false
+comments: true
+share: true
 ---
-
 
 
 **Risk Bounds for Quantile Additive Trend Filtering.**  
