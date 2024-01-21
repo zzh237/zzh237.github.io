@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', function() {
       // 激活侧边栏的 "Publications" 标签
       sidebarCategories.forEach(function(category) {
         category.classList.remove('active');
-        if (category.dataset.filter === 'publications') {
+        if (category.dataset.filter === 'publication') {
           category.classList.add('active');
         }
       });
@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', function() {
       var publicationPosts = [];
       sidebarLinks.forEach(function(sidebarLink) {
         var postCategories = sidebarLink.dataset.tags.split(' ');
-        if (postCategories.includes('publications')) {
+        if (postCategories.includes('publication')) {
           publicationPosts.push(sidebarLink);
         }
       });
