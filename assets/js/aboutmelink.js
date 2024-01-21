@@ -20,6 +20,7 @@ document.addEventListener('DOMContentLoaded', function() {
         }
       });
 
+
       // 找到对应的侧边栏文章链接并触发点击事件
       // var found = false;
       // sidebarLinks.forEach(function(sidebarLink) {
@@ -39,16 +40,27 @@ document.addEventListener('DOMContentLoaded', function() {
       });
 
       // 隐藏所有侧边栏链接，只显示 "Publications" 文章
-      var found = false;
+  
       sidebarLinks.forEach(function(link) {
         link.style.display = 'none';
       });
       publicationPosts.forEach(function(link) {
         link.style.display = 'block';
+      });
+      var found = false;
+      publicationPosts.forEach(function(link) {
         if (link.innerText.trim() === clickedPostTitle) 
           link.click();
           found = true;
       });
+      // 找到对应的侧边栏文章链接并触发点击事件
+      // var found = false;
+      // sidebarLinks.forEach(function(sidebarLink) {
+      //   if (sidebarLink.innerText.trim() === clickedPostTitle) {
+      //     sidebarLink.click();
+      //     found = true;
+      //   }
+      // });
 
 
 
