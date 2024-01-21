@@ -1,6 +1,6 @@
 ---
 layout: post2
-title: About Me 
+title: 
 description: "Zhi Zhang's Website"
 tags: [Jekyll, theme, responsive, blog, template]
 # image:
