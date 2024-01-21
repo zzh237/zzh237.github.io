@@ -29,18 +29,22 @@
       <input id="search-input" type="text" placeholder="Search" />
     </div>
     <nav id="toc">
-      {% if site.filter == 'category' %}
-        {% for post in site.posts %}
-          <a class="toc-link" data-tags="{{ post.categories | join: ' ' }}" href="{{ post.url }}">
-            {{ post.title }}
-          </a>
-        {% endfor %}
-      {% elsif site.filter == 'tag' %}
-        {% for post in site.posts %}
-          <a class="toc-link" data-tags="{{ post.tags | join: ' ' }}" href="{{ post.url }}">
-            {{ post.title }}
-          </a>
-        {% endfor %}
+      {% if site.posts.size > 0 %}
+        {% if site.filter == 'category' %}
+          {% for post in site.posts %}
+            <a class="toc-link" data-tags="{{ post.categories | join: ' ' }}" href="{{ post.url }}">
+              {{ post.title }}
+            </a>
+          {% endfor %}
+        {% elsif site.filter == 'tag' %}
+          {% for post in site.posts %}
+            <a class="toc-link" data-tags="{{ post.tags | join: ' ' }}" href="{{ post.url }}">
+              {{ post.title }}
+            </a>
+          {% endfor %}
+        {% endif %}
+      {% else %}
+        <p>No posts found.</p>
       {% endif %}
     </nav>
   </div>
