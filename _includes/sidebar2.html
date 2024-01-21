@@ -33,19 +33,19 @@
     <nav id="toc">
       {% if site.filter == 'category' %}
         {% for post in site.posts %}
-        {% if post.url contains '/publications/' %}
+        <!-- {% if post.url contains '/publications/' %} -->
           <a class="toc-link" data-tags="{{ post.categories | join: ' ' }}" href="{{ post.url }}">
             {{ post.title }}
           </a>
-        {% endif %}
+        <!-- {% endif %} -->
         {% endfor %}
       {% elsif site.filter == 'tag' %}
         {% for post in site.posts %}
-        {% if post.url contains '/publications/' %}
+        <!-- {% if post.url contains '/publications/' %} -->
           <a class="toc-link" data-tags="{{ post.tags | join: ' ' }}" href="{{ post.url }}">
             {{ post.title }}
           </a>
-        {% endif %}
+        <!-- {% endif %} -->
         {% endfor %}
       {% endif %}
     </nav>
