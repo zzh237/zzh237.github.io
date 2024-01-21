@@ -1,81 +1,78 @@
 <!doctype html>
-<html class="no-js" lang="en">
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+
 <head>
-  {% include _head.html %}
-  <style type="text/css">
-    .article-wrap img{ border-radius: 5px; }
-    figure{ text-align: center; }
-    .container {
-      display: flex;
-      flex-wrap: wrap;
-    }
-    .sidebar {
-      flex: 1;
-      min-width: 250px; /* Adjust as necessary */
-      max-width: 250px; /* Adjust as necessary */
-    }
-    .content {
-      flex: 3;
-    }
-    .author-bio-and-about-me {
-      /* Add styles for the author bio and about me section */
-    }
-    .publications {
-      /* Add styles for the publications section */
-    }
-  </style>
+{% include _head.html %}
+
+<style type="text/css">
+  .article-wrap img{border-radius: 5px;}
+  figure{text-align: center;}
+</style>
+
 </head>
+
 <body class="page">
-  {% include _browser-upgrade.html %}
-  {% include _navigation.html %}
 
-  <div class="container">
-    <aside class="sidebar">
-      <div class="author-bio-and-about-me">
-        {% include _author-bio.html %}
-        <!-- Add the About Me markdown content here -->
-        <div class="about-me">
-          <h2>About Me</h2>
-          <p>I am a doctoral student in Statistics at UCLA. My areas of interest include:</p>
-          <ul>
-            <li><a href="/downloads/research/hd_np.md">High-dimensional nonparametric statistics</a></li>
-            <li><a href="/downloads/research/dl_gnn.md">Deep graph neural networks</a></li>
-            <li><a href="/downloads/research/rl.md">Multi-agent reinforcement learning</a></li>
-            <li><a href="/downloads/research/opt.md">Optimization with optimal control</a></li>
-            <li><a href="/downloads/research/epd.md">Statistical inference for Epidemiology</a></li>
-          </ul>
-        </div>
-      </div>
-    </aside>
-    <div class="content">
-      <!-- Place the main content here -->
-      {% if page.image.feature %}
-        <div class="image-wrap">
-          <img src="{{ page.image.feature | prepend: site.url }}" alt="{{ page.title }} feature image">
-          {% if page.image.credit %}
-            <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
-          {% endif %}
-        </div>
-      {% endif %}
-      <article>
-        <h1>{{ page.title }}</h1>
-        <div class="article-wrap">      
-          {{ content }}
-        </div>
-        {% if site.disqus_shortname and page.comments %}
-          <section id="disqus_thread"></section>
-        {% endif %}
-      </article>
+{% include _browser-upgrade.html %}
+
+{% include _navigation.html %}
+
+{% if page.image.feature %}
+  <div class="image-wrap">
+  <img src=
+    {% if page.image.feature contains 'http://' %}
+      "{{ page.image.feature }}"
+    {% elsif page.image.feature contains 'https://' %}
+      "{{ page.image.feature }}"
+    {% else %}
+      "{{ site.url }}{{ page.image.feature }}"
+    {% endif %}
+  alt="{{ page.title }} feature image">
+  {% if page.image.credit %}
+    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
+  {% endif %}
+  </div><!-- /.image-wrap -->
+{% endif %}
+
+
+<div id="main" role="main">
+  <div class="article-author-side">
+    {% include _author-bio.html %}
+  </div>
+  <article>
+    <h1>{{ page.title }}</h1>
+	
+    <div class="article-wrap">      
+      {{ content }}
+	  <!--
+      <a class="twitter-timeline" href="https://twitter.com/jponttuset" data-widget-id="338001751854686210">Tuits de @jponttuset</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+	  -->
     </div>
-  </div>
 
-  <!-- Footer -->
-  <div class="footer-wrap">
-    <footer>
-      {% include _footer.html %}
-    </footer>
-  </div>
+    {% if site.disqus_shortname and page.comments %}
+      <section id="disqus_thread"></section>
+    {% endif %}
 
-  {% include _scripts.html %}
+  </article>
+</div>
+
+
+<!-- <div class="footer-wrap">
+  <footer>
+    {% include _footer.html %}
+  </footer>
+</div> -->
+<!-- /.footer-wrap -->
+
+{% include _scripts.html %}
+
 </body>
-</html>
+
+
+
+
+
