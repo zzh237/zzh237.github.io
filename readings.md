@@ -1,7 +1,7 @@
 ---
 layout: code_layout
 permalink: /readings/
-title: Readings
+title: 
 tagline: A List of Reading Posts
 tags: [readings]
 comments: false
