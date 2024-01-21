@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: post
 title: 
-permalink: /teaching/
+category: teaching
 tags: [teaching]
-modified: 8-15-2017
+modified: 8-15-2023
 comments: false
 ---
 I have been fortunate to assist in the teaching of a number of courses during my time at UCLA. Below is a list of courses I have assisted with, along with some of the responsibilities I held.
