@@ -39,7 +39,7 @@
         {% endfor %}
       {% elsif site.filter == 'tag' %}
         <!-- {% for post in site.posts %} -->
-        {% if post.url contains '/publications/' %}
+        <!-- {% if post.url contains '/publications/' %} -->
           <a class="toc-link" data-tags="{{ post.tags | join: ' ' }}" href="{{ post.url }}">
             {{ post.title }}
           </a>
