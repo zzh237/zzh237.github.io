@@ -29,23 +29,31 @@
       <input id="search-input" type="text" placeholder="Search" />
     </div>
     <nav id="toc">
-      {% if site.posts.size > 0 %}
-        {% if site.filter == 'category' %}
-          {% for post in site.posts %}
-            <a class="toc-link" data-tags="{{ post.categories | join: ' ' }}" href="{{ post.url }}">
-              {{ post.title }}
-            </a>
-          {% endfor %}
-        {% elsif site.filter == 'tag' %}
-          {% for post in site.posts %}
-            <a class="toc-link" data-tags="{{ post.tags | join: ' ' }}" href="{{ post.url }}">
-              {{ post.title }}
-            </a>
-          {% endfor %}
+      {% assign recent_posts = site.posts | limit: 3 %}
+      {% assign active_category = page.category %}
+      {% assign active_tag = page.tag %}
+    
+      {% if active_category or active_tag %}
+        <!-- 显示选中分类或标签下的文章 -->
+        {% if active_category %}
+          {% assign filtered_posts = site.posts | where: "category", active_category %}
+        {% elsif active_tag %}
+          {% assign filtered_posts = site.posts | where: "tag", active_tag %}
         {% endif %}
+        {% for post in filtered_posts %}
+          <a class="toc-link" data-tags="{{ post.categories | join: ' ' }}" href="{{ post.url }}">
+            {{ post.title }}
+          </a>
+        {% endfor %}
       {% else %}
-        <p>No posts found.</p>
+        <!-- 默认显示最近的三篇文章 -->
+        {% for post in recent_posts %}
+          <a class="toc-link" data-tags="{{ post.categories | join: ' ' }}" href="{{ post.url }}">
+            {{ post.title }}
+          </a>
+        {% endfor %}
       {% endif %}
     </nav>
+    
   </div>
 </aside>
