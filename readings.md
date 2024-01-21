@@ -5,8 +5,8 @@ title:
 tagline: A List of Reading Posts
 tags: [readings]
 comments: false
-image:
-  feature: /images/website_images/beijing.jpg
+# image:
+#   feature: /images/website_images/beijing.jpg
 ---
 
 Matrix multiplication on GPUs may currently be the most important algorithm that exists,
