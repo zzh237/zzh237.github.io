@@ -36,9 +36,9 @@
       {% if active_category or active_tag %}
         <!-- 显示选中分类或标签下的文章 -->
         {% if active_category %}
-          {% assign filtered_posts = site.posts | where: "category", active_category %}
+          {% assign filtered_posts = site.posts | where: "category", active_category | limit: 3 %}
         {% elsif active_tag %}
-          {% assign filtered_posts = site.posts | where: "tag", active_tag %}
+          {% assign filtered_posts = site.posts | where: "tag", active_tag | limit: 3 %}
         {% endif %}
         {% for post in filtered_posts %}
           <a class="toc-link" data-tags="{{ post.categories | join: ' ' }}" href="{{ post.url }}">
