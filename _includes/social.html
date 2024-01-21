@@ -18,3 +18,7 @@
 {% if site.instagram %}
   <a href="https://www.instagram.com/{{ site.instagram }}" class="sidebar-social-icon instagram" target="_blank"></a>
 {% endif %}
+
+{% if site.owner.google_scholar %}
+  <a href="http://scholar.google.com/citations?user={{ site.google_scholar }}" class="sidebar-social-icon google_scholar" target="_blank"><i class="ai ai-google-scholar-square"></i>&nbsp; G. Scholar</a>
+{% endif %}
