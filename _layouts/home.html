@@ -8,27 +8,23 @@
 {% include _head.html %}
 
 <style type="text/css">
-  .article-wrap img{border-radius: 5px;}
-  figure{text-align: center;}
+  .article-wrap img { border-radius: 5px; }
+  figure { text-align: center; }
   
-  /* Adjust content layout */
-  #main {
-    display: flex;
-    flex-direction: column;
+  #main { 
+    display: flex; 
+    flex-direction: row; 
+    flex-wrap: wrap;
   }
-  
+
   .article-author-side {
-    order: 1; /* Place it after main content */
+    flex: 1; /* Assign flex grow factor */
+    max-width: 200px; /* Adjust width of the bio section */
+    margin-right: 20px; /* Add some space between bio and the text */
   }
 
   article {
-    order: 2;
-    width: 100%; /* Use full width */
-  }
-
-  /* Add some space between the bio and the rest of the content */
-  .article-author-side {
-    margin-top: 20px;
+    flex: 3; /* Assign flex grow factor */
   }
 
   /* Ensure images within content don't exceed their container */
@@ -43,10 +39,13 @@
       flex-direction: column;
     }
 
-    .article-author-side,
+    .article-author-side {
+      max-width: none;
+      margin-right: 0;
+    }
+
     article {
-      order: 0; /* Reset order on smaller screens */
-      width: auto; /* Full width on small screens */
+      order: 1;
     }
   }
 </style>
@@ -59,25 +58,11 @@
 
 {% include _navigation.html %}
 
-{% if page.image.feature %}
-  <div class="image-wrap">
-  <img src=
-    {% if page.image.feature contains 'http://' %}
-      "{{ page.image.feature }}"
-    {% elsif page.image.feature contains 'https://' %}
-      "{{ page.image.feature }}"
-    {% else %}
-      "{{ site.url }}{{ page.image.feature }}"
-    {% endif %}
-  alt="{{ page.title }} feature image">
-  {% if page.image.credit %}
-    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
-  {% endif %}
-  </div><!-- /.image-wrap -->
-{% endif %}
-
-
 <div id="main" role="main">
+  <!-- Author bio will go here -->
+  <div class="article-author-side">
+    {% include _author-bio.html %}
+  </div>
 
   <!-- Main article content -->
   <article>
@@ -89,27 +74,9 @@
       <section id="disqus_thread"></section>
     {% endif %}
   </article>
-
-  <!-- Author bio will go here -->
-  <div class="article-author-side">
-    {% include _author-bio.html %}
-  </div>
-
 </div>
-
-
-<!-- <div class="footer-wrap">
-  <footer>
-    {% include _footer.html %}
-  </footer>
-</div> -->
-<!-- /.footer-wrap -->
 
 {% include _scripts.html %}
 
 </body>
-
-
-
-
-
+</html>
