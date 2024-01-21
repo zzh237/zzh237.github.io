@@ -62,20 +62,20 @@
     <nav id="toc">
       {% if site.filter == 'category' %}
         {% assign posts_in_category = site.posts | where: 'category', page.category %}
-        {% for post in posts_in_category limit:3 %}
+        {% for post in posts_in_category limit:5 %}
           <a class="toc-link" data-tags="{{ post.categories | join: ' ' }}" href="{{ post.url }}">
             {{ post.title }}
           </a>
         {% endfor %}
       {% elsif site.filter == 'tag' %}
         {% assign posts_in_tag = site.posts | where: 'tags', page.tag %}
-        {% for post in posts_in_tag limit:3 %}
+        {% for post in posts_in_tag limit:5 %}
           <a class="toc-link" data-tags="{{ post.tags | join: ' ' }}" href="{{ post.url }}">
             {{ post.title }}
           </a>
         {% endfor %}
       {% else %}
-        {% for post in site.posts limit:3 %}
+        {% for post in site.posts limit:5 %}
           <a class="toc-link" data-tags="{{ post.categories | join: ' ' }}" href="{{ post.url }}">
             {{ post.title }}
           </a>
