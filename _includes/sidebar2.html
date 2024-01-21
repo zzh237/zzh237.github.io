@@ -30,20 +30,24 @@
     <div id="search-box">
       <input id="search-input" type="text" placeholder="Search" />
     </div>
-    <!-- <nav id="toc">
+    <nav id="toc">
       {% if site.filter == 'category' %}
         {% for post in site.posts %}
+        {% if post.url contains '/publications/' %}
           <a class="toc-link" data-tags="{{ post.categories | join: ' ' }}" href="{{ post.url }}">
             {{ post.title }}
           </a>
+        {% endif %}
         {% endfor %}
       {% elsif site.filter == 'tag' %}
         {% for post in site.posts %}
+        {% if post.url contains '/publications/' %}
           <a class="toc-link" data-tags="{{ post.tags | join: ' ' }}" href="{{ post.url }}">
             {{ post.title }}
           </a>
+        {% endif %}
         {% endfor %}
       {% endif %}
-    </nav> -->
+    </nav>
   </div>
 </aside>
