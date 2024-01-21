@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching Experience
+title: 
 permalink: /teaching/
 tags: [teaching]
 modified: 8-15-2017
