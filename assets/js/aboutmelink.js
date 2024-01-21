@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', function() {
       // 找到对应的侧边栏文章链接并触发点击事件
       var found = false;
       sidebarLinks.forEach(function(sidebarLink) {
-        if (sidebarLink.innerText.trim() === 'Deep graph neural networks') {
+        if (sidebarLink.innerText.trim() === clickedPostTitle) {
           sidebarLink.click();
           found = true;
         }
