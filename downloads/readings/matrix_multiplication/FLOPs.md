@@ -1,5 +1,5 @@
 ---
-layout: post-index
+layout: code_layout
 permalink: /downloads/readings/matrix_multiplication/FLOPs/
 title: FLOPs
 tagline: FLOPs

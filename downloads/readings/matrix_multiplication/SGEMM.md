@@ -1,5 +1,5 @@
 ---
-layout: post-index
+layout: code_layout
 permalink: /downloads/readings/matrix_multiplication/SGEMM/
 title: SGEMM
 tagline: SGEMM
