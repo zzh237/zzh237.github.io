@@ -12,7 +12,7 @@
 
     <ul id="sidebar-tags">
       <!-- <li class="sidebar-tag active" data-filter="recent">最新文章</li> -->
-      <!-- <li class="sidebar-tag active" data-filter="recent">{{ category | first }}</li> -->
+      <li class="sidebar-tag active" data-filter="recent">{{ category | first }}</li>
       {% if site.filter == 'category' %}
         {% for category in site.categories %}
           <li class="sidebar-tag" data-filter="{{ category | first }}">{{ category | first }}</li>
