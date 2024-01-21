@@ -8,8 +8,23 @@ layout: compress
     {% include sidebar2.html %}
     {% include scripts.html %}
     {% include mathjax.html %}
+    
+    <!-- Include your custom JavaScript file -->
+    <script src="{{ '/assets/js/aboutmelink.js' | prepend: site.baseurl }}"></script>
 
     <main id="main" class="open">
+       <!-- About Me section -->
+      <section id="about-me">
+        <h1>About Me</h1>
+        <p>I am a doctoral student in Statistics at UCLA. My areas of interest include:</p>
+        <ul>
+          <li><a href="/_posts/publications/2024-01-21-hd_np.md" class="about-me-link">High-dimensional nonparametric statistics</a></li>
+          <li><a href="/_posts/publications/2024-01-21-dl_gnn.md" class="about-me-link">Deep graph neural networks</a></li>
+          <li><a href="/_posts/publications/2024-01-21-rl.md" class="about-me-link">Multi-agent reinforcement learning</a></li>
+          <li><a href="/_posts/publications/2024-01-21-opt.md" class="about-me-link">Optimization with optimal control</a></li>
+          <li><a href="/_posts/publications/2024-01-21-epd.md" class="about-me-link">Statistical inference for Epidemiology</a></li>
+        </ul>
+      </section>
       {{ content }}
 
       <div class="footer">
