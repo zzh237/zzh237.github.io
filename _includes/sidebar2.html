@@ -11,16 +11,17 @@
     </div>
 
     <ul id="sidebar-tags">
-      <!-- Always set the "publications" filter as active -->
-      <li class="sidebar-tag active" data-filter="publications">Publications</li>
-      <!-- List other categories based on site.filter setting -->
-      <!-- List other categories as non-active -->
-      {% for category in site.categories %}
-      {% unless category[0] == 'publications' %}
-        <li class="sidebar-tag" data-filter="{{ category | first }}">{{ category | first }}</li>
-      {% endunless %}
-      {% endfor %}
-    </ul>    
+      <!-- <li class="sidebar-tag active" data-filter="recent">最新文章</li> -->
+      {% if site.filter == 'category' %}
+        {% for category in site.categories %}
+          <li class="sidebar-tag" data-filter="{{ category | first }}">{{ category | first }}</li>
+        {% endfor %}
+      {% elsif site.filter == 'tag' %}
+        {% for tag in site.tags %}
+          <li class="sidebar-tag" data-filter="{{ tag | first }}">{{ tag | first }}</li>
+        {% endfor %}
+      {% endif %}
+    </ul>  
   </div>
 
   <div id="sidebar-right">
