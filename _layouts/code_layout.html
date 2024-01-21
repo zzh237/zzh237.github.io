@@ -17,6 +17,19 @@
             /* Other styles */
         }
         /* Other custom styles */
+        #main {
+            display: flex;
+            justify-content: left; /* Centers the article-wrap on the main axis */
+            align-items: start; /* Aligns the article-wrap to the top of the main container */
+        }
+
+        .article-wrap {
+            max-width: 800px; /* Adjust the max width as needed */
+            width: 100%;
+            padding: 20px; /* Adds some padding around the content */
+            /* Optional: center the text if that's what you prefer */
+            text-align: left; 
+        }
     </style>
 </head>
 
@@ -44,9 +57,6 @@
 {% endif %}
 
 <div id="main" role="main">
-  <div class="article-author-side">
-    {% include _author-bio.html %}
-  </div>
   <article>
     <h1>{{ page.title }}</h1>
     <div class="article-wrap">
