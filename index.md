@@ -1,15 +1,12 @@
 ---
 layout: home
-title:
+title: About Me 
 description: "Zhi Zhang's Website"
 tags: [Jekyll, theme, responsive, blog, template]
 # image:
 #   feature: /images/website_images/beijing.jpg
 ---
 
-
----
-#### About Me 
 I am a doctoral student in Statistics at UCLA. My areas of interest include:
 - [High-dimensional nonparametric statistics](/downloads/research/hd_np.md)
 - [Deep graph neural networks](/downloads/research/dl_gnn.md)
