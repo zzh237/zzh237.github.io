@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
   document.querySelectorAll('.about-me-link').forEach(function(link) {
     link.addEventListener('click', function(event) {
       // 取消默认的链接跳转行为
-      event.preventDefault();
+      //event.preventDefault();
 
       // 获取点击的链接对应的文章标题
       var clickedPostTitle = link.innerText;
