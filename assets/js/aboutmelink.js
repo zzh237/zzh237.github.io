@@ -34,7 +34,9 @@ document.addEventListener('DOMContentLoaded', function() {
         link.style.display = 'block';
       });
 
-      // 现在，您可以根据需要添加更多的逻辑，例如跳转到链接的目标页面等
+      // 跳转到链接的目标页面
+      window.location.href = link.getAttribute('href');
+
     });
   });
 });
