@@ -7,15 +7,6 @@ tags: [Jekyll, theme, responsive, blog, template]
 #   feature: /images/website_images/beijing.jpg
 ---
 
-
----
-#### About Me 
-I am a doctoral student in Statistics at UCLA. My areas of interest include:
-- [High-dimensional nonparametric statistics](/downloads/research/hd_np.md)
-- [Deep graph neural networks](/downloads/research/dl_gnn.md)
-- [Multi-agent reinforcement learning](/downloads/research/rl.md)
-- [Optimization with optimal control](/downloads/research/opt.md) 
-- [Statistical inference for Epidemiology](/downloads/research/epd.md)
  
 #### Publications/Preprints
 
