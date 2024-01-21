@@ -1,61 +1,56 @@
+# Site settings
 title: Zhi Zhang's Website
-description: Welcome to my site.
-url: https://zzh237.github.io
+email: zzh237@g.ucla.edu
+description: > # this means to ignore newlines until "baseurl:"
+  Welcome to my site.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: https://zzh237.github.io # the base hostname & protocol for your site
+rss_url: /pages/feed.xml
+author: Zhi Zhang
 
-# Owner/author information
-owner:
-  name: Zhi Zhang (Zach)
-  avatar: /author_images/zz_2023.jpg
-  bio: PhD student in Statistics at UCLA
-  email: zzh237@g.ucla.edu
-  google_scholar: O__axAoAAAAJ
-  github: zzh237
+# Sidebar filter
+# Choose 'tag' or 'category' as filter in sidebar.
+filter: 'category'
+recent_num: 20
 
-# Social networking links are used in author-bio sidebar.
-twitter: 
-linkedin: # Add your LinkedIn profile if you have one
-#google_plus: 
-#facebook: 
+# Social account
+# twitter: 
+# weibo: 
+google_scholar: O__axAoAAAAJ
+github: zzh237
+# instagram: 
+# linkedin: 
+
+# avatar and Favicon
+avatar: /img//author_images/zz_2023.jpg
+favicon: /img/favicon.ico
+
+# comment config
+disqus:
+  shortname: zzh237
+
+# google analytics config
+ga:
+  id: UA-105680508-1
+  url: zzh237.github.io
 
 # Analytics and webmaster tools
 google_analytics: UA-105680508-1
 google_verify: KFWZJ6GsxCUxQRDDrkkQJ2jgRDVUdgUbTMXXltDss84
 bing_verify:
 
-
-# Links to include in top navigation
-# For external links add external: true
-links:
-  # - title: Personal
-  #   url: /personal/
-  # - title: Readings
-  #   url: /readings/
-  # - title: Teaching
-  #   url: /teaching/
-
- 
-
-# Navigation bar links
-navbar-links: 
-  Home: "index"
-  Bio: "bio"
-  Research: "research"
-  Publications: "publications"
-  Teaching: "teaching"
-  Resume: "CV.pdf"
-
-# Site settings
-timezone: America/Los_Angeles
-highlighter: rouge
+# Build settings
+permalink: /:year/:month/:day/:title.html # 
 markdown: kramdown
-mathjax: true
+highlighter: rouge
+mathjax: enabled  # disabled
+sass:
+  style: compressed
 
-# Permalinks
-permalink: /:categories/:title/
+# Jekyll Plugin
+# https://help.github.com/articles/adding-jekyll-plugins-to-a-github-pages-site/
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
 
-# Include and exclude files
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
-
-# You may need to update the structure of your HTML and CSS files 
-# to match the layout of Tim's website if necessary.
