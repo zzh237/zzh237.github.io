@@ -10,7 +10,7 @@ comments: false
 
 **Reinforcement Learning Under a Multi-agent Predictive State Representation Model: Method and Theory.**  
 **Zhi Zhang**, Zhuoyan Yang, Han Liu, Furong Huang.  
-*ICLR2022 Spotlight.* [link](https://openreview.net/forum?id=PLDOnFoVm4)  
+*ICLR2022 Spotlight.* [link](https://openreview.net/pdf?id=PLDOnFoVm4)  
 
 <br>
 
