@@ -3,7 +3,7 @@ layout: post
 title: "Simulated Intelligent Robot Tracking Agent"
 excerpt: "Simulated Intelligent Robot Tracking Agent"
 modified: 2018-1-26T14:17:25-04:00
-categories: project
+category: project
 tags: [deep learning, robotics]
 comments: true
 share: true

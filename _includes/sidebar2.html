@@ -17,7 +17,7 @@
       <!-- List other categories as non-active -->
       {% for category in site.categories %}
       {% unless category[0] == 'publications' %}
-        <li class="sidebar-tag" data-filter="{{ category[0] }}">{{ category[0] | capitalize }}</li>
+        <li class="sidebar-tag" data-filter="{{ category | first }}">{{ category | first }}</li>
       {% endunless %}
       {% endfor %}
     </ul>    
