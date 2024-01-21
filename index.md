@@ -14,7 +14,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 - [Optimization with optimal control](/_posts/publications/2024-01-21-opt.md) 
 - [Statistical inference for Epidemiology](/_posts/publications/2024-01-21-epd.md) -->
  
-<!-- #### Publications/Preprints
+#### Publications/Preprints
 
 ---
 
@@ -105,7 +105,7 @@ Alyssa Wohlfahrt, **Zhi Zhang**, Bing Lu, Clifton O. Bingham III, Marcy B. Bolst
 
 **Prevalence of Cytopenias Associated with Low-Dose Methotrexate and Folic Acid Among Patients with RA: A Systematic Review and Meta-Analysis.**  
 Katheeln Vinny, **Zhi Zhang**, Danial Soloman.  
-*2017 ACR/ARHP Annual Meeting.* [link](https://acrabstracts.org/abstract/hematologic-abnormalities-during-the-use-of-low-dose-methotrexate-for-rheumatoid-arthritis-a-systematic-review-and-meta-analysis/)   -->
+*2017 ACR/ARHP Annual Meeting.* [link](https://acrabstracts.org/abstract/hematologic-abnormalities-during-the-use-of-low-dose-methotrexate-for-rheumatoid-arthritis-a-systematic-review-and-meta-analysis/)  
 
 
 
