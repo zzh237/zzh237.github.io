@@ -21,13 +21,36 @@ document.addEventListener('DOMContentLoaded', function() {
       });
 
       // 找到对应的侧边栏文章链接并触发点击事件
-      var found = false;
+      // var found = false;
+      // sidebarLinks.forEach(function(sidebarLink) {
+      //   if (sidebarLink.innerText.trim() === clickedPostTitle) {
+      //     sidebarLink.click();
+      //     found = true;
+      //   }
+      // });
+
+      // 显示 "Publications" 分类下的文章
+      var publicationPosts = [];
       sidebarLinks.forEach(function(sidebarLink) {
-        if (sidebarLink.innerText.trim() === clickedPostTitle) {
-          sidebarLink.click();
-          found = true;
+        var postCategories = sidebarLink.dataset.tags.split(' ');
+        if (postCategories.includes('publication')) {
+          publicationPosts.push(sidebarLink);
         }
       });
+
+      // 隐藏所有侧边栏链接，只显示 "Publications" 文章
+      var found = false;
+      sidebarLinks.forEach(function(link) {
+        link.style.display = 'none';
+      });
+      publicationPosts.forEach(function(link) {
+        link.style.display = 'block';
+        if (link.innerText.trim() === clickedPostTitle) 
+          link.click();
+          found = true;
+      });
+
+
 
       // 如果没有找到对应的文章链接，则可能需要考虑重定向或其他行为
       if (!found) {
