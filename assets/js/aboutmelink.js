@@ -1,29 +1,61 @@
 document.addEventListener('DOMContentLoaded', function() {
+  // Define the publication category
+  var publicationCategory = 'publications'; // Make sure this matches your category name
+
   document.querySelectorAll('.about-me-link').forEach(function(link) {
     link.addEventListener('click', function(event) {
       event.preventDefault();
-
       var targetUrl = link.getAttribute('href');
-      var sidebarLink = document.querySelector('#sidebar-right .toc-link[href="' + targetUrl + '"]');
-
+      
+      // Hide all non-publication links in the sidebar
       var sidebarLinks = document.querySelectorAll('#sidebar-right .toc-link');
-      var publicationCategory = 'publications'; // This should match your publications category exactly.
-
-      // Hide all links in the sidebar that are not publications
       sidebarLinks.forEach(function(sidebarLink) {
-        var isPublication = sidebarLink.dataset.tags.split(' ').includes(publicationCategory);
-        sidebarLink.style.display = isPublication ? 'block' : 'none';
+        var postCategories = sidebarLink.dataset.tags.split(' ');
+        if (!postCategories.includes(publicationCategory)) {
+          sidebarLink.style.display = 'none'; // Hide non-publication links
+        }
       });
 
-      // Click the sidebar link if it exists
-      if (sidebarLink) {
-        sidebarLink.click();
+      // Find and click the sidebar link for the publication
+      var publicationLink = Array.from(sidebarLinks).find(function(sidebarLink) {
+        return sidebarLink.href.endsWith(targetUrl);
+      });
+
+      if (publicationLink) {
+        publicationLink.click(); // Click the publication link if it exists
       } else {
-        window.location.href = targetUrl;
+        window.location.href = targetUrl; // Redirect to the publication if the sidebar link doesn't exist
       }
     });
   });
 });
+
+// document.addEventListener('DOMContentLoaded', function() {
+//   document.querySelectorAll('.about-me-link').forEach(function(link) {
+//     link.addEventListener('click', function(event) {
+//       event.preventDefault();
+
+//       var targetUrl = link.getAttribute('href');
+//       var sidebarLink = document.querySelector('#sidebar-right .toc-link[href="' + targetUrl + '"]');
+
+//       var sidebarLinks = document.querySelectorAll('#sidebar-right .toc-link');
+//       var publicationCategory = 'publications'; // This should match your publications category exactly.
+
+//       // Hide all links in the sidebar that are not publications
+//       sidebarLinks.forEach(function(sidebarLink) {
+//         var isPublication = sidebarLink.dataset.tags.split(' ').includes(publicationCategory);
+//         sidebarLink.style.display = isPublication ? 'block' : 'none';
+//       });
+
+//       // Click the sidebar link if it exists
+//       if (sidebarLink) {
+//         sidebarLink.click();
+//       } else {
+//         window.location.href = targetUrl;
+//       }
+//     });
+//   });
+// });
 
 
 
