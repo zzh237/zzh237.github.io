@@ -17,11 +17,21 @@ tags: [Jekyll, theme, responsive, blog, template]
 #### Publications/Preprints
 
 ---
+**Unlocking the Potential of Text-to-Image Diffusion with PAC-Bayesian Theory.**  
+Eric Hanchen Jiang, Yasi Zhang, **Zhi Zhang**, Yixin Wan, Andrew Lizarraga, Shufan Li, and Ying Nian Wu.  
+*In Submission.* [link](https://arxiv.org/pdf/2411.17472)  
 
+<br>
 
-**Risk Bounds for Quantile Additive Trend Filtering.**  
+**Statistical guarantees for lifelong reinforcement learning using pac-bayesian theory.**
+**Zhi Zhang**, Chris Chow, Yasi Zhang, Yanchao Sun, Haochen Zhang, Eric Hanchen Jiang, Han Liu, Furong Huang, Yuchen Cui, Oscar Madrid Padilla.  
+*AISTATS 2025.* [link](https://arxiv.org/pdf/2411.00401)
+
+<br>
+
+**Quantile Additive Trend Filtering.**  
 **Zhi Zhang**, Kyle Ritscher, Oscar Madrid Padilla.  
-*In Submission.* [link](https://arxiv.org/pdf/2310.11711.pdf)  
+*AISTATS 2025.* [link](https://arxiv.org/pdf/2310.11711.pdf)  
 
 <br>
 
