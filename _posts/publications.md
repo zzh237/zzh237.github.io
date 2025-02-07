@@ -11,7 +11,9 @@ comments: false
 
 
 ####  Publications
---- 
+---
+* Eric Hanchen Jiang, Yasi Zhang, Zhi Zhang, Yixin Wan, Andrew Lizarraga, Shufan Li, and Ying Nian Wu. Unlocking the Potential of Text-to-Image Diffusion with PAC-Bayesian Theory. In Submission. [link](https://arxiv.org/pdf/2411.17472)
+
 * Zhi Zhang, Chris Chow, Yasi Zhang, Yanchao Sun, Haochen Zhang, Eric Hanchen Jiang, Han Liu, Furong Huang, Yuchen Cui, Oscar Madrid Padilla. Statistical guarantees for lifelong reinforcement learning using pac-bayesian theory. AISTATS 2025 [link](https://arxiv.org/pdf/2411.00401)
  
 * Zhi Zhang, Kyle Ritscher, Oscar Madrid Padilla. Risk Bounds for Quantile Additive Trend Filtering. AISTATS 2025 [link](https://arxiv.org/pdf/2310.11711.pdf)
