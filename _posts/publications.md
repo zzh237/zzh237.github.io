@@ -12,8 +12,9 @@ comments: false
 
 ####  Publications
 --- 
+* Zhi Zhang, Chris Chow, Yasi Zhang, Yanchao Sun, Haochen Zhang, Eric Hanchen Jiang, Han Liu, Furong Huang, Yuchen Cui, Oscar Madrid Padilla. Statistical guarantees for lifelong reinforcement learning using pac-bayesian theory. AISTATS 2025 [link](https://arxiv.org/pdf/2411.00401)
  
-* Zhi Zhang, Kyle Ritscher, Oscar Madrid Padilla. Risk Bounds for Quantile Additive Trend Filtering. In Submission [link](https://arxiv.org/pdf/2310.11711.pdf)
+* Zhi Zhang, Kyle Ritscher, Oscar Madrid Padilla. Risk Bounds for Quantile Additive Trend Filtering. AISTATS 2025 [link](https://arxiv.org/pdf/2310.11711.pdf)
 
 * Zhi Zhang, Weijian Li, Han Liu, Multivariate Time Series Forecasting By Graph Attention Networks With Theoretical Guarantees. AISTATS 2024.  
 
