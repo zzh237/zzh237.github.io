@@ -8,6 +8,8 @@ tags: [Jekyll, theme, responsive, blog, template]
 ---
 
 <!-- I am a doctoral student in Statistics at UCLA. My areas of interest include:
+- [Large Language Models]
+- [Vision Language Models, text-to-image diffusion]
 - [High-dimensional nonparametric statistics](/_posts/publications/2024-01-21-hd_np.md)
 - [Deep graph neural networks](/_posts/publications/2024-01-21-dl_gnn.md)
 - [Multi-agent reinforcement learning](/_posts/publications/2024-01-21-rl.md)
