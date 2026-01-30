@@ -7,7 +7,7 @@ subtitle: PhD Candidate@<a href='https://www.ucla.edu/'>UCLA</a>. Reinforcement 
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: personal.jpg
   image_circular: false # crops the image to make it circular
   address: >
     
