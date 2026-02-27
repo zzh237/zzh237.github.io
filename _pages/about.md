@@ -37,4 +37,4 @@ I have published at top venues including **ICLR** (Spotlight), **AISTATS**, **Ne
 
 ### 🔍 How to Evaluate AI Agents?
 
-**[Strands Evals SDK](https://strandsagents.com/latest/)** - A comprehensive evaluation framework for AI agents and LLM applications. From simple output validation to complex multi-agent interaction analysis, trajectory evaluation, and automated experiment generation, Strands Evaluation provides comprehensive tools to measure and improve your AI systems.
+Check out **[Strands Evals](https://strandsagents.com/latest/)** - a clean framework for agent evaluation.
