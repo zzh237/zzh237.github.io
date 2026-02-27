@@ -37,4 +37,4 @@ I have published at top venues including **ICLR** (Spotlight), **AISTATS**, **Ne
 
 ### 🔍 How to Evaluate AI Agents?
 
-Check out **[Strands Evals](https://strandsagents.com/latest/)** - a clean framework for agent evaluation.
+**[Strands Evals](https://strandsagents.com/latest/)** - An evaluation framework for agentic AI systems, supporting trajectory analysis, multi-agent interactions, and automated testing.
