@@ -32,3 +32,9 @@ My research focuses on **LLM post-training and RL fine-tuning** (GRPO, PPO, RLHF
 - **Multi-Agent RL**: Designing algorithms for cooperative and competitive multi-agent systems
 
 I have published at top venues including **ICLR** (Spotlight), **AISTATS**, **NeurIPS**, and **AAMAS**, and serve as a reviewer for ICML, NeurIPS, AISTATS, and ICLR.
+
+---
+
+### 🔍 How to Evaluate AI Agents?
+
+**[Strands Evals SDK](https://strandsagents.com/latest/user-guide/evaluation/)** - A comprehensive evaluation framework for AI agents and LLM applications. From simple output validation to complex multi-agent interaction analysis, trajectory evaluation, and automated experiment generation, Strands Evaluation provides comprehensive tools to measure and improve your AI systems.
