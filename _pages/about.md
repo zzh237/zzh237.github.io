@@ -31,7 +31,7 @@ My research focuses on **LLM post-training and RL fine-tuning** (GRPO, PPO, RLHF
 - **Agentic AI**: Building intelligent agents that can reason, plan, and execute complex tasks
 - **Multi-Agent RL**: Designing algorithms for cooperative and competitive multi-agent systems
 
-I have published at top venues including **ICLR** (Spotlight), **AISTATS**, **NeurIPS**, and **AAMAS**, and serve as a reviewer for ICML, NeurIPS, AISTATS, and ICLR.
+I have published at top venues including **ICLR** (Spotlight), **AISTATS**, **NeurIPS**, **COLM**, and **AAMAS**, and serve as a reviewer for ICML, NeurIPS, AISTATS, and ICLR.
 
 ---
 
