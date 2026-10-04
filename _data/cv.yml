@@ -16,8 +16,3 @@
       year: Summer 2025
       description:
         - Developed AERO (Adaptive Efficient Rollout Optimization) for RL-based LLM fine-tuning
-    - title: AI Research Intern
-      institution: eBay
-      year: Summer 2024
-      description:
-        - Built ReflexAgent for agentic NER

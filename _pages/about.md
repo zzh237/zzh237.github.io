@@ -22,7 +22,7 @@ experiences: true  # includes a list of experience items
 
 👋 Hi! I am Zhi Zhang (Zach), a PhD candidate in the Department of [Statistics and Data Science](https://statistics.ucla.edu/) at [UCLA](https://www.ucla.edu/). I'm fortunate to be advised by Prof. [Arash Amini](https://arash-amini.github.io/). 
 
-Previously, I conducted an Applied Scientist internship at [AWS AI](https://aws.amazon.com/) (Summer 2025), where I developed **AERO** (Adaptive Efficient Rollout Optimization) for RL-based LLM fine-tuning, and an AI Research internship at [eBay](https://www.ebay.com/) (Summer 2025), where I built **ReflexAgent** for agentic NER. I hold degrees from Northwestern University (Ph.D. in CS, completed with M.S.), UC Davis (M.S. in Statistics), and Georgia Tech (M.S. in CS).
+Previously, I conducted an Applied Scientist internship at [AWS AI](https://aws.amazon.com/) (Summer 2025), where I developed **AERO** (Adaptive Efficient Rollout Optimization) for RL-based LLM fine-tuning. I hold degrees from Northwestern University (Ph.D. in CS, completed with M.S.), UC Davis (M.S. in Statistics), and Georgia Tech (M.S. in CS).
 
 My research focuses on **LLM post-training and RL fine-tuning** (GRPO, PPO, RLHF), **compute efficiency optimization**, **Agentic AI systems**, and **multi-agent reinforcement learning**. I'm particularly interested in:
 
